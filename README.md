@@ -1,1 +1,1 @@
-# danmaq.article
+# danmaq articles
