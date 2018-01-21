@@ -7,7 +7,7 @@ draft: false
 
 # おとうさん
 
-![おとうさん](../../assets/illustration/1986_0613_father.jpg)
+![おとうさん](../../../assets/illustration/1986_0613_father.jpg)
 
 父の日に書いたイラスト。 当時は三つ目属性にはまっていた。
 
