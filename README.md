@@ -2,4 +2,4 @@
 draft: true
 ---
 
-# danmaq articles
+# Articles markdown for danmaq.com
