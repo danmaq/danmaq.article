@@ -1,11 +1,10 @@
 ---
 title: "おとうさん"
 post_id: "6345"
-date: "1986-06-13T11:00:00Z"
+date: "1986-06-13T11:00:00+09:00"
 draft: false
 ---
 
-# おとうさん
 
 ![おとうさん](../../../assets/illustration/1986_0613_father.jpg)
 

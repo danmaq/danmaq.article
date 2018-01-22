@@ -1,11 +1,10 @@
 ---
 title: "EVIL MAGIC ～ 邪の魔術"
 post_id: "1103"
-date: "2013-12-29T16:00:03Z"
+date: "2013-12-29T16:00:03+09:00"
 draft: false
 ---
 
-# EVIL MAGIC ～ 邪の魔術
 
 * [全 180 ページ中 69 ページまで公開！体験版 PDF を読む](/filez/em_trial.pdf) ([filesize]https://danmaq.com/filez/em_trial.pdf[/filesize])
 

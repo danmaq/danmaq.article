@@ -1,13 +1,12 @@
 ---
 title: "同人活動"
 post_id: "3228"
-date: "2004-12-28T00:00:58Z"
+date: "2004-12-28T00:00:58+09:00"
 draft: false
 ---
 
-# 同人活動
 
-ゲームプログラミングがメインですが、ゲーム以外のプログラミング(Webアプリなど)や楽曲作成、イラスト作成などもしています。 
+ゲームプログラミングがメインですが、ゲーム以外のプログラミング(Webアプリなど)や楽曲作成、イラスト作成などもしています。
 
   * (2011/Webアプリ)[NUE - Network Utterance Environment](/nue)
   * (2009/Webアプリ)[ソクラテスは死ぬ](http://prodigy-inc.co.jp/labo/socrates/)(運営:[(株)PRODIGY](http://prodigy-inc.co.jp/))
@@ -21,7 +20,7 @@ draft: false
   * (2004/ゲーム)[幻寇戦乱録](/touhou-pcb-g)
   * (2004/ゲーム)[紅魔郷Phantasm](/tag/touhou-eosd-phantasm)
   * (2000/ゲーム)[牛チョップ](/choppin)・[Mk-IIK他](/mk-iik)
-**以下は参加企画**
+## 以下は参加企画
 
   * (2011/ゲーム)_[結界幻想禄 鏡](http://kagaminer.in/): プログラム担当_
   * (2006/イラスト)[Coolierの絵師さん合同合作イラスト](/3522)

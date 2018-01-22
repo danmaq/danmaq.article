@@ -1,11 +1,10 @@
 ---
 title: "携帯版 DanceDanceRevolution"
 post_id: "6623"
-date: "1999-04-08T00:00:27Z"
+date: "1999-04-08T00:00:27+09:00"
 draft: false
 ---
 
-# 携帯版 DanceDanceRevolution
 
 > 1999 年 X 月、コナミの “ダンスダンスレボリューション” がついに携帯ゲーム化！その名も……！
 

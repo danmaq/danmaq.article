@@ -1,20 +1,19 @@
 ---
 title: "連絡先情報"
 post_id: 285
-date: "2012-11-27T23:00:27Z"
+date: "2012-11-27T23:00:27+09:00"
 draft: false
 ---
 
-# 連絡先情報
 
-**◆直接連絡が取れる連絡先**
+## ◆直接連絡が取れる連絡先
 
   * **連絡などは原則[Twitter: @danmaq](http://twitter.com/danmaq)で。**
   * メールアドレスや住所、電話番号などに関しては、[個人通販ページ “e-danmaq”](https://www1n.sppd.ne.jp/danmaq.com/e-danmaq/index.cgi?type=shopinfo)をご参照ください。 (不在の場合が非常に多いため、事務所へお越しの方は必ずメールなどで事前にご予約お願いします)
   * [Skype: nomura_dmq](skype:nomura_dmq)
   * [Windows Messenger: yasaimura@hotmail.com](mailto:yasaimura@hotmail.com) 携帯メール兼用です。
   * (スパムが本当に多いので、誤ブロックしてしまったらメールでその旨お伝えください)
-**◆その他、参加しているSNS** ※リストの中で、上の物ほど頻繁に活動しています。 
+**◆その他、参加しているSNS** ※リストの中で、上の物ほど頻繁に活動しています。
 
   * [Twitter: @danmaq](http://twitter.com/danmaq)
   * [Facebook: danmaq](http://www.facebook.com/danmaq)
@@ -34,9 +33,9 @@ draft: false
   * \--- この辺がかなり非活動的と放置レベルの境界線 ---
   * [ICQ: 45692231](http://www.icq.com/people/45692231)
   * [Ciel](http://craft1.com.comuu.jp/?m=pc&a=page_f_home&target_c_member_id=33) [要アカウント登録]
-  * [my日本](http://sns.mynippon.jp/?m=pc&a=page_f_home&target_c_member_id=33828) [要アカウント登録]  
+  * [my日本](http://sns.mynippon.jp/?m=pc&a=page_f_home&target_c_member_id=33828) [要アカウント登録]
 (この辺って大抵同じWebSNSシステム使ってるんだろうなぁ。そういうWordPressのようなもやつのSNS版みたいなのがあるのだろうか 'Ａ｀)
-**◆注意事項**
+## ◆注意事項
 
   * またーりと。
   * ここの注意事項が少ないほど春満開or閑古鳥。

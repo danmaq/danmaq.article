@@ -1,13 +1,12 @@
 ---
 title: "Unity落ちたボタン"
 post_id: "5724"
-date: "2014-05-30T19:34:17Z"
+date: "2014-05-30T19:34:17+09:00"
 draft: false
 ---
 
-# Unity落ちたボタン
 
-[https://danmaq.com/unitycrash/](/unitycrash/) 短縮版URL <http://dmq.cm/unitycrash> ■使い方 
+[https://danmaq.com/unitycrash/](/unitycrash/) 短縮版URL <http://dmq.cm/unitycrash> ■使い方
 
   1. Unityが落ちた時に上記ページを開きます。
   2. ボタンを押します。
