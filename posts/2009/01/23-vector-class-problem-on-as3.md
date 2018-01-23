@@ -5,11 +5,12 @@ date: "2009-01-23T00:00:00+09:00"
 draft: false
 ---
 
+FlexSDK3.2 で下記のプログラムを動かしたところ、Vector インスタンス作るところで強制型変換との例外が飛んでくる。
+とりあえず帰宅後要調査ってことでメモ。
 
-FlexSDK3.2 で下記のプログラムを動かしたところ、Vector インスタンス作るところで強制型変換との例外が飛んでくる。とりあえず帰宅後要調査ってことでメモ。
 ## ソース
 
-```JavaScript
+```ActionScript
 import flash.display.Sprite;
 public class ASTest extends Sprite{
   public function ASTest(){ trace( Foo ); }
@@ -24,7 +25,7 @@ public class Foo{
 }
 ```
 
-**出力**
+## 出力
 
 ```
 TypeError: Error #1034: 強制型変換に失敗しました。Vector.<*>@13baa19 を __AS3__.vec.Vector.<Foo> に変換できません。
