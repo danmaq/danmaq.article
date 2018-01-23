@@ -3,6 +3,8 @@ title: "またVectorのバグか？"
 post_id: "3690"
 date: "2009-01-23T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 FlexSDK3.2 で下記のプログラムを動かしたところ、Vector インスタンス作るところで強制型変換との例外が飛んでくる。

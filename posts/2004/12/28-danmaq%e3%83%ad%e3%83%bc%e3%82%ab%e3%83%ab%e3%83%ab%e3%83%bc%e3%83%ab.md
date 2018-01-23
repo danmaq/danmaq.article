@@ -3,6 +3,8 @@ title: "danmaqローカルルール"
 post_id: "3219"
 date: "2004-12-28T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

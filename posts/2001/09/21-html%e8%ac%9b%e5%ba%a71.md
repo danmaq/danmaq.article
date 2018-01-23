@@ -3,6 +3,8 @@ title: "HTML講座1"
 post_id: "3016"
 date: "2001-09-21T15:19:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 ```HTML

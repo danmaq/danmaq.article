@@ -3,6 +3,8 @@ title: "自分に正直になれ"
 post_id: "3705"
 date: "2011-04-01T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 [【ニコニコ動画】鏡音レンの顔に引力を持たせてみた【結城リト的な意味で】](http://www.nicovideo.jp/watch/sm14003977)

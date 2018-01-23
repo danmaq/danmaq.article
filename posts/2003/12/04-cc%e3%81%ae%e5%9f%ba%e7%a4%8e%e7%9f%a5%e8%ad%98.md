@@ -3,6 +3,8 @@ title: "C/C++の基礎知識"
 post_id: "3089"
 date: "2003-12-04T19:22:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

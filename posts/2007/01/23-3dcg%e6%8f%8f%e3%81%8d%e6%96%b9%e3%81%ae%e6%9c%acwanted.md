@@ -3,6 +3,8 @@ title: "3DCG描き方の本(WANTED)"
 post_id: "3550"
 date: "2007-01-23T10:19:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

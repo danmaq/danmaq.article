@@ -3,6 +3,8 @@ title: "ようこそ大自然の星へ"
 post_id: "2949"
 date: "1999-09-30T11:11:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

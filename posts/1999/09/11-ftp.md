@@ -3,6 +3,8 @@ title: "マイナーチェンジ"
 post_id: "2946"
 date: "1999-09-11T17:30:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

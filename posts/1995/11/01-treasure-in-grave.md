@@ -3,6 +3,8 @@ title: "滅びた城の宝 Ⅰ イメージイラスト"
 post_id: "6449"
 date: "1995-11-01T10:00:43+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

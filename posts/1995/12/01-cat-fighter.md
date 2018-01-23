@@ -3,6 +3,8 @@ title: "ネコ戦士"
 post_id: "2906"
 date: "1995-12-01T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

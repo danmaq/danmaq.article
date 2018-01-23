@@ -3,6 +3,8 @@ title: "6 Arrowne 2K"
 post_id: "2948"
 date: "1999-09-30T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

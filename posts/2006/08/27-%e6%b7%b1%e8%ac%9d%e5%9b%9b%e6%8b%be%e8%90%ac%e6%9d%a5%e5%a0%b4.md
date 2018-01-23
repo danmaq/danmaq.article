@@ -3,6 +3,8 @@ title: "深謝四拾萬来場"
 post_id: "3507"
 date: "2006-08-27T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

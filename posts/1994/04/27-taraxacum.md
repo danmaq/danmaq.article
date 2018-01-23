@@ -3,6 +3,8 @@ title: "タンポポでーす！！"
 post_id: "6396"
 date: "1994-04-27T11:00:23+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

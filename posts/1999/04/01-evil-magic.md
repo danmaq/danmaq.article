@@ -3,6 +3,8 @@ title: "オリジナルコミック “EVIL MAGIC”"
 post_id: "2925"
 date: "1999-04-01T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

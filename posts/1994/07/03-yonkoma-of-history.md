@@ -3,6 +3,8 @@ title: "4コマ漫画アッそー"
 post_id: "6398"
 date: "1994-07-03T21:00:20+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

@@ -3,6 +3,8 @@ title: "深謝弐拾萬来場"
 post_id: "3333"
 date: "2005-10-19T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

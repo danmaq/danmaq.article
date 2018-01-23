@@ -3,6 +3,8 @@ title: "新年早々"
 post_id: "2955"
 date: "2000-01-03T19:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

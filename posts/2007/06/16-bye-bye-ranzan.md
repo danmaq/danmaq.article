@@ -3,6 +3,8 @@ title: "bye-bye Ranzan"
 post_id: "3588"
 date: "2007-06-16T20:47:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

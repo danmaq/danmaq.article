@@ -3,6 +3,8 @@ title: "ネコでんせつ"
 post_id: "6439"
 date: "1995-01-09T10:00:24+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

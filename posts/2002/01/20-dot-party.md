@@ -3,6 +3,8 @@ title: "ドットキャラ"
 post_id: "3024"
 date: "2002-01-20T17:05:50+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

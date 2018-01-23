@@ -3,6 +3,8 @@ title: "オリジナルコミック “あぶないネコでんせつ”"
 post_id: "2895"
 date: "1992-05-01T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

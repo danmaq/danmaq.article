@@ -3,6 +3,8 @@ title: "クリーチャー"
 post_id: "6435"
 date: "1994-11-21T10:00:49+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

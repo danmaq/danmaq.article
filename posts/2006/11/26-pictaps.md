@@ -3,6 +3,8 @@ title: "PICTAPS"
 post_id: "3529"
 date: "2006-11-26T14:41:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

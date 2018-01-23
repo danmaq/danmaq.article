@@ -3,6 +3,8 @@ title: "フロッピーをガリガリ言わせる方法"
 post_id: "3092"
 date: "2003-12-11T19:05:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

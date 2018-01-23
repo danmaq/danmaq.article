@@ -3,6 +3,8 @@ title: "Force.Y"
 post_id: "3048"
 date: "2002-08-08T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

@@ -3,6 +3,8 @@ title: "結局強制送還"
 post_id: "3134"
 date: "2004-07-30T21:32:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

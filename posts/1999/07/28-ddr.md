@@ -3,6 +3,8 @@ title: "最近ココ、人気が薄いけど"
 post_id: "2940"
 date: "1999-07-28T13:17:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

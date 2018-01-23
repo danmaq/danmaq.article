@@ -3,6 +3,8 @@ title: "ガキんちょ"
 post_id: "2924"
 date: "1998-12-01T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

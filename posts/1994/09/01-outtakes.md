@@ -3,6 +3,8 @@ title: "制作することなく企画倒れした作品たち"
 post_id: "2898"
 date: "1994-09-01T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

@@ -3,6 +3,8 @@ title: "やさいの国よりお達し"
 post_id: "2935"
 date: "1999-07-16T13:29:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

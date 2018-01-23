@@ -3,6 +3,8 @@ title: "DDR"
 post_id: "2980"
 date: "2000-07-11T21:05:44+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

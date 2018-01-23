@@ -2,6 +2,8 @@
 title: "日記"
 date: "1990-11-18T20:00:00Z"
 draft: false
+image: null
+tag: []
 ---
 
 今日は映画館に行きました。

@@ -3,6 +3,8 @@ title: "(2001-2003) KORG ELECTRIBE-s"
 post_id: "3008"
 date: "2001-05-01T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

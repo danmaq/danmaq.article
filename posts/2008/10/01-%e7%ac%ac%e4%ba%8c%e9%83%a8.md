@@ -3,6 +3,8 @@ title: "第二部"
 post_id: "3679"
 date: "2008-10-01T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

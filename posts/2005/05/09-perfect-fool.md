@@ -3,6 +3,8 @@ title: "[弾幕風]豆腐「パーフェクトフール」"
 post_id: "3280"
 date: "2005-05-09T21:43:36+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

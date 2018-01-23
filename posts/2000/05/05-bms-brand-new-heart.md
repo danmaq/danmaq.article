@@ -3,6 +3,8 @@ title: "[BMS]BRAND NEW HEART"
 post_id: "2975"
 date: "2000-05-05T00:24:40+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

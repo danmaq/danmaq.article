@@ -3,6 +3,8 @@ title: "(1999.5-1999.7) YASIMCITY2012"
 post_id: 354
 date: "1999-05-10T00:00:02+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

@@ -3,6 +3,8 @@ title: "a bone"
 post_id: "3263"
 date: "2005-03-23T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

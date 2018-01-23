@@ -3,6 +3,8 @@ title: "城と城下町と悲鳴"
 post_id: "2910"
 date: "1996-03-01T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

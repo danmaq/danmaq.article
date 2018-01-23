@@ -3,6 +3,8 @@ title: "今日駿河台大学の合格発表でした。"
 post_id: "2957"
 date: "2000-02-10T16:27:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

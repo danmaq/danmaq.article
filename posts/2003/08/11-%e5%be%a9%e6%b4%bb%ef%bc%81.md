@@ -3,6 +3,8 @@ title: "復活！"
 post_id: "3077"
 date: "2003-08-11T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

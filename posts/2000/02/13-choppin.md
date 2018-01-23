@@ -3,6 +3,8 @@ title: "牛チョップ"
 post_id: "2958"
 date: "2000-02-13T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

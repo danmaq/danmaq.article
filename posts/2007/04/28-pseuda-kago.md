@@ -3,6 +3,8 @@ title: "pseŭda-kaĝo"
 post_id: "3569"
 date: "2007-04-28T15:10:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

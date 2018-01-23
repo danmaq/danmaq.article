@@ -3,6 +3,8 @@ title: "鬼が住まう社の宴"
 post_id: "3506"
 date: "2006-08-26T21:01:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

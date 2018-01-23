@@ -3,6 +3,8 @@ title: "YASIMCITY 2ndMix"
 post_id: 363
 date: "1999-07-01T00:00:26+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

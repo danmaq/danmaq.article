@@ -3,6 +3,8 @@ title: "これでどうだぁぁあああ！"
 post_id: "3094"
 date: "2003-12-18T08:53:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

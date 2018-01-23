@@ -3,6 +3,8 @@ title: "なんかここ、思いっきり寂れてるんですけど"
 post_id: "2937"
 date: "1999-07-19T13:56:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

@@ -3,6 +3,8 @@ title: "（´・ω・｀）ｼｮﾝﾎﾞﾘｰﾇ"
 post_id: "3475"
 date: "2006-06-28T22:12:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

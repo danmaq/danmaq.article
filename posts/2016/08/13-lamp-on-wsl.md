@@ -3,6 +3,8 @@ title: "Ubuntu on Windows で LAMP 環境を構築するお話"
 post_id: "8670"
 date: "2016-08-13T14:37:38+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 Windows10 の Anniversary Update で Ubuntu が Windows10 で動くようになりました。

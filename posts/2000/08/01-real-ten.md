@@ -3,6 +3,8 @@ title: "[MIDI] REAL TEN"
 post_id: "2984"
 date: "2000-08-01T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

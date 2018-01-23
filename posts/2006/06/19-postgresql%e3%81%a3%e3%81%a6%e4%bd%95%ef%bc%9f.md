@@ -3,6 +3,8 @@ title: "PostgreSQLって何？"
 post_id: "3473"
 date: "2006-06-19T20:17:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

@@ -3,6 +3,8 @@ title: "(2010-2014) ツクモBTO “Sencia”"
 post_id: "3701"
 date: "2010-11-15T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

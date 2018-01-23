@@ -3,6 +3,8 @@ title: "HDML.pm - EZwebコンテンツを動的生成するモジュール"
 post_id: "3034"
 date: "2002-02-21T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 ```Perl

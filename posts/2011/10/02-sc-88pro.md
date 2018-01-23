@@ -3,6 +3,8 @@ title: "(2011-) Roland SC-88Pro"
 post_id: "3714"
 date: "2011-10-02T16:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

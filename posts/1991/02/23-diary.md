@@ -2,6 +2,8 @@
 title: "日記"
 date: "1991-02-23T21:00:00Z"
 draft: false
+image: null
+tag: []
 ---
 
 __🌡10℃ ☀__

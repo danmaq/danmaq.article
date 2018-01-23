@@ -3,6 +3,8 @@ title: "WordPress やめて Jekyll 始めます！"
 post_id: "8783"
 date: "2017-02-09T22:19:26+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 皆さんご無沙汰しております、まくです。

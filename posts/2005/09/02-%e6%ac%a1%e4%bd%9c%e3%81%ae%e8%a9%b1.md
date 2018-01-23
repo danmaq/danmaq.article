@@ -3,6 +3,8 @@ title: "次作の話"
 post_id: "3313"
 date: "2005-09-02T05:34:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 

@@ -3,6 +3,8 @@ title: "今日逃げたら、明日はもっと大きな勇気が必要になる
 post_id: "3703"
 date: "2011-02-04T00:00:00+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 ![クリックすると、詳細を閲覧できます。](/image/illustrations/Pikmin_s.jpg)

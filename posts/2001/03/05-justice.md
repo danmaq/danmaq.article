@@ -3,6 +3,8 @@ title: "[BMS][REMIX] justice -rapid style-"
 post_id: "2997"
 date: "2001-03-05T13:19:26+09:00"
 draft: false
+image: null
+tag: []
 ---
 
 
