@@ -1,0 +1,6 @@
+# Build directory
+.wercker
+
+# OS
+.DS_Store
+Thumbs.db
