@@ -1,6 +1,6 @@
 ---
 title: "日記"
-date: "1991-01-20T21:30:00Z"
+date: "1991-01-20T21:30:00+09:00"
 draft: false
 image: null
 tag: []
