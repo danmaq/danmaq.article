@@ -3,10 +3,11 @@ title: "おとうさん"
 post_id: "6345"
 date: "1986-06-13T11:00:00+09:00"
 draft: false
-tag: []
+cover: ../../assets/illustration/1986-1990/1986-dad.jpg
+tag:
+- illustration
+- analog
 ---
-
-![おとうさん](../../assets/illustration/1986-1990/1986-dad.jpg)
 
 父の日に書いたイラスト。 当時は三つ目属性にはまっていた。
 
