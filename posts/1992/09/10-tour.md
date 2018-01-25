@@ -2,7 +2,6 @@
 title: "もっと見たかった社会科見学"
 date: "1992-09-10T17:00:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

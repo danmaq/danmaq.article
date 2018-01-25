@@ -3,7 +3,6 @@ title: "らすとぶろんくす"
 post_id: "6480"
 date: "1997-09-08T21:00:55+09:00"
 draft: false
-image: null
 tag: []
 ---
 

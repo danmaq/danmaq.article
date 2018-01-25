@@ -2,7 +2,6 @@
 title: "日記"
 date: "1990-10-20T21:30:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

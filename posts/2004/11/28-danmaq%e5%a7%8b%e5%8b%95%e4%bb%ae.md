@@ -3,7 +3,6 @@ title: "danmaq始動(仮)"
 post_id: "3211"
 date: "2004-11-28T00:00:59+09:00"
 draft: false
-image: null
 tag: []
 ---
 

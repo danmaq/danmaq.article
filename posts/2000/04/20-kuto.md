@@ -3,7 +3,6 @@ title: "YASiM-CITY Solo/空想都市計画"
 post_id: "2706"
 date: "2000-04-20T00:00:49+09:00"
 draft: false
-image: null
 tag: []
 ---
 

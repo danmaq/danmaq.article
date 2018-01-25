@@ -3,7 +3,6 @@ title: "Bring your own Music & Sounds [BMS]"
 post_id: "2993"
 date: "2001-02-01T00:00:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

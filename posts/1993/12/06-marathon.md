@@ -3,7 +3,6 @@ title: "思い切り走って"
 post_id: "6381"
 date: "1993-12-06T19:00:42+09:00"
 draft: false
-image: null
 tag: []
 ---
 

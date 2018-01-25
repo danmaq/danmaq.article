@@ -3,7 +3,6 @@ title: "Revision Easy & Ideal Managing Unit"
 post_id: "3408"
 date: "2006-02-25T23:34:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

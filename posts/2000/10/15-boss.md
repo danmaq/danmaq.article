@@ -3,7 +3,6 @@ title: "族"
 post_id: "2987"
 date: "2000-10-15T13:49:06+09:00"
 draft: false
-image: null
 tag: []
 ---
 

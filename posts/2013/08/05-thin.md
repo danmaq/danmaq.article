@@ -3,7 +3,6 @@ title: "Project THIN"
 post_id: "2411"
 date: "2013-08-05T12:32:46+09:00"
 draft: false
-image: null
 tag: []
 ---
 

@@ -3,7 +3,6 @@ title: "方向性を改めて考えてみる"
 post_id: "8315"
 date: "2016-07-07T21:34:17+09:00"
 draft: false
-image: null
 tag: []
 ---
 

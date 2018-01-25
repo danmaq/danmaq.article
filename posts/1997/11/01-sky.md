@@ -3,7 +3,6 @@ title: "空と雲"
 post_id: "2914"
 date: "1997-11-01T00:00:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

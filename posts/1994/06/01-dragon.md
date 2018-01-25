@@ -3,7 +3,6 @@ title: "竜"
 post_id: "2900"
 date: "1994-06-01T11:00:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

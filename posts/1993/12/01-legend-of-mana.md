@@ -3,7 +3,6 @@ title: "[聖剣伝説2] 二次創作コミック“せーけん伝説”"
 post_id: "2897"
 date: "1993-12-01T00:00:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

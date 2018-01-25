@@ -3,7 +3,6 @@ title: "Studio MAKINA"
 post_id: "3105"
 date: "2004-05-27T00:00:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

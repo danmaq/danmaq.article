@@ -3,7 +3,6 @@ title: "日記は以上です。"
 post_id: "2930"
 date: "1999-07-01T00:00:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

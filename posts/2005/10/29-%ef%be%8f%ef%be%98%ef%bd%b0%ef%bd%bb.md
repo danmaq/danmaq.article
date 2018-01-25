@@ -3,7 +3,6 @@ title: "ﾏﾘｰｻ"
 post_id: "3337"
 date: "2005-10-29T18:44:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

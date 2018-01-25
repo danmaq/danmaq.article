@@ -3,7 +3,6 @@ title: "レイラFAQ"
 post_id: "3358"
 date: "2005-12-09T00:00:10+09:00"
 draft: false
-image: null
 tag: []
 ---
 

@@ -3,7 +3,6 @@ title: "(1999.5) 腐ったページ(プロトタイプ)"
 post_id: 350
 date: "1999-05-03T00:00:52+09:00"
 draft: false
-image: null
 tag: []
 ---
 

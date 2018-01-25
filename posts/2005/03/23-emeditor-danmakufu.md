@@ -3,7 +3,6 @@ title: "EmEditor用弾幕風構文ファイル"
 post_id: "3264"
 date: "2005-03-23T00:00:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

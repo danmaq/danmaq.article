@@ -3,7 +3,6 @@ title: "風景・山奥の家"
 post_id: "2981"
 date: "2000-07-12T15:37:31+09:00"
 draft: false
-image: null
 tag: []
 ---
 

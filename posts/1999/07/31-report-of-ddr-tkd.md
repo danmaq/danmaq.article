@@ -3,7 +3,6 @@ title: "だーれもいない部屋で1人悲しくレポ。(DDR-TKD)"
 post_id: "2941"
 date: "1999-07-31T15:52:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

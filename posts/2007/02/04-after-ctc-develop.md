@@ -3,7 +3,6 @@ title: "現の世に最初の春が来るとき、幻想の春どこか悲しめ
 post_id: "3552"
 date: "2007-02-04T00:00:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

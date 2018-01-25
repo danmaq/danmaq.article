@@ -3,7 +3,6 @@ title: "BGエフェクト機能がつきました＜6 Arrowne 2K"
 post_id: "2963"
 date: "2000-03-08T13:42:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

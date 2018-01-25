@@ -3,7 +3,6 @@ title: "スライムBOT"
 post_id: "3721"
 date: "2012-06-17T18:56:25+09:00"
 draft: false
-image: null
 tag: []
 ---
 

@@ -3,7 +3,6 @@ title: "代表の年齢"
 post_id: 323
 date: "2012-11-27T22:30:28+09:00"
 draft: false
-image: null
 tag: []
 ---
 

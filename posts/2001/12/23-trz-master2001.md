@@ -3,7 +3,6 @@ title: "TRZ-MASTER 2001"
 post_id: "3021"
 date: "2001-12-23T00:00:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

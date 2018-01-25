@@ -3,7 +3,6 @@ title: "移転完了"
 post_id: "3243"
 date: "2005-01-11T00:00:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

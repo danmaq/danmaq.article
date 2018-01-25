@@ -3,7 +3,6 @@ title: "東方style"
 post_id: "3138"
 date: "2004-08-01T08:27:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

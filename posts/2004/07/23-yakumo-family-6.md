@@ -3,7 +3,6 @@ title: "もうズタボロ"
 post_id: "3127"
 date: "2004-07-23T01:32:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

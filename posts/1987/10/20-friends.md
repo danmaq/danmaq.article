@@ -3,7 +3,6 @@ title: "おともだち"
 post_id: "6356"
 date: "1987-10-20T10:00:16+09:00"
 draft: false
-image: null
 tag: []
 ---
 

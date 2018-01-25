@@ -3,7 +3,6 @@ title: "(2000-2002) 世界最速1号Ver.1"
 post_id: "2985"
 date: "2000-09-27T00:00:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

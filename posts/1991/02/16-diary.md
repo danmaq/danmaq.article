@@ -2,7 +2,6 @@
 title: "疲れた縄跳び検定"
 date: "1991-02-16T21:00:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

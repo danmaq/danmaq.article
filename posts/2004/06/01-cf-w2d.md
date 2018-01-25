@@ -3,7 +3,6 @@ title: "(2004-2005) Panasonic Let'sNote CF-W2D"
 post_id: "3290"
 date: "2004-06-01T20:00:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

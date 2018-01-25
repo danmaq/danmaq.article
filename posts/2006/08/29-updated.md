@@ -3,7 +3,6 @@ title: "本日多忙につき更新情報のみで勘弁してくださいな"
 post_id: "3508"
 date: "2006-08-29T20:23:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

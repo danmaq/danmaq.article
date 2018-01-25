@@ -3,7 +3,6 @@ title: "何もかもが嫌になる時ってやっぱあるもんなんだね"
 post_id: "3499"
 date: "2006-08-16T23:17:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

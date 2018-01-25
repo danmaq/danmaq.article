@@ -3,7 +3,6 @@ title: "(2013) Microsoft Surface RT"
 post_id: "8688"
 date: "2013-03-29T20:21:32+09:00"
 draft: false
-image: null
 tag: []
 ---
 

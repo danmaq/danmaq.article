@@ -3,7 +3,6 @@ title: "[東方] 騒霊サーカス ～ Reverie"
 post_id: "3398"
 date: "2006-02-11T22:33:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

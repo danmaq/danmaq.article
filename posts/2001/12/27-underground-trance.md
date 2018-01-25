@@ -3,7 +3,6 @@ title: "UnderGround Trance"
 post_id: "3022"
 date: "2001-12-27T00:00:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

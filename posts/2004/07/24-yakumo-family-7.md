@@ -3,7 +3,6 @@ title: "橙を守りきれてない自分への悔しさ"
 post_id: "3128"
 date: "2004-07-24T07:36:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

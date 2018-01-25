@@ -3,7 +3,6 @@ title: "Ansible で homebrew_cask を使うと進まない場合の処方箋"
 post_id: "8797"
 date: "2017-04-25T11:29:56+09:00"
 draft: false
-image: null
 tag: []
 ---
 
@@ -14,6 +13,8 @@ tag: []
 ## 処方箋
 
 先んじてこのタスクを入れてから cask するだけ。
+
+<!-- more -->
 
 ```YAML
 - name: Unlock sudo

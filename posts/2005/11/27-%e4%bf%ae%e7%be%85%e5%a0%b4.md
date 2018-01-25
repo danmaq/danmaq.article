@@ -3,7 +3,6 @@ title: "修羅場"
 post_id: "3350"
 date: "2005-11-27T03:18:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

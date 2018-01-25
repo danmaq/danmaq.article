@@ -3,7 +3,6 @@ title: "弾幕風v0.11kｷﾀｰ"
 post_id: "3293"
 date: "2005-06-27T00:00:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

@@ -3,7 +3,6 @@ title: "自宅環境をMacに移行しました"
 post_id: "8751"
 date: "2016-10-23T08:10:18+09:00"
 draft: false
-image: null
 tag: []
 ---
 

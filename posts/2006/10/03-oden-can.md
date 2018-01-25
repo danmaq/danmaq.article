@@ -3,7 +3,6 @@ title: "観光地と化し居づらくなったアキバ文化は安息の地を
 post_id: "3518"
 date: "2006-10-03T01:03:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

@@ -3,7 +3,6 @@ title: "レトロスペクティブDDR"
 post_id: "2936"
 date: "1999-07-19T00:00:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 

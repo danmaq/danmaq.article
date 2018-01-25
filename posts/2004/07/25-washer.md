@@ -3,7 +3,6 @@ title: "[弾幕風]「反魂蝶-狂咲-」"
 post_id: "3130"
 date: "2004-07-25T14:31:00+09:00"
 draft: false
-image: null
 tag: []
 ---
 
