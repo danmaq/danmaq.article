@@ -3,7 +3,7 @@ title: "Ubuntu on Windows で LAMP 環境を構築するお話"
 post_id: "8670"
 date: "2016-08-13T14:37:38+09:00"
 draft: false
-cover: ../../assets/misc/2016-wsl-lamp.png
+cover: ../../../../assets/misc/2016-wsl-lamp.png
 tag: []
 ---
 
@@ -190,7 +190,7 @@ $ sudo apt-get -y install mariadb-server libapache2-mod-php7.1
 ここで bash を抜けて Windows を再ログオンして、 MariaDB と Apache を起動します。  
 Edge で http://localhost/ を確認します。
 
-![](../../assets/misc/2016-wsl-lamp.png)  
+![](../../../../assets/misc/2016-wsl-lamp.png)  
 やったー！Ubuntu を捕まえた！
 
 ### 〇 データベースの初期設定をする

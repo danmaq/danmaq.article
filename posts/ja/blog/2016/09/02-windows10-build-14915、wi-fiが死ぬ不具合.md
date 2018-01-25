@@ -3,7 +3,7 @@ title: "Windows10 build 14915、Wi-Fiが死ぬ不具合"
 post_id: "8741"
 date: "2016-09-02T09:04:38+09:00"
 draft: false
-cover: ../../assets/misc/2016-windows10-insider-problem.jpg
+cover: ../../../../assets/misc/2016-windows10-insider-problem.jpg
 tag: []
 ---
 
