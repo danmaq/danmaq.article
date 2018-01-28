@@ -6,9 +6,9 @@ draft: false
 tag: []
 ---
 
-![Click to enlarge.](/image/mixi/2007/467856360_113_s.jpg)
+![Click to enlarge.](https://danmaq.com/image/mixi/2007/467856360_113_s.jpg)
 
-![Click to enlarge.](/image/mixi/2007/467856360_97_s.jpg)
+![Click to enlarge.](https://danmaq.com/image/mixi/2007/467856360_97_s.jpg)
 
 I will move to Tokyo in the early morning tomorrow so I will put a picture of Arashiyama landscape in my photo as well. I lived here for 3 years and 3 months, but I felt it was a long time.
 

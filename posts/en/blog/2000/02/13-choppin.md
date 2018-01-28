@@ -11,4 +11,4 @@ Wake up to treason and sweep away the crow 's large swarms approaching like angr
 *   Genre: One Key Action
 *   [Download Version β1.3 SP1](/filez/app/choppin.zip) (\[filesize\] [https://danmaq.com/filez/app/choppin.zip\[/filesize](https://danmaq.com/filez/app/choppin.zip[/filesize) \])
 *   Development language: HSP 2.5β
-*   Last updated: April 24, 2000 ![Cow chop screen picture 2](/wp-content/uploads/2013/11/choppic2.png)
+*   Last updated: April 24, 2000 ![Cow chop screen picture 2](https://danmaq.com/wp-content/uploads/2013/11/choppic2.png)

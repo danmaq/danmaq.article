@@ -7,7 +7,7 @@ tag: []
 ---
 
 
-![ヒ・ダリ](/image/illustrations/miku/lama_s.jpg)
+![ヒ・ダリ](https://danmaq.com/image/illustrations/miku/lama_s.jpg)
 
 [こんな初音ミクはアンインストール♪](http://www.nicovideo.jp/watch/sm2197976)で使用したイラスト。
 

@@ -8,7 +8,7 @@ tag: []
 
 ## Overview
 
-![View sample screen](/image/misc/html_s.png)
+![View sample screen](https://danmaq.com/image/misc/html_s.png)
 
 In the office I made texts when I opened a seminar for studying HTML by saying "Web application can be created only with Java, knowledge of HTML is necessary". Microsoft Office PowerPoint 2007 format. You can also open it by downloading the official add-on even in 2003.
 

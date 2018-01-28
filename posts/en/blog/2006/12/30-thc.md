@@ -6,7 +6,7 @@ draft: false
 tag: []
 ---
 
-![Click to see the details.](/image/thd/thc1.jpg)
+![Click to see the details.](https://danmaq.com/image/thd/thc1.jpg)
 
 Dancing on the night before the dream finishes is a white bullet - it was only her that she did not know the "hidden truth".
 

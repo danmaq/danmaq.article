@@ -6,7 +6,7 @@ draft: false
 tag: []
 ---
 
-![クリックすると、詳細を閲覧できます。](/image/illustrations/Pikmin_s.jpg)
+![クリックすると、詳細を閲覧できます。](https://danmaq.com/image/illustrations/Pikmin_s.jpg)
 
 スーパーご無沙汰タイムですがこんばんわ。
 いやしかし今更ながら苺ましまろ読んでて、これは名言だと思いましたね。

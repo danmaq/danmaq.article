@@ -7,7 +7,7 @@ tag: []
 ---
 
 
-![死刑](/image/illustrations/pbbs/2005-2007/tohov_003462_2_s.jpg)
+![死刑](https://danmaq.com/image/illustrations/pbbs/2005-2007/tohov_003462_2_s.jpg)
 
 あなた 死刑百回の刑
 

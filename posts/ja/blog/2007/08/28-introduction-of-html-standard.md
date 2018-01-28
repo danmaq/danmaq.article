@@ -9,7 +9,7 @@ tag: []
 
 ## 概要
 
-![サンプル画面を見る](/image/misc/html_s.png)
+![サンプル画面を見る](https://danmaq.com/image/misc/html_s.png)
 
 職場で「WebアプリはJavaだけじゃ作れん。HTMLの知識も必要じゃ」と言うことでHTML勉強のためのセミナーを開いた際に作ったテキストです。Microsoft Office PowerPoint 2007形式です。2003でも公式アドオンをダウンロードすることで開くことができます。
 

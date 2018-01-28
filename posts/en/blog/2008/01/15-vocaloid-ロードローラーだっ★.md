@@ -6,7 +6,7 @@ draft: false
 tag: []
 ---
 
-![I can do it miku ♪](/image/illustrations/miku/press_s.jpg)
+![I can do it miku ♪](https://danmaq.com/image/illustrations/miku/press_s.jpg)
 
 Illustration used with [uninstall ♪](http://www.nicovideo.jp/watch/sm2197976) for [Hatsune Miku like this](http://www.nicovideo.jp/watch/sm2197976) .
 

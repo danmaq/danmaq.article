@@ -12,7 +12,7 @@ Hi-macho (Hi macho) is an encounter bulletin board CGI for EZweb that inspired f
 
 ## Characteristic
 
-![](/wp-content/uploads/2013/11/macho.gif)
+![](https://danmaq.com/wp-content/uploads/2013/11/macho.gif)
 
 *   A simple and easy-to-use bulletin board function bulletin board is divided into five threads and you can change the writing place depending on the mood of the day.
 *   Macho mail function One user is given Himaccho private PO Box "Macho Mail". Here you can send and receive fulfillment letters to other muscular associates.

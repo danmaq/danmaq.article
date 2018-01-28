@@ -7,7 +7,7 @@ tag: []
 ---
 
 
-![みっくみくにしてあげるー♪](/image/illustrations/miku/press_s.jpg)
+![みっくみくにしてあげるー♪](https://danmaq.com/image/illustrations/miku/press_s.jpg)
 
 [こんな初音ミクはアンインストール♪](http://www.nicovideo.jp/watch/sm2197976)で使用したイラスト。
 

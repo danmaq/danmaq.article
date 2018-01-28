@@ -60,7 +60,7 @@ SFC で発売された RPG “エルファリア” に触発されて RPG を�
 
 ## (2005) TOUHOU UNREALTOURNAMENT -beat the oriental phantasm!-
 
-![](/wp-content/uploads/2013/11/Logo.png)
+![](https://danmaq.com/wp-content/uploads/2013/11/Logo.png)
 東方の二次創作STGです。
 ただ、本家と同じようなものを連想するとちょっと拍子抜けるかもしれません。
 STGと言うジャンルの範囲を幻想郷に例えると、博麗神社と紫の住処くらい違うものとなりますので。

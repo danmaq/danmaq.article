@@ -44,6 +44,6 @@ Because it was thrown entirely from planning, specifications to implementation, 
 
 ## (2005) TOUHOU UNREALTOURNAMENT -beat the oriental phantasm! -
 
-![](/wp-content/uploads/2013/11/Logo.png) It is a secondary creation STG in the east. However, if you associate something similar to the original home you may be beginning to feel a bit stuck. As far as the range of the genre called STG is compared to Gensokyo, it will be different from the hometown of purple with Hakurei Shrine.
+![](https://danmaq.com/wp-content/uploads/2013/11/Logo.png) It is a secondary creation STG in the east. However, if you associate something similar to the original home you may be beginning to feel a bit stuck. As far as the range of the genre called STG is compared to Gensokyo, it will be different from the hometown of purple with Hakurei Shrine.
 
 I am tired with a lot of technical verification items. (At the time it was full of just displaying 3D still model,) If I knew the existence of XNA or Unity 3D from this time, perhaps there was a one-chan.

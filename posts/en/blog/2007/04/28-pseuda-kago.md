@@ -6,7 +6,7 @@ draft: false
 tag: []
 ---
 
-![Click to see the details.](/!/thC/thC_SS12.jpg)
+![Click to see the details.](https://danmaq.com/!/thC/thC_SS12.jpg)
 
 Till I report my survival. GW? What is it food?
 

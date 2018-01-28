@@ -6,7 +6,7 @@ draft: false
 tag: []
 ---
 
-![Click to enlarge.](/image/mixi/2007/384394970_134_s.jpg)
+![Click to enlarge.](https://danmaq.com/image/mixi/2007/384394970_134_s.jpg)
 
 I will change the dad's room with a urge that saw a room that was too beautiful last weekend! It's been a week since we decided. Finally I started choking.
 

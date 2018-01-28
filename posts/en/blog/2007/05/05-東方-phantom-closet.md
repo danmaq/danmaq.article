@@ -6,7 +6,7 @@ draft: false
 tag: []
 ---
 
-![Death sentence](/image/illustrations/pbbs/2005-2007/tohov_003462_2_s.jpg)
+![Death sentence](https://danmaq.com/image/illustrations/pbbs/2005-2007/tohov_003462_2_s.jpg)
 
 You sentenced to one hundred times death
 

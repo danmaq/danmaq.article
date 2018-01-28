@@ -6,7 +6,7 @@ draft: false
 tag: []
 ---
 
-![Hi dali](/image/illustrations/miku/lama_s.jpg)
+![Hi dali](https://danmaq.com/image/illustrations/miku/lama_s.jpg)
 
 Illustration used with [uninstall ♪](http://www.nicovideo.jp/watch/sm2197976) for [Hatsune Miku like this](http://www.nicovideo.jp/watch/sm2197976) .
 

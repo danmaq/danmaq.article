@@ -7,7 +7,7 @@ tag: []
 ---
 
 
-![](/image/illustrations/miku/miq_s.jpg)
+![](https://danmaq.com/image/illustrations/miku/miq_s.jpg)
 
 [こんな初音ミクはアンインストール♪](http://www.nicovideo.jp/watch/sm2197976)で使用したイラスト。
 

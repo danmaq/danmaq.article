@@ -13,4 +13,4 @@ tag: []
   * [Version β1.3 SP1をダウンロード](/filez/app/choppin.zip) ([filesize]https://danmaq.com/filez/app/choppin.zip[/filesize])
   * 開発言語: HSP 2.5β
   * 最終更新: 2000/4/24
-![牛チョップ 画面写真2](/wp-content/uploads/2013/11/choppic2.png)
+![牛チョップ 画面写真2](https://danmaq.com/wp-content/uploads/2013/11/choppic2.png)

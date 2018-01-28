@@ -7,7 +7,7 @@ tag: []
 ---
 
 
-![634](/image/illustrations/miku/634_s.jpg)
+![634](https://danmaq.com/image/illustrations/miku/634_s.jpg)
 
 [こんな初音ミクはアンインストール♪](http://www.nicovideo.jp/watch/sm2197976)で使用したイラスト。
 

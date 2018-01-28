@@ -6,7 +6,7 @@ draft: false
 tag: []
 ---
 
-![Click to see the details.](/image/illustrations/Pikmin_s.jpg)
+![Click to see the details.](https://danmaq.com/image/illustrations/Pikmin_s.jpg)
 
 It's been a while since the supermarket, but good evening. No, but I've been reading the strawberries for the moment and I thought this was a good word. It [seems there is even more original story](http://ja.wikipedia.org/wiki/ANGEL_VOICE_\(%E6%BC%AB%E7%94%BB\) as you go through it), well aside. I thought that this is telling me, and from today it is also the beginning of a new season, I tried to resume updating daringly. I updated the back page thoroughly, but the top page was actually in the year and a half for the first time. If you leave it any more, you will need more courage to restart.
 
