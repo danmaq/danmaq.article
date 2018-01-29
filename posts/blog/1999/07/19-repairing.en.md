@@ -3,7 +3,7 @@ title: Somewhere here I am lonely deserted
 post_id: '2937'
 date: '1999-07-19T13:56:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Re-installing strange. Just a stitch is strange, no troubles in particular, it is completed. However, it was hard work, then.

@@ -3,7 +3,7 @@ title: TOKAGE
 post_id: '3202'
 date: '2004-10-21T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Typhoon 23 "TOKAGE" I put a strange codename or strange Kanto from you (and that is different from the story w

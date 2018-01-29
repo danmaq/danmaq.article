@@ -3,7 +3,7 @@ title: A dude
 post_id: '2903'
 date: '1995-04-01T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Fuckers of chaos pose. More than half of the characters are chaos enough not to predict what they want to do with their poses.

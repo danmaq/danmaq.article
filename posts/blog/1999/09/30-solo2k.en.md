@@ -3,7 +3,7 @@ title: 6 Arrowne 2K
 post_id: '2948'
 date: '1999-09-30T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 [Download Version β1.00d](/filez/app/solo2k.rar) (\[filesize\] [https://danmaq.com/filez/app/solo2k.rar](https://danmaq.com/filez/app/solo2k.rar[/filesize) \[/ filesize\]) DDR trainer. Though Taro's DDR 99 is not quite Ver. UP, I tried making it out of despair. At the moment there is no gauge, but it is clean VIVID correspondence, high · low speed correspondence. As you can see from the title, in the future it was planned to make it a DDRsolo simulator (undecided). Originally it was produced by [Filly](http://www.vector.co.jp/soft/win95/art/se060127.html) . (The development code name at that time was PvDDR.) After that, ported to HSP, completed the test version, and after further porting to C ++, it came ahead of [Delight Delight Reduplication and](http://homepage1.nifty.com/nickle/) it ceased development. ![](https://danmaq.com/wp-content/uploads/2013/11/solopic1.png)

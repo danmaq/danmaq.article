@@ -3,7 +3,7 @@ title: "[BMS] electro quest"
 post_id: "3018"
 date: "2001-09-26T14:41:38+09:00"
 draft: false
-tag: []
+tags: []
 ---
 
 

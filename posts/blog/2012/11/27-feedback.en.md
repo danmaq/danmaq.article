@@ -3,7 +3,7 @@ title: Contact Information
 post_id: 285
 date: '2012-11-27T23:00:27+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 ## ◆ Contact that can contact directly

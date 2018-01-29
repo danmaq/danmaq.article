@@ -3,7 +3,7 @@ title: '[● Information leakage] I have taken statistics on the account merid'
 post_id: '2550'
 date: '2013-08-27T23:14:25+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 2 chan channel viewer (commonly known as ●) account information It is one thing waking up with the incident that leaked out. Inside person: Stop signal ★ Mr. ___ [http://j416.dip.jp/2ch/](http://j416.dip.jp/2ch/) has released the unique ID of the spill target and the mail address associated with it. So, since the e-mail address of more than 40,000 spill accounts has been released, I got statistics as it is a point. As of August 27, parocco has flowed to 404, but because of the information released once it seems that someone is a mirror and a fishery, so if you can look for it and see it I'm happy. (We overwrote and erased the original file and only _abbreviated_ CSV converted text, so I abandoned it.) _I thought for a moment to make a flashy graph using Excel, but it was Mandochse._ Anyway I will do it without permission.

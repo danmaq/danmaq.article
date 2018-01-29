@@ -2,7 +2,7 @@
 title: diary
 date: '1991-01-27T21:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 **🌡 9 ℃**

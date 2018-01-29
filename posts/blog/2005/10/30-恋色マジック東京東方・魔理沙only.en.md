@@ -3,7 +3,7 @@ title: Koiro Magic (Tokyo / Toho · Marisa only)
 post_id: '3338'
 date: '2005-10-30T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Star-40 / "East Arrangement / Ear Copy Thread CD Planning" (Joint Participation)

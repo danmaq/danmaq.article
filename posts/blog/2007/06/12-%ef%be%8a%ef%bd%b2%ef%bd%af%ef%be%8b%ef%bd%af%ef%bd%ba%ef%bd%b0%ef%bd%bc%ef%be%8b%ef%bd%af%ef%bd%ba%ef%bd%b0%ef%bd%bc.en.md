@@ -3,7 +3,7 @@ title: Hit! Hikoshi! Hikoshi!
 post_id: '3584'
 date: '2007-06-12T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 I'm in a hurry as it is in a bad mood since morning. Although it is the main _issue_ abruptly, we will _relocate danmaq base from Saitama · Hitachi to Tokyo · Itabashi from 18th this month_ . Especially around 10 to 20 I will be busy so I will respond to messages and e-mails. [e-danmaq Personal sales](http://e.danmaq.com/) related work will be handled preferentially, but please understand that it may still be slightly late. But everywhere in the iron grid ... where the prison here? _?

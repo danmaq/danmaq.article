@@ -3,7 +3,7 @@ title: I am alive
 post_id: '3704'
 date: '2011-03-15T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Although I was working in Tokyo, I was prepared for death at the Hongkong since I was born in a motorcycle seven years ago, it was my second time. After returning home to Sumida Ward's home for seven hours on foot, I cleaned up the unfaithful furniture (all of the baggage of the tilling bag had fallen on the floor), it was truly scattered. My parents' house is more than here from Tohoku Building built more than 50 years old Kagura so do not you think? When thinking, "It was done with the extent that the major pole was bent" ... No, it falls within the category of danger jk

@@ -3,7 +3,7 @@ title: "Java習作について"
 post_id: "3536"
 date: "2006-12-23T00:00:00+09:00"
 draft: false
-tag: []
+tags: []
 ---
 
 

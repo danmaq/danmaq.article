@@ -3,7 +3,7 @@ title: Object oriented to learn with a magical girl (Soul gem smell GoF)
 post_id: '3716'
 date: '2012-01-24T16:36:49+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 [Class comment](http://b0r0nji.blogspot.com/2011/12/blog-post.html) which [starts from "what kind of sister pants what color"](http://b0r0nji.blogspot.com/2011/12/blog-post.html) was very interesting, so it is two months behind but it is a test that tried doing the second disinfection while falling with a cold. Perhaps I do not think that development will be good development. A little more difficulty will rise.

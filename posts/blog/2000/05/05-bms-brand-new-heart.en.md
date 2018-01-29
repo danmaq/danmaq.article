@@ -3,7 +3,7 @@ title: '[BMS] BRAND NEW HEART'
 post_id: '2975'
 date: '2000-05-05T00:24:40+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 ## [Listen to](/filez/music/bnh.mp3) " [BRAND NEW HEART"](/filez/music/bnh.mp3) (\[filesize\] [https://danmaq.com/filez/music/bnh.mp3\[/filesize\])**](https://danmaq.com/filez/music/bnh.mp3[/filesize])**)

@@ -3,7 +3,7 @@ title: '[Toho] phantom-closet'
 post_id: '3571'
 date: '2007-05-05T17:23:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 ![Death sentence](https://danmaq.com/image/illustrations/pbbs/2005-2007/tohov_003462_2_s.jpg)

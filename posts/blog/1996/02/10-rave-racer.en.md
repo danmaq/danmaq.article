@@ -3,7 +3,7 @@ title: Rave Racer
 post_id: '6473'
 date: '1996-02-10T11:00:25+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 An illustration made by engraving a black acrylic board with a sculpture knife and pouring paint from above. (What do you call this painting method?)

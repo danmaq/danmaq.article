@@ -3,7 +3,7 @@ title: YASiM-CITY Solo / Fantastic City Planning
 post_id: '2706'
 date: '2000-04-20T00:00:49+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 [As](/363) a parent (?) Site of YASiM - CITY, there is a website with anything "YASiM - CITY solo" opened. It is charming that the site name is not much parental. We also did quite a stupid thing such as Perl commentary for beginners, a [lone BBS alliance](/declined) , and eventually a commercialization plan (primarily static web creation for PC and Garaka). Initially it is VirtualAvenue, the latter term is relocated to the first paid rental server AHOPE. After that I was so busy that I could not be sharpened by university circle activities and it was almost left untill winter. 5 to 12 PV / day. Background color Light red (later light purple → white). It was after ten years that I made a white-tone web page after this. Although it does not matter, nearly all the contents files of the original site are stored locally from here on. I still have myself holding it now and seeing it occasionally. Why do not you guys try to imitate them (ぉ

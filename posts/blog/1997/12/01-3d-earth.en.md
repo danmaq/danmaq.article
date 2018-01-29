@@ -3,7 +3,7 @@ title: '[3D] Earth'
 post_id: '2917'
 date: '1997-12-01T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Among my existing works, it is the oldest 3DCG. It is also the oldest CG work created using a PC. There are memories that I made some even before, but it has disappeared completely.

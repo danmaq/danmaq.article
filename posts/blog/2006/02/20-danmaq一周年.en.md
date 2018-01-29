@@ -3,7 +3,7 @@ title: danmaq one year anniversary
 post_id: '3405'
 date: '2006-02-20T09:58:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 It seems that one year has passed since the formation of danmaq on December 29, 2004. No, it is early to flow in time. By saying 'A `, I tried out an access analysis report for 365 days from 2005/1/1 to 2006 / Jan / 31. (Actually, analysis was introduced around 1/20, but it gets truncated halfway so it is excluded until the beginning of the month)

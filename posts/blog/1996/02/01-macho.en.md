@@ -3,7 +3,7 @@ title: Macho
 post_id: '2908'
 date: '1996-02-01T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 At that time I was addicted to macho characters. It must be the super brother.

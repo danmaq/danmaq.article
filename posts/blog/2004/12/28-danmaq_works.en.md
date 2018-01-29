@@ -3,7 +3,7 @@ title: Doujin activities
 post_id: '3228'
 date: '2004-12-28T00:00:58+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Game programming is the main, but we also do programming other than games (web application, etc.), music composition, illustration creation and so on.

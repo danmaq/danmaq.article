@@ -3,7 +3,7 @@ title: update!!
 post_id: '2961'
 date: '2000-02-27T15:35:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 I updated the HP for the first time in several months. Mainly this time mainly update of latest software, unification of YASIM color, arrangement of dead links. Please try circling around. Especially "Special venue" is updated from time to time regardless of the last update date so please visit whenever you come here as well as bulletin board. Thank you for always using YASiM - CITY (Sales Smile → Difference)

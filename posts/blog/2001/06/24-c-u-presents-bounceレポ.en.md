@@ -3,7 +3,7 @@ title: '"C-U presents: Bounce" repo'
 post_id: '3013'
 date: '2001-06-24T18:20:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 I recently joined dj TAKA's birthday party live organized by Mr. TaQ & good-cool. ...... Though I think that those who are looking at here probably understand first, I will explain for the direction who came flying from the search site etc. for the first time, the other day at 6/24 (Sunday) 18: 00 ~ Tokyo Nishi Azabu There was a private party event sponsored by Mr. TaQ and good-cool, familiar composer of that "beatmania" at the club "incense - KOU -". There were only private parties and general customers were only 100 people reserved in advance (Naturally I am also in that 100 people ^ ^). In addition, I dropped it on the dance floor, actually thought that there might not even be one picture in the habit of the report ^ - ^;) It was not the atmosphere that I took before that but eventually I I said that I just took a piece of paper.

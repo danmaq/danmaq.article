@@ -3,7 +3,7 @@ title: thG (tentative name)
 post_id: '3646'
 date: '2008-02-01T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 ![Click to see the details.](http://thg.danmaq.com/image/ss/thG_02_s.jpg)

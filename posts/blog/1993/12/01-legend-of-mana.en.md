@@ -3,7 +3,7 @@ title: '[Sacred Legend 2] Secondary Creation Comic "Sue Ken Densetsu"'
 post_id: '2897'
 date: '1993-12-01T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 A story of a story thing gag comic "Sue Ken legend" that I was drawing at that time.

@@ -3,7 +3,7 @@ title: How to use web applause
 post_id: '3216'
 date: '2004-12-28T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Apparently it seems that there are many people who are uneasy whether they are really able to send, so just a little commentary.

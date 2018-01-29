@@ -3,7 +3,7 @@ title: One person sadly repo in a room where there is no one. (DDR-TKD)
 post_id: '2941'
 date: '1999-07-31T15:52:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 ## TKD Repo Part 2!

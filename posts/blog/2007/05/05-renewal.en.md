@@ -5,7 +5,7 @@ title: >-
 post_id: '3570'
 date: '2007-05-05T03:38:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 I guess the latter half seems a bit sweet ... well.

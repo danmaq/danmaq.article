@@ -3,7 +3,7 @@ title: danmaq Nineball Library
 post_id: '3677'
 date: '2008-09-01T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 It is a framework for XNA GameStudio mainly for games. It is an object with the ability to summarize the algorithms that seems to be the minimum, in order to make a game of a certain scale, not separately doing something tremendous in the inside. It is slightly old, but there is also Flex SDK version. It is just as if the head is not enough to understand the huge framework made by the great Mr. Beyond the Bukkake Sea ⑨ Programmer Why did not you just create this?

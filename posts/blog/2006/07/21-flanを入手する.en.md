@@ -3,7 +3,7 @@ title: Obtain FLAN
 post_id: '3484'
 date: '2006-07-21T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 *   [Download](/filez/thd/flan/flan_0.2f.zip) " [version 0.2f"](/filez/thd/flan/flan_0.2f.zip) (2006/12/30: \[filesize\] [https://danmaq.com/filez/thd/flan/flan_0.2f.zip\[/filesize](https://danmaq.com/filez/thd/flan/flan_0.2f.zip[/filesize) \])

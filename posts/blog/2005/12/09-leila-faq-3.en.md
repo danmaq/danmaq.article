@@ -3,7 +3,7 @@ title: Other small FAQ
 post_id: '3355'
 date: '2005-12-09T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 ## Is not it the same song as Tokiwa castle?

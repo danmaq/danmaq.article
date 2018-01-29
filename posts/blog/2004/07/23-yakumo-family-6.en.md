@@ -3,7 +3,7 @@ title: Another snapsborough
 post_id: '3127'
 date: '2004-07-23T01:32:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 The wounds received in the body of the expression god can be repaired by the force of the expression of God's Lord, but there is no way to repair the wounds received in the heart.

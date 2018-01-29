@@ -3,7 +3,7 @@ title: (2005-2010) TOSHIBA dynabookSS / LX190
 post_id: '3308'
 date: '2005-08-18T19:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 To purchase it as a main PC, purchase [Let'sNote](/cf-w2d) trade-in. 3D capabilities are also enhanced to the same level as the desk, and even rare RAID-1 compliance with notebooks. It seems that a heavy bass enhancement function like a walkman is set in the sound section (this was the biggest chance of purchase), and when I do DTM it is crying. (Although it is talking about buying a USB sound source adultly, w) Although it has been acting as a main PC for a long time, the exhaust heat fan is quite sick, and in the late autumn of 2010 the gravo melted and died.

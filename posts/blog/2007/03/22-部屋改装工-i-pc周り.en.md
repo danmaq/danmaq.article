@@ -3,7 +3,7 @@ title: Room remodeling work I (around PC)
 post_id: '3560'
 date: '2007-03-22T23:03:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 ![Click to enlarge.](https://danmaq.com/image/mixi/2007/384394970_134_s.jpg)

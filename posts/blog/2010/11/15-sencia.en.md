@@ -3,7 +3,7 @@ title: (2010-2014) Tsukumo BTO "Sencia"
 post_id: '3701'
 date: '2010-11-15T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 ## Remarks **[dynabookSS LX](/palx190dr) sudden death and [2nd machine Alternative](/homebuilt-4) sound function is rotten & OfficeScan 2011 is catastroically slowly affected and purchased as main PC. Up to this point it was about the fastest Thailand performance in terms of the [No. 2 machine](/homebuilt-3) made in 2003 (rather the spec of the No. 2 machine was waste at that time), but the fastest of Butchgilli in the past due to the entry of this PC It became a machine. Grabo is also onboard (on CPU?), But it still has the performance of the GeForce 8400 class. Even though it is the fastest Butchgilli, it is still "the latest _low end_ ", is not it. Then 2 HDDs + SSD 1 group, memory was expanded.** Works / Other things I did

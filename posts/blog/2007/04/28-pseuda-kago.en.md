@@ -3,7 +3,7 @@ title: pseŭda-kaĝo
 post_id: '3569'
 date: '2007-04-28T15:10:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 ![Click to see the details.](https://danmaq.com/!/thC/thC_SS12.jpg)

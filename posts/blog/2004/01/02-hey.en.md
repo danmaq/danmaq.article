@@ -3,7 +3,7 @@ title: Hey!
 post_id: '6800'
 date: '2004-01-02T23:37:13+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 **[Listen to](/!/dst/Hey!.mp3) " [Hey!"](/!/dst/Hey!.mp3) (4:27 | \[filesize\] [https://danmaq.com/!/dst/Hey!.mp3\[/filesize](https://danmaq.com/!/dst/Hey!.mp3[/filesize) \])**

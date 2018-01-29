@@ -3,7 +3,7 @@ title: "最近物忘れ酷すぎるorz"
 post_id: "3365"
 date: "2005-12-26T11:55:00+09:00"
 draft: false
-tag: []
+tags: []
 ---
 
 

@@ -3,7 +3,7 @@ title: Think about the direction again
 post_id: '8315'
 date: '2016-07-07T21:34:17+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Recently the direction of this blog has strayed, and carefully choosing the articles to write carefully, it is in a state where renewal is almost not kept.

@@ -4,7 +4,7 @@ post_id: "8670"
 date: "2016-08-13T14:37:38+09:00"
 draft: false
 cover: ../../../assets/misc/2016-wsl-lamp.png
-tag: []
+tags: []
 ---
 
 Windows10 の Anniversary Update で Ubuntu が Windows10 で動くようになりました。

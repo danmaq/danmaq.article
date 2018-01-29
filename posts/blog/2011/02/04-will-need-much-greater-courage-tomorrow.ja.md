@@ -3,7 +3,7 @@ title: "今日逃げたら、明日はもっと大きな勇気が必要になる
 post_id: "3703"
 date: "2011-02-04T00:00:00+09:00"
 draft: false
-tag: []
+tags: []
 ---
 
 ![クリックすると、詳細を閲覧できます。](https://danmaq.com/image/illustrations/Pikmin_s.jpg)

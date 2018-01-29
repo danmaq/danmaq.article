@@ -3,7 +3,7 @@ title: Web browser compatibility
 post_id: 226
 date: '2012-11-27T23:20:39+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 This site conducts display test in the following Web browser.

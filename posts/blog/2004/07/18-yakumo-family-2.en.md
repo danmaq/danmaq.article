@@ -3,7 +3,7 @@ title: Expression God bound
 post_id: '3122'
 date: '2004-07-18T02:39:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Measures against the fighting ants.

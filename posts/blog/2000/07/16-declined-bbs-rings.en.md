@@ -3,7 +3,7 @@ title: Customers who came for a long time also came
 post_id: '2983'
 date: '2000-07-16T21:21:54+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Coco is the home page with users. Approximately publish the old end site soon ♪ If you want to go ♪ Please do not [miss](/tag/FCoV) it ♪ Yuka [2000 / July 16](/tag/FCoV) (Sunday) It may be more substantial than " [FCoV](/tag/FCoV) " ...

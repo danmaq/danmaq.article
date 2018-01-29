@@ -3,7 +3,7 @@ title: (2003-2004) No. 2 machine
 post_id: '3074'
 date: '2003-05-15T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 A PC that was extremely high performance even though I owned it. In 2005 [TOSHIBA dynabookSS / LX190](/palx190dr) introduction became the fastest [thing](/palx190dr) , and in 2010 the [Tsukumo BTO](/sencia) launched the fastest seat. I want to suddenly live by himself for a half year in office, and Donadna as its fund.

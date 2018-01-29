@@ -3,7 +3,7 @@ title: "YASiM-CITY"
 post_id: "2947"
 date: "1999-09-24T00:00:00+09:00"
 draft: false
-tag: []
+tags: []
 ---
 
 

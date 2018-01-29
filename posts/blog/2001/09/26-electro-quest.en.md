@@ -3,7 +3,7 @@ title: '[BMS] electro quest'
 post_id: '3018'
 date: '2001-09-26T14:41:38+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 ## [Listen for](/filez/music/ee.mp3) " [electro quest"](/filez/music/ee.mp3) (1: 52 | \[filesize\] [https://danmaq.com/filez/music/ee.mp3\[/filesize](https://danmaq.com/filez/music/ee.mp3[/filesize) \])

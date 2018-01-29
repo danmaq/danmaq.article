@@ -3,7 +3,7 @@ title: '[VOCALOID] Hatsune Rama'
 post_id: '3643'
 date: '2008-01-17T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 ![Hi dali](https://danmaq.com/image/illustrations/miku/lama_s.jpg)

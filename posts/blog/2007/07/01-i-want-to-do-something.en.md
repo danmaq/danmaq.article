@@ -3,7 +3,7 @@ title: 'I want to do that, I want to do it, I did more (ry'
 post_id: '3595'
 date: '2007-07-01T23:17:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 It seems that withdrawal symptoms have come out in our time being unreasonably hungry at work.  

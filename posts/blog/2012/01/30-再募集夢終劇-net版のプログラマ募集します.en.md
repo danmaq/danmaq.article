@@ -3,7 +3,7 @@ title: '[Recruitment] We are recruiting programmers for Dream End (.NET version)
 post_id: '3717'
 date: '2012-01-30T11:42:17+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Although it is a dream drama. NET, I apologize for having released it in a state full of bugs. We will definitely release updates, so it would be greatly appreciated if you could enjoy the enclosed barrack style version until then.

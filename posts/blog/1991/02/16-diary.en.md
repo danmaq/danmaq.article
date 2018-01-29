@@ -2,7 +2,7 @@
 title: Tiring jump rope test
 date: '1991-02-16T21:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 There was a rope jump test at school this week.

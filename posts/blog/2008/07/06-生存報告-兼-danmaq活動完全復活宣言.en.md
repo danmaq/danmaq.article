@@ -3,7 +3,7 @@ title: Survival report and danmaq activity full declaration of declaration
 post_id: '3674'
 date: '2008-07-06T02:21:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 The schedule for next week has gone by nearly two months, sorry. Even though I died this way, I have not escaped at night, so I'm pleased if you can rest assured. That is why there are not many things that can be released at this time, but on the [illustration page I will add](/3675) a [piece of Toho and a](/3675) little about the next work.

@@ -3,7 +3,7 @@ title: "(2006-2009) IBM NetVista M42Slim"
 post_id: "3470"
 date: "2006-06-15T21:00:00+09:00"
 draft: false
-tag: []
+tags: []
 ---
 
 

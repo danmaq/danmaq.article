@@ -3,7 +3,7 @@ title: A girl fascinated by moonlit night
 post_id: '3173'
 date: '2004-09-04T15:44:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Added stage script " [Nagayo no Eko Phantasm ~ Girl fascinated by moonlit](/tag/touhou-in-phantasm) " [(trial version) on](/tag/touhou-in-phantasm) bullet style script.

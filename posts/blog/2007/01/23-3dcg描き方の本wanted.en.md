@@ -3,7 +3,7 @@ title: 3DCG drawing method (WANTED)
 post_id: '3550'
 date: '2007-01-23T10:19:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 It's not quite like a teaching book of 3DCG for games. There are plenty of ways to draw 3DCG, but there are not many things written assuming to be used in games, while there are many 3D program books, but almost none at all if it comes to modeling.

@@ -3,7 +3,7 @@ title: Hi-macho - Dating bulletin board system for EZweb
 post_id: '2996'
 date: '2001-03-01T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 ## Functional overview

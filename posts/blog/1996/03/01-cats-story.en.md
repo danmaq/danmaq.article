@@ -3,7 +3,7 @@ title: Castle and castle town and scream
 post_id: '2910'
 date: '1996-03-01T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 A story thing which I was drawn The image of a certain scene produced as a document, thinking to make RPG of PC gag cartoon " [Cat Tetsetsu](/cats_story) " on PC.

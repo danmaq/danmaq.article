@@ -3,7 +3,7 @@ title: '"Autumn landscape"'
 post_id: '6383'
 date: '1992-10-12T14:00:06+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 A watercolor painting the cement factory on the back.

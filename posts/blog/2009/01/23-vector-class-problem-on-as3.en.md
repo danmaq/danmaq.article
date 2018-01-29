@@ -3,7 +3,7 @@ title: Is it also a bug in Vector?
 post_id: '3690'
 date: '2009-01-23T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 When running the following program with FlexSDK 3.2, an exception to forced type conversion comes up in the place where Vector instance is created. For the time being, I took notes by asking for a survey after returning home.

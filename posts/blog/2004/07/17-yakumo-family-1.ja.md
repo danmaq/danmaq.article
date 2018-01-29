@@ -3,7 +3,7 @@ title: "目も当てられない状態"
 post_id: "3121"
 date: "2004-07-17T04:10:00+09:00"
 draft: false
-tag: []
+tags: []
 ---
 
 短編 Web コミックです。

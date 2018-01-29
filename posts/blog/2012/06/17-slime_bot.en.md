@@ -3,7 +3,7 @@ title: Slime BOT
 post_id: '3721'
 date: '2012-06-17T18:56:25+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 I made Slime BOT. It's not a sly slime, so please follow me if you like.

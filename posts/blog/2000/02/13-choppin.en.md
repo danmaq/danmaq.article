@@ -3,7 +3,7 @@ title: Cow chops
 post_id: '2958'
 date: '2000-02-13T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Wake up to treason and sweep away the crow 's large swarms approaching like angry ashore with hand - swords! Cow hunting chop action! It is very similar to [Mk - IIK](/mk-iik) , but it is a big difference to say that you can slash [everyone](/mk-iik) who approaches.

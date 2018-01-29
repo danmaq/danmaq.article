@@ -3,7 +3,7 @@ title: Make things like th07.dat
 post_id: '3650'
 date: '2008-02-21T02:38:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 As thG is like a dream-theater, graphic data, sound effect data and data around it are unbearable because of circumstances in a bit of a lot of circumstances, so it's unfavorable, so I thought that it is a package that packs them into one and thrusts them When I was referring to the data format of the first barrage style th07.dat When I peeked in, the character string that seemed to be a clue for analysis was not rolling at all. How did the perfumed teacher comprehend the tools to develop this? It is impossible for us to do at least the reverse sweat of the main body. For the time being, basic graphic engine and the above-mentioned package reading function, and a simple MAP for testing are completed. Since BGM has already gotten, if it does not make it in time, if it is sent to BGM even around EURO - ROMANCE (ry After all, if it goes smoothly in the future, it will be released a bit more in about 4 months or so (perhaps it is distributed as a test version at the inner ring level) Maybe you can distribute test versions for the general public to the head of June ... ... maybe orz

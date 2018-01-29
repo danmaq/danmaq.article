@@ -3,7 +3,7 @@ title: Commentary
 post_id: '3222'
 date: '2004-12-28T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Here we show the creations of our circle. Please refer to each item for details.

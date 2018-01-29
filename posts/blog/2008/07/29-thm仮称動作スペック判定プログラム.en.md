@@ -3,7 +3,7 @@ title: thM (tentative name) operation specification determination program
 post_id: '3676'
 date: '2008-07-29T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 [The next time I](http://kagaminer.in/) got a bit more spec requirement, I bought it, but it did not move! I tried making a judging program so that it would not be said We will publish . If it actually starts and it is OK (maybe) if the following 2 points are OK.

@@ -3,7 +3,7 @@ title: "藍特製・橙の夏服"
 post_id: "3141"
 date: "2004-08-05T00:12:00+09:00"
 draft: false
-tag: []
+tags: []
 ---
 
 Webコミック “[八雲家の日常](/tag/yakumo-family?order=ASC)” の番外編的なやつです。

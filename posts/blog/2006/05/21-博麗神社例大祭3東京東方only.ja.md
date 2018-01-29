@@ -3,7 +3,7 @@ title: "博麗神社例大祭3(東京/東方only)"
 post_id: "3457"
 date: "2006-05-21T00:00:00+09:00"
 draft: false
-tag: []
+tags: []
 ---
 
 

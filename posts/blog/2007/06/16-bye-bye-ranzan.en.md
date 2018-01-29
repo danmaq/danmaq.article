@@ -3,7 +3,7 @@ title: bye-bye Ranzan
 post_id: '3588'
 date: '2007-06-16T20:47:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 ![Click to enlarge.](https://danmaq.com/image/mixi/2007/467856360_113_s.jpg)

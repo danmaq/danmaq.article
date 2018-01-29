@@ -3,7 +3,7 @@ title: "囚人"
 post_id: "7087"
 date: "1999-06-10T11:30:15+09:00"
 draft: false
-tag: []
+tags: []
 ---
 
 

@@ -3,7 +3,7 @@ title: Number battle game
 post_id: '2909'
 date: '1996-03-01T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 It has been developed well into a battle game well for several hitting games that are often found in game program collections.

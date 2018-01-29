@@ -3,7 +3,7 @@ title: "ケロ山ケロ山ケロ山…"
 post_id: "2972"
 date: "2000-04-21T11:08:00+09:00"
 draft: false
-tag: []
+tags: []
 ---
 
 

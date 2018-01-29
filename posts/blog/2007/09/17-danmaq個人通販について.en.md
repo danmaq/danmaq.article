@@ -3,7 +3,7 @@ title: About danmaq personal mail order
 post_id: '3616'
 date: '2007-09-17T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 It started from 2007/1 [danmaq It is a personal mail order](http://e.danmaq.com/) , but there is one report matter. From 2007/10, postage privatization will slightly change the fee structure (price increase), but we will continue to keep _postage · handling fee unchanged_ for the time being (at least this year). However, we will change it to mailing in booklet parcel format instead of conventional non-standard-size sealed letter form. (The shape of the envelope changes slightly) Please note that.

@@ -3,7 +3,7 @@ title: I am scared of Layla's face
 post_id: '3357'
 date: '2005-12-09T00:00:02+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Please become familiar.

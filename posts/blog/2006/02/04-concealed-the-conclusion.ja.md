@@ -3,7 +3,7 @@ title: "Concealed the Conclusion"
 post_id: "3393"
 date: "2006-02-04T00:00:00+09:00"
 draft: false
-tag: []
+tags: []
 ---
 
 

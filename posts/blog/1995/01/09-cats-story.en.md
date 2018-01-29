@@ -3,7 +3,7 @@ title: Cat fight
 post_id: '6439'
 date: '1995-01-09T10:00:24+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Illustration of the protagonist of the [cat](/cats_story) , "Me". At that time I liked to stretch the characters side-by-side.

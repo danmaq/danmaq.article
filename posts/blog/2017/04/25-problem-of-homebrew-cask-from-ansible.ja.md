@@ -3,7 +3,7 @@ title: "Ansible で homebrew_cask を使うとフリーズする場合の処方�
 post_id: "8797"
 date: "2017-04-25T11:29:56+09:00"
 draft: false
-tag: ['diary', 'tech', 'ansible', 'mac', 'homebrew']
+tags: ['diary', 'tech', 'ansible', 'mac', 'homebrew']
 ---
 
 ## 原因

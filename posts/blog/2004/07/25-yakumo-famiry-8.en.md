@@ -5,7 +5,7 @@ title: >-
 post_id: '3129'
 date: '2004-07-25T09:02:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 As the fox left a letter to the Lord, he sighed and gently quietly left the room.  

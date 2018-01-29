@@ -3,7 +3,7 @@ title: TA get !!
 post_id: '2965'
 date: '2000-03-20T18:12:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Now you can net from Jitaku !! Wow the next version upgrade notice is [Mk - IIK](/mk-iik) and [Km - IIK](/km-iik) . This time we release [the format](/filez/app/kmanibms.txt) of [extended MSD for 6](/filez/app/MSD2K.txt) [panels and expanded BMS for 24 key](/filez/app/kmanibms.txt) ! If you have any conflicting reserved words, opinions etc. please email ♪

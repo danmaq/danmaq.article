@@ -3,7 +3,7 @@ title: Secondary creation comic "Nobody has Doraemon Nobita!"
 post_id: '2911'
 date: '1996-12-01T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 A scene of a story comic "Doraemon Nobita Nobody!" That was also drawn at that time! One day, a very normal day begins, but Nobita is late for missing breakfast, falling to a well in physical education, left lost, missed lunch, and Tondemo's unlucky overlap, spend several days without ever getting lost become.

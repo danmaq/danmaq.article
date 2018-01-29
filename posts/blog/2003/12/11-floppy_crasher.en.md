@@ -3,7 +3,7 @@ title: How to make a floppy beaten up
 post_id: '3092'
 date: '2003-12-11T19:05:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 This code seems to not work properly depending on the environment, so [I made](/floppy_crasher2) an [improved version](/floppy_crasher2) .

@@ -3,7 +3,7 @@ title: 'Whichever it is, the picture is super hesitant but what is it?'
 post_id: '3356'
 date: '2005-12-09T00:00:01+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 First of all I am sorry orz

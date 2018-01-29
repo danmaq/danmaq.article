@@ -3,7 +3,7 @@ title: "滅びた城の宝 Ⅰ"
 post_id: "6338"
 date: "1996-07-01T00:00:07+09:00"
 draft: false
-tag: []
+tags: []
 ---
 
 

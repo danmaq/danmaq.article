@@ -3,7 +3,7 @@ title: Hakurei Shrine example large festival 3 (Tokyo / eastern only)
 post_id: '3457'
 date: '2006-05-21T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 *   And -16b / " [NIP](http://www.geocities.jp/nip_sigurem/) " (commissioned participation)

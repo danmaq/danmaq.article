@@ -3,7 +3,7 @@ title: danmaq circle activity policy
 post_id: '3229'
 date: '2004-12-28T00:00:58+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 *   Make a lot of SUGEEEEEEE !!!

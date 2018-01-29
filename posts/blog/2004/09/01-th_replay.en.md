@@ -3,7 +3,7 @@ title: Eastern Replay Collection
 post_id: '3095'
 date: '2004-09-01T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 It is a replay file of Toho Kaibutsu / Youmiri Yume / Yongsa Ekisu. You can appreciate by unpacking the file and putting it in the replay folder of each game.

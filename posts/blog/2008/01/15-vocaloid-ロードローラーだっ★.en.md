@@ -3,7 +3,7 @@ title: '[VOCALOID] It is a road roller ★'
 post_id: '3642'
 date: '2008-01-15T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 ![I can do it miku ♪](https://danmaq.com/image/illustrations/miku/press_s.jpg)

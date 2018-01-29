@@ -3,7 +3,7 @@ title: "web拍手もどきの使い方"
 post_id: "3216"
 date: "2004-12-28T00:00:00+09:00"
 draft: false
-tag: []
+tags: []
 ---
 
 

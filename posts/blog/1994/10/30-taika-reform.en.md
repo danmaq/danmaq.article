@@ -3,7 +3,7 @@ title: Manga Taika's revolution
 post_id: '6429'
 date: '1994-10-30T18:00:34+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Because it was decided to post a history article at the cultural festival * of the junior high school days, as I was suffering from the story story, it is said that "Oh, the Taika's revolution and the time machine is similar to the sound of words" It is a cartoon that I noticed and imaged with improvisation. ※ Memory is a bit frustrating. Perhaps it was a summer vacation homework ... ....?

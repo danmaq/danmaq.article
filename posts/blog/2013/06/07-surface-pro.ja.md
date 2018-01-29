@@ -3,7 +3,7 @@ title: "(2013-2016) Microsoft Surface Pro"
 post_id: "8694"
 date: "2013-06-07T15:30:09+09:00"
 draft: false
-tag: []
+tags: []
 ---
 
 [8 年ぶり](/palx190dr)に手に入れた、ノート PC としては主力級のウルトラブック。

@@ -3,7 +3,7 @@ title: ♪ Mimi Mimi Omikami Mimi (WANTED)
 post_id: '3559'
 date: '2007-03-22T06:06:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 A story of a commercial magazine after a long absence from doujinshi. I have some comics I am looking for, but I can not find it easily. It's a book that I had previously sold and sold, but I want to read again occasionally. I wanted to use it for a little parody (←

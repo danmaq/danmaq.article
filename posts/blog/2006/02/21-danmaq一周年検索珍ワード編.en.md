@@ -3,7 +3,7 @@ title: danmaq First Anniversary (Search Uncommon Word)
 post_id: '3406'
 date: '2006-02-21T11:45:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Following the previous diary, if you notice that one year has passed since danmaq formation, the continuation of the [previous access analysis that was posted](/3405) . This time searching rare word version.

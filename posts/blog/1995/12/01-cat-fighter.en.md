@@ -3,7 +3,7 @@ title: Cat fighter
 post_id: '2906'
 date: '1995-12-01T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Illustration of a protagonist of a [self-made RPG](/tags/cats-story) , " [Ubukuro Neko zetsu](/cats_story) " that was conceived. From the left "Me", "Mu", "Mya".

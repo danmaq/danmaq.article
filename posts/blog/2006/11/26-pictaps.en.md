@@ -3,7 +3,7 @@ title: PICTAPS
 post_id: '3529'
 date: '2006-11-26T14:41:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 [I tried making a relaxation as the](http://roxik.com/pictaps/?pid=176617) hand with a pen got tired.

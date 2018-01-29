@@ -5,7 +5,7 @@ title: >-
 post_id: '3552'
 date: '2007-02-04T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Consignment sales of [Toho Dreams Drama](/!/thC/) _starts from_ [February](/!/thC/) 4, _starting from Today 's Today_ . ...... I think the delivery was 2/4 orz early today, even if it is late, it is from tomorrow.

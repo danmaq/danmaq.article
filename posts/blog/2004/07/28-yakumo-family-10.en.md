@@ -3,7 +3,7 @@ title: There is no meaning of a hostage unless it is alive
 post_id: '3132'
 date: '2004-07-28T08:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Also, if you let it go upside down, the judgment to the surroundings becomes dull. ...... When I noticed my sight was stained deep red.

@@ -3,7 +3,7 @@ title: (2001-2003) NEC 98 MULTi CanBe Cx / S3
 post_id: '3007'
 date: '2001-05-01T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 When I was a junior high school I got a PC I wanted about 500 hands from my throat in such a place. And it's 4,000 yen. At that time I thought that I wanted a television in my room, so it costs 4,000 yen with TV capture! I feel like buying immediately. However, its performance is worse if it thinks now Well ... it was still terrible at that time (I was touched by the exhibition of the shop a long time ago, I was moved), but I could not find the LAN adapter specifically for 98, after all I can not connect to the net.

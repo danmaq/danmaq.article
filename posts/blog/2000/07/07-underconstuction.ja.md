@@ -3,7 +3,7 @@ title: "余談"
 post_id: "2979"
 date: "2000-07-07T07:39:05+09:00"
 draft: false
-tag: []
+tags: []
 ---
 
 

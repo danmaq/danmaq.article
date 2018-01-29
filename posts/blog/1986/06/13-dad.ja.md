@@ -4,7 +4,7 @@ post_id: "6345"
 date: "1986-06-13T11:00:00+09:00"
 draft: false
 cover: ../../../assets/illustration/1986-1990/1986-dad.jpg
-tag:
+tags:
 - illustration
 - analog
 ---

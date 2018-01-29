@@ -3,7 +3,7 @@ title: Be honest with yourself
 post_id: '3705'
 date: '2011-04-01T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 [【Nico Nico Douga】 I tried Kagamine Len's face with attraction 【Yuuki Rito meaning】](http://www.nicovideo.jp/watch/sm14003977)

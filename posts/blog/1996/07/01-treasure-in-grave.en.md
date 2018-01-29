@@ -3,7 +3,7 @@ title: Treasure of the destroyed castle Ⅰ
 post_id: '6338'
 date: '1996-07-01T00:00:07+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 At that time I had ambition saying "I want to make RPG on PC!" ... but it has just been settled in about one or two weeks.

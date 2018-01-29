@@ -3,7 +3,7 @@ title: Original comic "Untitled"
 post_id: '2894'
 date: '1992-01-13T10:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 A comic strip drawn by myself for the first time. There was no manga title, there was no context in the story, it was a 4-frame manga with ordinary gag things.

@@ -2,7 +2,7 @@
 title: A social studies tour that I wanted to see more
 date: '1992-09-10T17:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 Today I went to see social studies. The place to go is Honda Motor Co., Ltd. in Sayama City, and Higashi Chichi Paper Washi Center.

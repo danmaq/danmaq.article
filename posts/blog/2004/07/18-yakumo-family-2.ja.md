@@ -3,7 +3,7 @@ title: "式神結界"
 post_id: "3122"
 date: "2004-07-18T02:39:00+09:00"
 draft: false
-tag: []
+tags: []
 ---
 
 狐狗狸対策。

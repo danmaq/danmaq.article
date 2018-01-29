@@ -3,7 +3,7 @@ title: '[VOCALOID] Karakuri Utahime Hatsune Miku'
 post_id: '3645'
 date: '2008-01-25T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 ![634](https://danmaq.com/image/illustrations/miku/634_s.jpg)

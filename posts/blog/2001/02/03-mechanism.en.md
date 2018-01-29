@@ -3,7 +3,7 @@ title: '[BMS] mechanism'
 post_id: '2994'
 date: '2001-02-03T14:43:32+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 ## "Mechanism" [Listen to ringtone remix](/filez/music/mechanism_smaf_ma2.mp3) (\[filesize\] [https://danmaq.com/filez/music/mechanism\_smaf\_ma2.mp3\[/filesize](https://danmaq.com/filez/music/mechanism_smaf_ma2.mp3[/filesize) \])

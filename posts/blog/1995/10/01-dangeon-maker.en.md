@@ -3,7 +3,7 @@ title: DANGEON MAKER
 post_id: '2905'
 date: '1995-10-01T00:00:00+09:00'
 draft: false
-tag: []
+tags: []
 ---
 
 For simplicity, "Maze Makuro". First of all it is said to make a maze on the edit screen and play on the game screen.
