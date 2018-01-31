@@ -2,7 +2,7 @@
 title: "FLANを入手する"
 post_id: "3484"
 date: "2006-07-21T00:00:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 
@@ -14,5 +14,5 @@ tags: []
   * “[version 0.2b”をダウンロードする](/filez/thd/flan/flan_0.2b.zip)(2006/10/15:[filesize]https://danmaq.com/filez/thd/flan/flan_0.2b.zip[/filesize])
   * “[version 0.2a”をダウンロードする](/filez/thd/flan/flan_0.2a.zip)(2006/10/9:[filesize]https://danmaq.com/filez/thd/flan/flan_0.2a.zip[/filesize])
   * “[version 0.1j”をダウンロードする](/filez/thd/flan/flan_0.1j.zip)(2006/9/21:[filesize]https://danmaq.com/filez/thd/flan/flan_0.1j.zip[/filesize])
-  * [オンラインマニュアルを見る](/!/flan/)(ダウンロード版と同じ内容です)
-  * [更新履歴を見る](/!/flan/DATA/__history.xml)(ダウンロード版と同じ内容です)
+  * [オンラインマニュアルを見る](https://danmaq.com/!/flan/)(ダウンロード版と同じ内容です)
+  * [更新履歴を見る](https://danmaq.com/!/flan/DATA/__history.xml)(ダウンロード版と同じ内容です)

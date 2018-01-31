@@ -2,7 +2,7 @@
 title: "HTML講座2"
 post_id: "3017"
 date: "2001-09-21T15:34:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

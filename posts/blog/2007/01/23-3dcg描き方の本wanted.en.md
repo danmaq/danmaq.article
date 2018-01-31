@@ -2,7 +2,7 @@
 title: 3DCG drawing method (WANTED)
 post_id: '3550'
 date: '2007-01-23T10:19:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

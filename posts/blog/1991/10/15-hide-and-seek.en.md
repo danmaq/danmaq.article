@@ -2,7 +2,7 @@
 title: Hide and seek
 post_id: '6377'
 date: '1991-10-15T11:00:48+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

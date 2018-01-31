@@ -2,7 +2,7 @@
 title: "YASiM-CITYとしては最後"
 post_id: "2969"
 date: "2000-04-11T16:06:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

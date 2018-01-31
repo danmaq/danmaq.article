@@ -2,7 +2,7 @@
 title: NUE - Blog / CMS system which allows for highly flexible skin with XSL
 post_id: '3708'
 date: '2011-06-01T15:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

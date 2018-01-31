@@ -2,7 +2,7 @@
 title: 'During re-setup of Windows 10, 50 processes I''m doing'
 post_id: '8662'
 date: '2016-08-12T22:43:13+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

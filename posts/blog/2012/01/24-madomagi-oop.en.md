@@ -2,7 +2,7 @@
 title: Object oriented to learn with a magical girl (Soul gem smell GoF)
 post_id: '3716'
 date: '2012-01-24T16:36:49+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

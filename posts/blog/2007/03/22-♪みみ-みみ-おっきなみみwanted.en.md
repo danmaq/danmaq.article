@@ -2,7 +2,7 @@
 title: ♪ Mimi Mimi Omikami Mimi (WANTED)
 post_id: '3559'
 date: '2007-03-22T06:06:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

@@ -2,7 +2,7 @@
 title: '[Replica] Xavier'
 post_id: '6432'
 date: '1994-12-01T21:00:02+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

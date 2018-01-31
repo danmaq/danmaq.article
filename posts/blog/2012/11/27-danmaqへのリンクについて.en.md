@@ -2,7 +2,7 @@
 title: About link to danmaq
 post_id: 268
 date: '2012-11-27T23:40:25+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

@@ -2,7 +2,7 @@
 title: "数当てバトルゲーム"
 post_id: "2909"
 date: "1996-03-01T00:00:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

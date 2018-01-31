@@ -2,7 +2,7 @@
 title: 'If you run away today, you will need more courage tomorrow'
 post_id: '3703'
 date: '2011-02-04T00:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

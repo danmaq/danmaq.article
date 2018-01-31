@@ -2,7 +2,7 @@
 title: "[VOCALOID] 初音ラマ"
 post_id: "3643"
 date: "2008-01-17T00:00:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

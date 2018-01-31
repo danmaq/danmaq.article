@@ -2,7 +2,7 @@
 title: "生かしてなければ人質の意味が無い"
 post_id: "3132"
 date: "2004-07-28T08:00:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

@@ -2,7 +2,7 @@
 title: "(2006-2009) IBM NetVista M42Slim"
 post_id: "3470"
 date: "2006-06-15T21:00:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 
@@ -13,7 +13,7 @@ tags: []
 ## 製作物・他やってたこと
 
 
-  * [東方夢終劇](/!/thC/)
+  * [東方夢終劇](https://danmaq.com/!/thC/)
 ## 性能
 
   * CPU:intel Pentium 4(Willamette/1.9GHz)

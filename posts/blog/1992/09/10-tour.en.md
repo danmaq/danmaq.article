@@ -1,7 +1,7 @@
 ---
 title: A social studies tour that I wanted to see more
 date: '1992-09-10T17:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

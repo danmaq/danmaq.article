@@ -2,7 +2,7 @@
 title: Survival report and danmaq activity full declaration of declaration
 post_id: '3674'
 date: '2008-07-06T02:21:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

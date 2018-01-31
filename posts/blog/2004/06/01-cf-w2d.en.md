@@ -2,7 +2,7 @@
 title: (2004-2005) Panasonic Let'sNote CF-W2D
 post_id: '3290'
 date: '2004-06-01T20:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 
@@ -14,7 +14,7 @@ It's the first main machine in my notebook PC I brought. Thanks to this PC I lea
     
     ## Works / Other things I did
     
-*   [Toho-shi castle](/!/thA/) before eastward All Toho-Mono products that were [uploaded](/!/thA/) to this site
+*   [Toho-shi castle](https://danmaq.com/!/thA/) before eastward All Toho-Mono products that were [uploaded](https://danmaq.com/!/thA/) to this site
     
     ## Performance
     

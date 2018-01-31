@@ -2,7 +2,7 @@
 title: JIJIHAZARD image CG
 post_id: '6497'
 date: '1998-12-27T20:00:35+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

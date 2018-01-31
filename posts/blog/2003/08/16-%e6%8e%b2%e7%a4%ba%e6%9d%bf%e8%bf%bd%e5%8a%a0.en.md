@@ -2,7 +2,7 @@
 title: Add bulletin board
 post_id: '3079'
 date: '2003-08-16T00:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

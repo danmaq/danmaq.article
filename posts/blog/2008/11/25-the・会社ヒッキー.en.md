@@ -2,7 +2,7 @@
 title: The · company · hickey
 post_id: '3684'
 date: '2008-11-25T00:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 
@@ -12,7 +12,7 @@ It seems that the trial version Flash made by Uchi (see the diary of the other d
 
 ## Winter comic stuff
 
-I was wondering if I would like to release a trial version of "thM (tentative name)" work co-produced with Mr. [DANGOYA](http://dangoya.moo.jp/) , but because it was postponed due to various circumstances, [We](/!/thA/) will distribute trial version of [Tokijo castle](/!/thA/) remake. (No, perfect implementation is not going to make it in time for a moment orz) We will add an app for free to those who purchased Tokijo Castle (400 yen). In addition, those who already have the sealed castle will receive a free shipping if you bring a Jacket seal jacket. When it is already published as sealed castle (CD-R version), dream last movie (few copies so early), Leila, danmaq soundtrack.
+I was wondering if I would like to release a trial version of "thM (tentative name)" work co-produced with Mr. [DANGOYA](http://dangoya.moo.jp/) , but because it was postponed due to various circumstances, [We](https://danmaq.com/!/thA/) will distribute trial version of [Tokijo castle](https://danmaq.com/!/thA/) remake. (No, perfect implementation is not going to make it in time for a moment orz) We will add an app for free to those who purchased Tokijo Castle (400 yen). In addition, those who already have the sealed castle will receive a free shipping if you bring a Jacket seal jacket. When it is already published as sealed castle (CD-R version), dream last movie (few copies so early), Leila, danmaq soundtrack.
 
 ## update information
 

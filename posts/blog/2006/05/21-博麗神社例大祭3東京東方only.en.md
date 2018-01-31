@@ -2,7 +2,7 @@
 title: Hakurei Shrine example large festival 3 (Tokyo / eastern only)
 post_id: '3457'
 date: '2006-05-21T00:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 
@@ -12,4 +12,4 @@ tags: []
         ## New publication
         
 
-*   [Toei Yumimo Drama - Concealed the Conclusion Trial Version A](/!/thC/) (Game / 100 yen)
+*   [Toei Yumimo Drama - Concealed the Conclusion Trial Version A](https://danmaq.com/!/thC/) (Game / 100 yen)

@@ -2,7 +2,7 @@
 title: "拝啓 部下の気持ちなど寸分も理解なされてない紫様へ"
 post_id: "3129"
 date: "2004-07-25T09:02:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

@@ -2,7 +2,7 @@
 title: "danmaq一周年記念"
 post_id: "3425"
 date: "2006-03-18T23:59:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

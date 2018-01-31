@@ -2,7 +2,7 @@
 title: Room remodeling work I (around PC)
 post_id: '3560'
 date: '2007-03-22T23:03:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

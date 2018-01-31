@@ -2,7 +2,7 @@
 title: I've got to make BGM for dreams too
 post_id: '3410'
 date: '2006-02-26T21:14:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

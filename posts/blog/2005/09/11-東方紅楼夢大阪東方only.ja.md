@@ -2,7 +2,7 @@
 title: "東方紅楼夢(大阪/東方only)"
 post_id: "3319"
 date: "2005-09-11T00:00:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 
@@ -13,4 +13,4 @@ tags: []
 
 
 
-  * [東方時封城 ～ the Alternative Age](/!/thA/)(ゲーム/500yen)
+  * [東方時封城 ～ the Alternative Age](https://danmaq.com/!/thA/)(ゲーム/500yen)

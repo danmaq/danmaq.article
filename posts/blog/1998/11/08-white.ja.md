@@ -2,7 +2,7 @@
 title: "(注)このネタは……！"
 post_id: "6491"
 date: "1998-11-08T00:00:29+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

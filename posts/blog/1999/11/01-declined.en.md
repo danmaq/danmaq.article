@@ -2,7 +2,7 @@
 title: DECLINEd BBS RING
 post_id: '2703'
 date: '1999-11-01T18:00:59+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

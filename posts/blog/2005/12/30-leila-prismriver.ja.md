@@ -7,7 +7,7 @@ tags: []
 ---
 
 
-クロスフェード  **[クロスフェードデモを聞く](/!/leila/x.mp3) ([filesize]https://danmaq.com/!/leila/x.mp3[/filesize])** 「[東方時封城 ～ the Alternative Age](/!/thA/)」より11曲+未収録曲2曲、全65分を収録！シンセサイザOASYSにて全曲リメイクした時封城本編とはまた異なる音色の東方アレンジサウンドトラックです。
+クロスフェード  **[クロスフェードデモを聞く](https://danmaq.com/!/leila/x.mp3) ([filesize]https://danmaq.com/!/leila/x.mp3[/filesize])** 「[東方時封城 ～ the Alternative Age](https://danmaq.com/!/thA/)」より11曲+未収録曲2曲、全65分を収録！シンセサイザOASYSにて全曲リメイクした時封城本編とはまた異なる音色の東方アレンジサウンドトラックです。
 
   * TOUHOU | 64:42
-  * [特設ページを見る](/!/leila/)
+  * [特設ページを見る](https://danmaq.com/!/leila/)

@@ -2,7 +2,7 @@
 title: About personal mail order "e-danmaq"
 post_id: '3543'
 date: '2007-01-04T00:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 
@@ -10,7 +10,7 @@ tags: []
 
 ## List of products handled
 
-*   [Oriental time seal seal (game / SOLD OUT)](/!/thA/)
-*   [Toho Yume Duma Drama (game / SOLD OUT)](/!/thC/)
-*   [Leila Prismriver (Music CD)](/!/leila/)
-*   [danmaq soundtrack (music CD)](/!/dst/)
+*   [Oriental time seal seal (game / SOLD OUT)](https://danmaq.com/!/thA/)
+*   [Toho Yume Duma Drama (game / SOLD OUT)](https://danmaq.com/!/thC/)
+*   [Leila Prismriver (Music CD)](https://danmaq.com/!/leila/)
+*   [danmaq soundtrack (music CD)](https://danmaq.com/!/dst/)

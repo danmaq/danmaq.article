@@ -2,7 +2,7 @@
 title: (1999.5) Rotten page (prototype)
 post_id: 350
 date: '1999-05-03T00:00:52+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

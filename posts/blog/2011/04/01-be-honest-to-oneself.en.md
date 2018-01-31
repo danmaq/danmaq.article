@@ -2,7 +2,7 @@
 title: Be honest with yourself
 post_id: '3705'
 date: '2011-04-01T00:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 
@@ -17,15 +17,15 @@ Miku bought it for three months from the release, but until I made this movie, I
 ## About Resale of Dream Theater
 
 It was a while early but announcing once.  
-I announced that I will release the .NET ported version of [Toho Yumimaku Drama](/!/thC/) at an unknown timing, but I will release it with _C81 matching_ .
+I announced that I will release the .NET ported version of [Toho Yumimaku Drama](https://danmaq.com/!/thC/) at an unknown timing, but I will release it with _C81 matching_ .
 
 *   As .NET version (xna), you can play without barrage style. Easy installer included.
 *   Additional dreams last SCC added last word! May I? (We have not talked to someone inside yet so we have not decided at the moment)
 *   Improvement of inconvenient spelling practice.
 *   It's going to be a shorter loading time!
-*   Built-in [mini-game "Toho Yume Duma Drama ~ Catch the Cat"](/!/thC/chen.html) !
+*   Built-in [mini-game "Toho Yume Duma Drama ~ Catch the Cat"](https://danmaq.com/!/thC/chen.html) !
 
-Although it was open to the public somewhere secretly from around New Year's holiday this year, [pre-alpha version](/!/thC/nph-thC3.0TrGetNightlyBuild.cgi) can be [downloaded here](/!/thC/nph-thC3.0TrGetNightlyBuild.cgi) . Because it is a pre-alpha version, it is only 1 weapon stage. I also have bugs left over. The operation was planned to be much lighter than the barrage style, but in reality it is only a little lighter. However, since the foot cutting line of the old PC and OS is slightly higher than the barrage style (high end in 2005 - safety zone from the low end in 2007, the OS requires at least XP SP 3), to test whether it can boot It might be good to put it in.
+Although it was open to the public somewhere secretly from around New Year's holiday this year, [pre-alpha version](https://danmaq.com/!/thC/nph-thC3.0TrGetNightlyBuild.cgi) can be [downloaded here](https://danmaq.com/!/thC/nph-thC3.0TrGetNightlyBuild.cgi) . Because it is a pre-alpha version, it is only 1 weapon stage. I also have bugs left over. The operation was planned to be much lighter than the barrage style, but in reality it is only a little lighter. However, since the foot cutting line of the old PC and OS is slightly higher than the barrage style (high end in 2005 - safety zone from the low end in 2007, the OS requires at least XP SP 3), to test whether it can boot It might be good to put it in.
 
 By the way, I completely forgotten, but it was a fun day for us to travel around the web today.
 

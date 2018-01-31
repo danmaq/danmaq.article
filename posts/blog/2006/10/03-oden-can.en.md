@@ -4,7 +4,7 @@ title: >-
   a place to rest
 post_id: '3518'
 date: '2006-10-03T01:03:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

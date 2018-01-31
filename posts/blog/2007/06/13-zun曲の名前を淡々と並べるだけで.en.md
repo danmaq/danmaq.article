@@ -2,7 +2,7 @@
 title: Simply align the names of ZUN songs
 post_id: '3585'
 date: '2007-06-13T17:51:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

@@ -2,7 +2,7 @@
 title: Treasure of the destroyed castle Ⅰ
 post_id: '6338'
 date: '1996-07-01T00:00:07+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

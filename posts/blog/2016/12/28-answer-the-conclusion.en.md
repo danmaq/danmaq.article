@@ -12,4 +12,4 @@ tags:
 > 
 > Ordinary girls high school student "Mioone" who saw dreams as Marisa in miracles of youkai. Once seeking the forgotten village, overcoming the various happening and encounters of school life, private life, and eventually she will "reunite" the girl of the dream lord ─
 
-It is a spin-off story of my work " [Concealed the Conclusion of Toho Dreams](/!/thC/) ". Half of the 112 pages Eastward, half original light Novel set in the real world after Gensokyo disappeared. [We will distribute it with comic market 91](/c91) ! Also, shop consignment is under negotiation now. Illustration: [Mutting Lamp Road](http://pixiv.me/mutsuki_nozomi)
+It is a spin-off story of my work " [Concealed the Conclusion of Toho Dreams](https://danmaq.com/!/thC/) ". Half of the 112 pages Eastward, half original light Novel set in the real world after Gensokyo disappeared. [We will distribute it with comic market 91](/c91) ! Also, shop consignment is under negotiation now. Illustration: [Mutting Lamp Road](http://pixiv.me/mutsuki_nozomi)

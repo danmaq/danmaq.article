@@ -2,7 +2,7 @@
 title: How to use web applause
 post_id: '3216'
 date: '2004-12-28T00:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

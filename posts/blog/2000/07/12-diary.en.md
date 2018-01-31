@@ -4,7 +4,7 @@ title: >-
   fancy city planning! (Moe mystery
 post_id: '2982'
 date: '2000-07-12T15:37:32+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

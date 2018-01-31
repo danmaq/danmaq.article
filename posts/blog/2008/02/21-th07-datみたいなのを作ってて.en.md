@@ -2,7 +2,7 @@
 title: Make things like th07.dat
 post_id: '3650'
 date: '2008-02-21T02:38:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

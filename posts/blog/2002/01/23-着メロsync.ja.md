@@ -2,7 +2,7 @@
 title: "[着メロ]Sync"
 post_id: "3028"
 date: "2002-01-23T15:53:15+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

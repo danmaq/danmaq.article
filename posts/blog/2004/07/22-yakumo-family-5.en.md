@@ -2,7 +2,7 @@
 title: Death to those who make noise and those who make noise
 post_id: '3126'
 date: '2004-07-22T01:19:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

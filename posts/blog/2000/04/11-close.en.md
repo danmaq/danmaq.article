@@ -2,7 +2,7 @@
 title: Last as YASiM-CITY
 post_id: '2969'
 date: '2000-04-11T16:06:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

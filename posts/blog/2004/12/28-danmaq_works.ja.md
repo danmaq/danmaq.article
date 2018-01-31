@@ -2,7 +2,7 @@
 title: "同人活動"
 post_id: "3228"
 date: "2004-12-28T00:00:58+09:00"
-draft: false
+draft: true
 tags: []
 ---
 
@@ -12,11 +12,11 @@ tags: []
   * (2011/Webアプリ)[NUE - Network Utterance Environment](/nue)
   * (2009/Webアプリ)[ソクラテスは死ぬ](http://prodigy-inc.co.jp/labo/socrates/)(運営:[(株)PRODIGY](http://prodigy-inc.co.jp/))
   * (2008/画集動画)[こんな初音ミクはアンインストール♪](http://www.nicovideo.jp/watch/sm2197976)
-  * (2007/音楽CD/Package)[danmaq soundtrack](/!/dst/)
+  * (2007/音楽CD/Package)[danmaq soundtrack](https://danmaq.com/!/dst/)
   * (2007/画集動画)[ヘタレ絵師が17年分の黒歴史を晒してみた](http://www.nicovideo.jp/watch/sm1331302)
-  * (2006/ゲーム/Package)[東方夢終劇 ～ Concealed the Conclusion](/!/thC/)
-  * (2005/音楽CD/Package)[Leila Prismriver](/!/leila/)
-  * (2005/ゲーム/Package)[東方時封城 ～ the Alternative Age](/!/thA/)
+  * (2006/ゲーム/Package)[東方夢終劇 ～ Concealed the Conclusion](https://danmaq.com/!/thC/)
+  * (2005/音楽CD/Package)[Leila Prismriver](https://danmaq.com/!/leila/)
+  * (2005/ゲーム/Package)[東方時封城 ～ the Alternative Age](https://danmaq.com/!/thA/)
   * (2004/ゲーム)[月夜に魅せられた少女](/tag/touhou-in-phantasm)
   * (2004/ゲーム)[幻寇戦乱録](/touhou-pcb-g)
   * (2004/ゲーム)[紅魔郷Phantasm](/tag/touhou-eosd-phantasm)

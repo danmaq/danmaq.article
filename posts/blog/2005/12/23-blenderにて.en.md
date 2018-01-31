@@ -2,7 +2,7 @@
 title: At blender
 post_id: '3364'
 date: '2005-12-23T23:57:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

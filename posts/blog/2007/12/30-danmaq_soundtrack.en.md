@@ -6,7 +6,7 @@ draft: false
 tags: []
 ---
 
-It is an outtake song collection collection of thirty songs of past home-made songs including eastward arrangements and original songs.
+It is an outtake song collection collection of thirty songs of past home-made songs including Touhou arrangements and original songs.
 
 *   TOUHOU | 75: 04
-*   [View special page](/!/dst/)
+*   [View special page](https://danmaq.com/!/dst/)

@@ -2,7 +2,7 @@
 title: "男の子"
 post_id: "2971"
 date: "2000-04-21T11:07:59+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

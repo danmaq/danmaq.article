@@ -2,7 +2,7 @@
 title: "Mk-IIK(旧称:薪割り2K)"
 post_id: "2938"
 date: "1999-07-21T00:00:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

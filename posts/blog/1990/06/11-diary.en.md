@@ -1,7 +1,7 @@
 ---
 title: diary
 date: '1990-06-11T21:20:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

@@ -2,7 +2,7 @@
 title: "[●情報流出]アカウントのメルアドで統計とってみた"
 post_id: "2550"
 date: "2013-08-27T23:14:25+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

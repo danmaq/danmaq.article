@@ -2,7 +2,7 @@
 title: "博麗神社例大祭3(東京/東方only)"
 post_id: "3457"
 date: "2006-05-21T00:00:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 
@@ -13,4 +13,4 @@ tags: []
 
 
 
-  * [東方夢終劇 ～ Concealed the Conclusion 体験版A](/!/thC/)(ゲーム/100yen)
+  * [東方夢終劇 ～ Concealed the Conclusion 体験版A](https://danmaq.com/!/thC/)(ゲーム/100yen)

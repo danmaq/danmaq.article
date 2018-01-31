@@ -2,7 +2,7 @@
 title: YASIMCITY 2nd Mix
 post_id: 363
 date: '1999-07-01T00:00:26+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

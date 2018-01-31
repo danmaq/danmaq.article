@@ -2,7 +2,7 @@
 title: Please be patient with today 's busy Please forgive me for updates only
 post_id: '3508'
 date: '2006-08-29T20:23:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

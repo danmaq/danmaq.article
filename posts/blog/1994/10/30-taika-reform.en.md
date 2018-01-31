@@ -2,7 +2,7 @@
 title: Manga Taika's revolution
 post_id: '6429'
 date: '1994-10-30T18:00:34+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

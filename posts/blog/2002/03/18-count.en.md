@@ -2,7 +2,7 @@
 title: Count.pm - Counter module pursuing simplicity
 post_id: '3040'
 date: '2002-03-18T00:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

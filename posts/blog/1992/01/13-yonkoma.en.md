@@ -2,7 +2,7 @@
 title: Original comic "Untitled"
 post_id: '2894'
 date: '1992-01-13T10:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

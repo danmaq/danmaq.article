@@ -2,7 +2,7 @@
 title: "ジョジョ太郎"
 post_id: "2931"
 date: "1999-07-10T00:00:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

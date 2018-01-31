@@ -2,7 +2,7 @@
 title: "(2004-2005) Panasonic Let'sNote CF-W2D"
 post_id: "3290"
 date: "2004-06-01T20:00:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 
@@ -14,7 +14,7 @@ tags: []
   * 東方モノ全般
 ## 製作物・他やってたこと
 
-  * [東方時封城](/!/thA/)以前に当サイトにうｐした東方モノ全部
+  * [東方時封城](https://danmaq.com/!/thA/)以前に当サイトにうｐした東方モノ全部
 ## 性能
 
   * CPU:intel Pentium M(Banias/1.1GHz)

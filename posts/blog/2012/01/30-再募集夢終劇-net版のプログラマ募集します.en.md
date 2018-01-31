@@ -2,7 +2,7 @@
 title: '[Recruitment] We are recruiting programmers for Dream End (.NET version)'
 post_id: '3717'
 date: '2012-01-30T11:42:17+09:00'
-draft: false
+draft: true
 tags: []
 ---
 
@@ -20,7 +20,7 @@ We are looking _for one programmer in_ a _hurry_ so that we can provide updates 
     ## Required Spec
     
 
-*   [Dream end theater. NET trial version](/!/thC/nph-thC3.0TrGetNightlyBuild.cgi) has environment that it can start up and operate normally.
+*   [Dream end theater. NET trial version](https://danmaq.com/!/thC/nph-thC3.0TrGetNightlyBuild.cgi) has environment that it can start up and operate normally.
 *   I understand the program basics (variable functions, classes, conditional branching) to the minimum.
 *   It is a programming skill that can be combined a bit with one or more of C ++, Java (including J #), C #, PHP (4 or later), or more. (C # is easy to understand if either can understand)
 *   To be able to make a clear intention, report consultation.

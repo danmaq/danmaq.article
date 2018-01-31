@@ -2,11 +2,11 @@
 title: Hey!
 post_id: '6800'
 date: '2004-01-02T23:37:13+09:00'
-draft: false
+draft: true
 tags: []
 ---
 
-**[Listen to](/!/dst/Hey!.mp3) " [Hey!"](/!/dst/Hey!.mp3) (4:27 | \[filesize\] [https://danmaq.com/!/dst/Hey!.mp3\[/filesize](https://danmaq.com/!/dst/Hey!.mp3[/filesize) \])**
+**[Listen to](https://danmaq.com/!/dst/Hey!.mp3) " [Hey!"](https://danmaq.com/!/dst/Hey!.mp3) (4:27 | \[filesize\] [https://danmaq.com/!/dst/Hey!.mp3\[/filesize](https://danmaq.com/!/dst/Hey!.mp3[/filesize) \])**
 
 Challenge the tropical festive style. At this time I was making songs under a different name, and this song was one of them. Voice was blown into the girl who was dating at that time, but I was too nervous, but even when I recorded it many times, my voice went up and I could not record well, so I forced the waveform to fade and correct it to the usual voice height. I thought that it might be like a flanger just took it, so I just recorded it. By the way, I got some other voices recorded, but since it all became terrible voice like this, it entered the store.
 

@@ -2,7 +2,7 @@
 title: (2005-) KORG OASYS 88
 post_id: '3312'
 date: '2005-08-31T17:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

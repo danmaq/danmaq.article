@@ -4,11 +4,11 @@ title: >-
   somewhere sorrowful
 post_id: '3552'
 date: '2007-02-04T00:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 
-Consignment sales of [Toho Dreams Drama](/!/thC/) _starts from_ [February](/!/thC/) 4, _starting from Today 's Today_ . ...... I think the delivery was 2/4 orz early today, even if it is late, it is from tomorrow.
+Consignment sales of [Toho Dreams Drama](https://danmaq.com/!/thC/) _starts from_ [February](https://danmaq.com/!/thC/) 4, _starting from Today 's Today_ . ...... I think the delivery was 2/4 orz early today, even if it is late, it is from tomorrow.
 
 ## Recent situation
 
@@ -26,7 +26,7 @@ That's a serious new year offset (now a month) than the last update. I got a sup
 
 ## Oops, I forgot
 
-We released [Toho Yume Drama _Complete version R1.02_ patch](/!/thC/) . The inconvenience that the spelling comment display is wrong, and the inconvenience that the data become wrong when replayed playing have been corrected here and there mainly. Unfortunately, Replay compatibility with R1.01 is only 1 to 4 stages and all spelling practices (I tried hard for 2 weeks and a half in order to secure replay compatibility but it is already Muri Poz). The patch target is the complete version R1.00 to R1.01. Also, please be aware that first-aid measures such as bulletin boards may fail to patch if it is not rolled back once.
+We released [Toho Yume Drama _Complete version R1.02_ patch](https://danmaq.com/!/thC/) . The inconvenience that the spelling comment display is wrong, and the inconvenience that the data become wrong when replayed playing have been corrected here and there mainly. Unfortunately, Replay compatibility with R1.01 is only 1 to 4 stages and all spelling practices (I tried hard for 2 weeks and a half in order to secure replay compatibility but it is already Muri Poz). The patch target is the complete version R1.00 to R1.01. Also, please be aware that first-aid measures such as bulletin boards may fail to patch if it is not rolled back once.
 
 ## I further forgot
 

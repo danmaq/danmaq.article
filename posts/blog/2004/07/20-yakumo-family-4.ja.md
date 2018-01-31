@@ -2,7 +2,7 @@
 title: "透明色の塗りつぶし出来たらいいな"
 post_id: "3124"
 date: "2004-07-20T03:25:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

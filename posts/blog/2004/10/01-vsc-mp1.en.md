@@ -2,7 +2,7 @@
 title: (2004-2009) Roland VSC-MP1
 post_id: '3184'
 date: '2004-10-01T00:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

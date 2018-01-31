@@ -2,7 +2,7 @@
 title: '[3D] DDR foot panel'
 post_id: '2995'
 date: '2001-02-07T00:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

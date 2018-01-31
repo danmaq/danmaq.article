@@ -2,7 +2,7 @@
 title: foo (bitches)
 post_id: '3511'
 date: '2006-09-01T20:15:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

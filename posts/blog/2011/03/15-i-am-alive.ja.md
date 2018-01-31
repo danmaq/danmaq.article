@@ -2,7 +2,7 @@
 title: "生きてます"
 post_id: "3704"
 date: "2011-03-15T00:00:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

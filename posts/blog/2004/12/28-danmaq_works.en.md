@@ -2,7 +2,7 @@
 title: Doujin activities
 post_id: '3228'
 date: '2004-12-28T00:00:58+09:00'
-draft: false
+draft: true
 tags: []
 ---
 
@@ -11,11 +11,11 @@ Game programming is the main, but we also do programming other than games (web a
 *   (2011 / Web application) [NUE - Network Utterance Environment](/nue)
 *   (2009 / Web application) [Socrates dies](http://prodigy-inc.co.jp/labo/socrates/) (operated: [PRODIGY Co., Ltd.](http://prodigy-inc.co.jp/) )
 *   (2008 / Art collection video) [This Hatsune Miku is uninstalled ♪](http://www.nicovideo.jp/watch/sm2197976)
-*   (2007 / music CD / Package) [danmaq soundtrack](/!/dst/)
+*   (2007 / music CD / Package) [danmaq soundtrack](https://danmaq.com/!/dst/)
 *   (2007 / Art collection video) [Hetaree painter exposed the black history for 17 years](http://www.nicovideo.jp/watch/sm1331302)
-*   (2006 / Game / Package) [Toei Yumimo Drama ~ Concealed the Conclusion](/!/thC/)
-*   (2005 / Music CD / Package) [Leila Prismriver](/!/leila/)
-*   (2005 / Game / Package) [Toho Hakuzo Castle ~ the Alternative Age](/!/thA/)
+*   (2006 / Game / Package) [Toei Yumimo Drama ~ Concealed the Conclusion](https://danmaq.com/!/thC/)
+*   (2005 / Music CD / Package) [Leila Prismriver](https://danmaq.com/!/leila/)
+*   (2005 / Game / Package) [Toho Hakuzo Castle ~ the Alternative Age](https://danmaq.com/!/thA/)
 *   (2004 / Game) [Girl fascinated by moonlit night](/tag/touhou-in-phantasm)
 *   (2004 / Game) [Phantom Battle War Recording](/touhou-pcb-g)
 *   (2004 / Game) [Kishinbun Phantasm](/tag/touhou-eosd-phantasm)

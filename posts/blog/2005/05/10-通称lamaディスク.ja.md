@@ -2,7 +2,7 @@
 title: "通称Lamaディスク"
 post_id: "3282"
 date: "2005-05-10T00:00:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

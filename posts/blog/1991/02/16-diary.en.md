@@ -1,7 +1,7 @@
 ---
 title: Tiring jump rope test
 date: '1991-02-16T21:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

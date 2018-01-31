@@ -2,7 +2,7 @@
 title: "Reimu"
 post_id: "3167"
 date: "2004-08-31T00:10:59+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

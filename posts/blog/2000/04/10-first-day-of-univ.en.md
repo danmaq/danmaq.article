@@ -2,7 +2,7 @@
 title: First lesson
 post_id: '2968'
 date: '2000-04-10T15:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

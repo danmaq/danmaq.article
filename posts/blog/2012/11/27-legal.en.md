@@ -2,7 +2,7 @@
 title: About copyright information and disclaimer
 post_id: 279
 date: '2012-11-27T23:30:20+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

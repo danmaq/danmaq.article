@@ -2,7 +2,7 @@
 title: Castle and castle town and scream
 post_id: '2910'
 date: '1996-03-01T00:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

@@ -2,7 +2,7 @@
 title: '[Toho] Toki seal v 2 ED Pencil drawing ver.'
 post_id: '3467'
 date: '2006-06-06T00:09:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

@@ -2,7 +2,7 @@
 title: "連絡先情報"
 post_id: 285
 date: "2012-11-27T23:00:27+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

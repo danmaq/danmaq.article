@@ -2,7 +2,7 @@
 title: Abyss ~ flying object
 post_id: '8254'
 date: '2008-10-31T00:00:27+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

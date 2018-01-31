@@ -2,7 +2,7 @@
 title: "調子に乗ってモバイルSuica使いまくってたら"
 post_id: "3583"
 date: "2007-05-30T05:30:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

@@ -2,7 +2,7 @@
 title: "danmaq Webページは一時更新停止します"
 post_id: "3707"
 date: "2011-05-20T18:00:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

@@ -2,7 +2,7 @@
 title: "『秋の風景』"
 post_id: "6383"
 date: "1992-10-12T14:00:06+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "日記"
 date: "1990-05-26T23:40:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

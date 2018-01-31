@@ -2,7 +2,7 @@
 title: There is no meaning of a hostage unless it is alive
 post_id: '3132'
 date: '2004-07-28T08:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

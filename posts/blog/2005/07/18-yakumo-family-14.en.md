@@ -2,7 +2,7 @@
 title: '[Toho] It''s time for the summer festival'
 post_id: '3298'
 date: '2005-07-18T02:20:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

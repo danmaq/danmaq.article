@@ -2,7 +2,7 @@
 title: '[VOCALOID] Karakuri Utahime Hatsune Miku'
 post_id: '3645'
 date: '2008-01-25T00:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

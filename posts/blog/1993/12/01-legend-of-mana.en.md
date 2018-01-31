@@ -2,7 +2,7 @@
 title: '[Sacred Legend 2] Secondary Creation Comic "Sue Ken Densetsu"'
 post_id: '2897'
 date: '1993-12-01T00:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

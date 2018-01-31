@@ -2,7 +2,7 @@
 title: Picture of okayako / memories
 post_id: '2945'
 date: '1999-09-11T00:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

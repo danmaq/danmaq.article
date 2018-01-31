@@ -2,7 +2,7 @@
 title: "danmaqのメンバー紹介"
 post_id: 307
 date: "2012-11-27T23:55:11+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

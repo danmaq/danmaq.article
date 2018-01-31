@@ -2,7 +2,7 @@
 title: Recently forgotten it is too cruel orz
 post_id: '3365'
 date: '2005-12-26T11:55:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

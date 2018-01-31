@@ -2,7 +2,7 @@
 title: "(2005-2010) TOSHIBA dynabookSS/LX190"
 post_id: "3308"
 date: "2005-08-18T19:00:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 
@@ -16,9 +16,9 @@ tags: []
   * Ragnarok Online
 ## 製作物・他やってたこと
 
-  * [東方夢終劇](/!/thC/)
-  * [Leila Prismriver](/!/leila/)
-  * [danmaq soundtrack](/!/dst/)
+  * [東方夢終劇](https://danmaq.com/!/thC/)
+  * [Leila Prismriver](https://danmaq.com/!/leila/)
+  * [danmaq soundtrack](https://danmaq.com/!/dst/)
   * [結界幻想禄 鏡](http://kagaminer.in/)(プロトタイプ～体験版まで)
 ## 性能
 

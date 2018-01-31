@@ -9,6 +9,6 @@ tags:
   - analog
 ---
 
-I wrote this on my father's day. At that time I was addicted to the third attribute.
+I wrote this on my father's day. At that time I was addicted to the third eyes.
 
-Aside from it, this is _the oldest illustration I drew in the existence_ .
+Aside from it, this is _the oldest illustration I drew_.

@@ -2,7 +2,7 @@
 title: "どっちにしても絵が超ヘタクソなんですがなんとかならんの？"
 post_id: "3356"
 date: "2005-12-09T00:00:01+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

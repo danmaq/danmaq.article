@@ -2,7 +2,7 @@
 title: "TIDAプロトタイプ版"
 post_id: "3617"
 date: "2007-09-17T13:31:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

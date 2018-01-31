@@ -2,7 +2,7 @@
 title: Hakurei Shrine example large festival 2 (Toho only)
 post_id: '3279'
 date: '2005-05-04T00:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

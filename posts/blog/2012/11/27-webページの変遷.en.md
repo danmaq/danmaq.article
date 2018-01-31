@@ -2,7 +2,7 @@
 title: Web page transition
 post_id: 408
 date: '2012-11-27T21:50:04+09:00'
-draft: false
+draft: true
 tags: []
 ---
 

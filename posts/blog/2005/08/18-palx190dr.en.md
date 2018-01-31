@@ -2,7 +2,7 @@
 title: (2005-2010) TOSHIBA dynabookSS / LX190
 post_id: '3308'
 date: '2005-08-18T19:00:00+09:00'
-draft: false
+draft: true
 tags: []
 ---
 
@@ -16,10 +16,10 @@ To purchase it as a main PC, purchase [Let'sNote](/cf-w2d) trade-in. 3D capabili
     
     ## Works / Other things I did
     
-*   [Toho Yumemiri Drama](/!/thC/)
+*   [Toho Yumemiri Drama](https://danmaq.com/!/thC/)
     
-*   [Leila Prismriver](/!/leila/)
-*   [danmaq soundtrack](/!/dst/)
+*   [Leila Prismriver](https://danmaq.com/!/leila/)
+*   [danmaq soundtrack](https://danmaq.com/!/dst/)
 *   [Boundary illusion mirror](http://kagaminer.in/) (prototype ~ trial version)
     
     ## Performance

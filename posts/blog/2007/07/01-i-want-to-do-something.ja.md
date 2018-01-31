@@ -2,7 +2,7 @@
 title: "あれもしたい、これもしたい、もっとした（ｒｙ"
 post_id: "3595"
 date: "2007-07-01T23:17:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

@@ -2,7 +2,7 @@
 title: "今日逃げたら、明日はもっと大きな勇気が必要になるぞ"
 post_id: "3703"
 date: "2011-02-04T00:00:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

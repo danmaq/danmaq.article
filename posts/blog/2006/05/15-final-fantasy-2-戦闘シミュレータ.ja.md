@@ -2,7 +2,7 @@
 title: "FINAL FANTASY 2 戦闘シミュレータ"
 post_id: "3454"
 date: "2006-05-15T00:00:00+09:00"
-draft: false
+draft: true
 tags: []
 ---
 

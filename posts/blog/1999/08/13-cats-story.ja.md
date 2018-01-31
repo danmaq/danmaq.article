@@ -2,7 +2,7 @@
 title: "CATS STORY イメージCG"
 post_id: "6628"
 date: "1999-08-13T22:00:10+09:00"
-draft: false
+draft: true
 tags: []
 ---
 
