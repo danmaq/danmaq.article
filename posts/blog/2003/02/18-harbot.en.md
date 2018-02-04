@@ -6,4 +6,4 @@ draft: true
 tags: []
 ---
 
-Shiver! Herbot Cross-browser correspondence (Thanks: NTJ president). I deleted it for service termination. Also, I bought [Roland PMA - 5](/pma-5) .
+Shiver! Herbot Cross-browser correspondence (Thanks: NTJ president). I deleted it for service termination. Also, I bought [Roland PMA - 5](https://danmaq.com/pma-5) .

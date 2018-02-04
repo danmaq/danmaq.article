@@ -8,5 +8,5 @@ tags: []
 
 Measures against the fighting ants.
 
-*   [View all of the web comic "Daily life of the Yakumo family"](/tag/yakumo-family?order=ASC)
-*   < [Previous](/3121) | [Next>](/3123)
+*   [View all of the web comic "Daily life of the Yakumo family"](https://danmaq.com/tag/yakumo-family?order=ASC)
+*   < [Previous](https://danmaq.com/3121) | [Next>](https://danmaq.com/3123)

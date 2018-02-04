@@ -25,4 +25,4 @@ print $self->count(-20);  # -20 and save data.
 
   * 動作環境: perl 5.005以降(5.6.1以降を推奨)
   * 最終バージョン: 0.05(2002/3/28)
-  * [ダウンロード](/filez/perl/Count-0.05.zip) ([filesize]https://danmaq.com/filez/perl/Count-0.05.zip[/filesize])
+  * [ダウンロード](https://danmaq.com/filez/perl/Count-0.05.zip) ([filesize]https://danmaq.com/filez/perl/Count-0.05.zip[/filesize])

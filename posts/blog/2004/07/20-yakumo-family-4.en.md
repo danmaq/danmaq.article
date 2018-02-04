@@ -8,5 +8,5 @@ tags: []
 
 I usually do not get so angry, but it is always strange that others do not understand well.
 
-*   [View all of the web comic "Daily life of the Yakumo family"](/tag/yakumo-family?order=ASC)
-*   < [Previous](/3123) | [Next>](/3126)
+*   [View all of the web comic "Daily life of the Yakumo family"](https://danmaq.com/tag/yakumo-family?order=ASC)
+*   < [Previous](https://danmaq.com/3123) | [Next>](https://danmaq.com/3126)

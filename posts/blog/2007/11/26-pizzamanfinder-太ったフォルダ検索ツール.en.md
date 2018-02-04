@@ -22,4 +22,4 @@ It is a tool that finds fat folders, lists them and keeps records.
 
 *   Operating environment: Microsoft Windows 98/2000 ~ XP (Vista and later, one folder is required depending on the folder to be searched), Microsoft Office Excel XP (2002) or later
 *   Last Updated: 2008/2/10
-*   [Download](/filez/app/java/PizzaManFinder_1.0.1.zip) (\[filesize\] [https://danmaq.com/filez/app/java/PizzaManFinder_1.0.1.zip\[/filesize](https://danmaq.com/filez/app/java/PizzaManFinder_1.0.1.zip[/filesize) \])
+*   [Download](https://danmaq.com/filez/app/java/PizzaManFinder_1.0.1.zip) (\[filesize\] [https://danmaq.com/filez/app/java/PizzaManFinder_1.0.1.zip\[/filesize](https://danmaq.com/filez/app/java/PizzaManFinder_1.0.1.zip[/filesize) \])

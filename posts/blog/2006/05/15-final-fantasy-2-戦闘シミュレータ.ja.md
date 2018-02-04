@@ -11,4 +11,4 @@ tags: []
 
   * Genre: シミュレータ
   * LastUpdate: 2006/12/23
-  * “[FINAL FANTASY 2 戦闘シミュレータ”をダウンロード](/filez/app/java/FF2BattleFake.zip) ([filesize]https://danmaq.com/filez/app/java/FF2BattleFake.zip[/filesize])
+  * “[FINAL FANTASY 2 戦闘シミュレータ”をダウンロード](https://danmaq.com/filez/app/java/FF2BattleFake.zip) ([filesize]https://danmaq.com/filez/app/java/FF2BattleFake.zip[/filesize])

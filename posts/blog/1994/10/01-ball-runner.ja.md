@@ -24,4 +24,4 @@ tags: []
 * 開発言語(旧): N88-日本語BASIC(86) MS-DOS版
 * 開発言語(移植版): Microsoft VisualC++.net2003
 * 最終更新: 2006/3
-* [v0.0g(Windows移植版)をダウンロード](/filez/app/ball.zip) ([filesize]https://danmaq.com/filez/app/ball.zip[/filesize])
+* [v0.0g(Windows移植版)をダウンロード](https://danmaq.com/filez/app/ball.zip) ([filesize]https://danmaq.com/filez/app/ball.zip[/filesize])

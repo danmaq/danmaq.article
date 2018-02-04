@@ -8,5 +8,5 @@ tags: []
 
 そして怒りは体を傷つけられた魔法使いより部下を何とも思っていない主へと向けられた。
 
-* [Webコミック “八雲家の日常” を全部見る](/tag/yakumo-family?order=ASC)
-* <[前へ](/3127) | [次へ>](/3129)
+* [Webコミック “八雲家の日常” を全部見る](https://danmaq.com/tag/yakumo-family?order=ASC)
+* <[前へ](https://danmaq.com/3127) | [次へ>](https://danmaq.com/3129)

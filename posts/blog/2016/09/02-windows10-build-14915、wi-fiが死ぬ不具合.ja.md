@@ -8,7 +8,7 @@ tags: []
 ---
 
 
-ようやく Nightly(Weekly?) Build 特有のきな臭さが出てきたな……。 Windows 10 Insider Preview の新しいビルド、14915 が来ていたので寝る前にインストール。 朝起きたら無線 LAN がうんともすんとも言わなくなった。 問題が起きた PC は、[Microsoft Surface Pro](/surface-pro)。
+ようやく Nightly(Weekly?) Build 特有のきな臭さが出てきたな……。 Windows 10 Insider Preview の新しいビルド、14915 が来ていたので寝る前にインストール。 朝起きたら無線 LAN がうんともすんとも言わなくなった。 問題が起きた PC は、[Microsoft Surface Pro](https://danmaq.com/surface-pro)。
 
 ## やったこと
 

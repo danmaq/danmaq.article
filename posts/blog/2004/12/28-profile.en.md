@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-## Information **Here we show the profile of our circle and website and manager. Please also refer to [Works](/legacy/index.php?/Works) if you want to see circle activity information etc.** table of contents
+## Information **Here we show the profile of our circle and website and manager. Please also refer to [Works](https://danmaq.com/legacy/index.php?/Works) if you want to see circle activity information etc.** table of contents
 
-*   [Related information on this website](/category/about)
-*   [Information related to manager](/tag/head)
+*   [Related information on this website](https://danmaq.com/category/about)
+*   [Information related to manager](https://danmaq.com/tag/head)

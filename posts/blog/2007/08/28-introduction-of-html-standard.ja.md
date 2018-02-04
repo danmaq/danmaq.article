@@ -18,4 +18,4 @@ tags: []
 
 
   * 最終更新: 2009/3/15
-  * [ダウンロード](/filez/htmldoc.zip) ([filesize]https://danmaq.com/filez/htmldoc.zip[/filesize])
+  * [ダウンロード](https://danmaq.com/filez/htmldoc.zip) ([filesize]https://danmaq.com/filez/htmldoc.zip[/filesize])

@@ -11,9 +11,9 @@ PCM + 半ソフト・半ハードな XG 音源を搭載した YAMAHA YMF724/744 
 ## この音源で制作した主な楽曲
 
 
-  * [オリジナル] [will-o'-the-wisp](/will-o-the-wisp)
-  * [オリジナル] [TRZ-MASTER 2001](/trz-master2001)
-  * [オリジナル] [Underground Trance](/underground-trance)
-  * [Rapis Lazulさんの BMS アレンジ] [Justice - rapid style](/justice)
-  * [オリジナル] [mechanism](/mechanism)
+  * [オリジナル] [will-o'-the-wisp](https://danmaq.com/will-o-the-wisp)
+  * [オリジナル] [TRZ-MASTER 2001](https://danmaq.com/trz-master2001)
+  * [オリジナル] [Underground Trance](https://danmaq.com/underground-trance)
+  * [Rapis Lazulさんの BMS アレンジ] [Justice - rapid style](https://danmaq.com/justice)
+  * [オリジナル] [mechanism](https://danmaq.com/mechanism)
   * 他多数

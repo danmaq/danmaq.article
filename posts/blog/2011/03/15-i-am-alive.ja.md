@@ -17,7 +17,7 @@ danmaq は被災者の方々の無事をお祈りするとともに、ほんの�
 
 ## 習作・待ち受けFlash
 
-仕事で FlashCS + AS3 使ったアプリ作るよ！ってことになったものの、生憎未経験だったので慌てて習作として[ライフゲームを作ってみたテスト](/lifegame.html)。
+仕事で FlashCS + AS3 使ったアプリ作るよ！ってことになったものの、生憎未経験だったので慌てて習作として[ライフゲームを作ってみたテスト](https://danmaq.com/lifegame.html)。
 いや最近ボカロとちょっとだけまどかに浮気気味で、このサイトから東方っ気が抜けてきちゃってるからえーりんつながりで、ね。
 
 厳密には Flash 自体はやったことあるんですよ。
@@ -25,8 +25,8 @@ danmaq は被災者の方々の無事をお祈りするとともに、ほんの�
 
 最初 Flex のときとあまりの違いに発狂しかけましたが、リンケージの使い方さえ覚えたらあとは楽ですね。
 
-* [プレビュー](/lifegame.html)(Flash Lite2.0以降またはFlash Player8以降)
-* [Flashムービー本体とFlashCS4プロジェクトとソース(凄いスパゲティだよ！)をダウンロード](/filez/app/lifegame.zip)
+* [プレビュー](https://danmaq.com/lifegame.html)(Flash Lite2.0以降またはFlash Player8以降)
+* [Flashムービー本体とFlashCS4プロジェクトとソース(凄いスパゲティだよ！)をダウンロード](https://danmaq.com/filez/app/lifegame.zip)
 
 ## 今週のToLOVEるに物申す
 

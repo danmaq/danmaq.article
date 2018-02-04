@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-[8 年ぶり](/palx190dr)に手に入れた、ノート PC としては主力級のウルトラブック。
+[8 年ぶり](https://danmaq.com/palx190dr)に手に入れた、ノート PC としては主力級のウルトラブック。
 
 Windows10 Anniversary Update がリリースされた今もなお、PowerCover で短いバッテリー持続時間を延命しつつ現役で使っている。
 次のノートは Surface Book 2 あたりかな。

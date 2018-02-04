@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-Could it be the last White Brezza? It was the first PC / AT compatible machine for me, the first Pentium machine and it was the first Windows machine. (Rather than PC - 98 believer until now) Performance is nearly twelve times as much as the [previous generation](/pc-9821) . I was expecting compatibility of software so far from the beginning, as expected. In this environment Windows Me is a little tight, as I got up to college and somewhat financial strength came out, I decided to make my own PC. After that, some parts were absorbed in the [world's fastest No. 1 Ver.1](/Homebuilt-1) and discarded.
+Could it be the last White Brezza? It was the first PC / AT compatible machine for me, the first Pentium machine and it was the first Windows machine. (Rather than PC - 98 believer until now) Performance is nearly twelve times as much as the [previous generation](https://danmaq.com/pc-9821) . I was expecting compatibility of software so far from the beginning, as expected. In this environment Windows Me is a little tight, as I got up to college and somewhat financial strength came out, I decided to make my own PC. After that, some parts were absorbed in the [world's fastest No. 1 Ver.1](https://danmaq.com/Homebuilt-1) and discarded.
 
 ## PC games that caught at the time
 
@@ -17,10 +17,10 @@ Could it be the last White Brezza? It was the first PC / AT compatible machine f
     
     ## Works / Other things I did
     
-*   (Original game) [Mk - IIK](/mk-iik)
+*   (Original game) [Mk - IIK](https://danmaq.com/mk-iik)
     
-*   (Original game) [Beef chop](/choppin)
-*   (Original game) [PvDDR (6 Arrowne 2 K later)](/solo2k)
+*   (Original game) [Beef chop](https://danmaq.com/choppin)
+*   (Original game) [PvDDR (6 Arrowne 2 K later)](https://danmaq.com/solo2k)
     
     ## Performance
     

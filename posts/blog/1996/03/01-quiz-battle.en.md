@@ -24,4 +24,4 @@ Because I needed Java skills at work, I studied and transplanted it. It is not a
 *   Development language (old): N88 - Japanese BASIC (86) MS - DOS version
 *   Development language (ported version): JavaSE 6
 *   Last updated: January 4, 2007
-*   [Download JAVA port](/filez/app/java/NumBattleGame.zip) (\[filesize\] [https://danmaq.com/filez/app/java/NumBattleGame.zip\[/filesize](https://danmaq.com/filez/app/java/NumBattleGame.zip[/filesize) \])
+*   [Download JAVA port](https://danmaq.com/filez/app/java/NumBattleGame.zip) (\[filesize\] [https://danmaq.com/filez/app/java/NumBattleGame.zip\[/filesize](https://danmaq.com/filez/app/java/NumBattleGame.zip[/filesize) \])

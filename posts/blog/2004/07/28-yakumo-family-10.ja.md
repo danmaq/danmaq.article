@@ -10,5 +10,5 @@ tags: []
 
 流れ上、橙にばかり顔面騎乗させてるけど、個人的には魔理沙一択
 
-* [Webコミック “八雲家の日常” を全部見る](/tag/yakumo-family?order=ASC)
-* <[前へ](/3131) | [次へ>](/3134)
+* [Webコミック “八雲家の日常” を全部見る](https://danmaq.com/tag/yakumo-family?order=ASC)
+* <[前へ](https://danmaq.com/3131) | [次へ>](https://danmaq.com/3134)

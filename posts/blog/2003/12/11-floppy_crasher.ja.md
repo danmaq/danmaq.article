@@ -7,7 +7,7 @@ tags: []
 ---
 
 
-このコードは環境によっては正しく動作しないようなので、[改良版を作りました](/floppy_crasher2)。
+このコードは環境によっては正しく動作しないようなので、[改良版を作りました](https://danmaq.com/floppy_crasher2)。
 
 
     #include <string>

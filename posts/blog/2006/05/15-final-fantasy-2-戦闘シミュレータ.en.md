@@ -10,4 +10,4 @@ It is a battle simulator that runs on the console of Square (current · Square E
 
 *   Genre: Simulator
 *   LastUpdate: December 23, 2006
-*   [Download](/filez/app/java/FF2BattleFake.zip) " [FINAL FANTASY 2 Battle Simulator"](/filez/app/java/FF2BattleFake.zip) (\[filesize\] [https://danmaq.com/filez/app/java/FF2BattleFake.zip\[/filesize](https://danmaq.com/filez/app/java/FF2BattleFake.zip[/filesize) \])
+*   [Download](https://danmaq.com/filez/app/java/FF2BattleFake.zip) " [FINAL FANTASY 2 Battle Simulator"](https://danmaq.com/filez/app/java/FF2BattleFake.zip) (\[filesize\] [https://danmaq.com/filez/app/java/FF2BattleFake.zip\[/filesize](https://danmaq.com/filez/app/java/FF2BattleFake.zip[/filesize) \])

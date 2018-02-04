@@ -12,6 +12,6 @@ Produce trainer of certain mini game wood splitting, but evolve into a completel
 *   Development language (old): Microsoft QBasic 1.1
 *   Development language (ported version): HSP 2.4
 *   Last updated: 2/21/2000
-*   [Download Version β3](/filez/app/makiwari.zip) (\[filesize\] [https://danmaq.com/filez/app/makiwari.zip\[/filesize](https://danmaq.com/filez/app/makiwari.zip[/filesize) \])
-*   [Download Version β2.1](/filez/app/mk_old.zip) (\[filesize\] [https://danmaq.com/filez/app/mk_old.zip\[/filesize](https://danmaq.com/filez/app/mk_old.zip[/filesize) \])
-*   [Download Version β1](/filez/app/mk_b1.zip) (\[filesize\] [https://danmaq.com/filez/app/mk_b1.zip\[/filesize](https://danmaq.com/filez/app/mk_b1.zip[/filesize) \])
+*   [Download Version β3](https://danmaq.com/filez/app/makiwari.zip) (\[filesize\] [https://danmaq.com/filez/app/makiwari.zip\[/filesize](https://danmaq.com/filez/app/makiwari.zip[/filesize) \])
+*   [Download Version β2.1](https://danmaq.com/filez/app/mk_old.zip) (\[filesize\] [https://danmaq.com/filez/app/mk_old.zip\[/filesize](https://danmaq.com/filez/app/mk_old.zip[/filesize) \])
+*   [Download Version β1](https://danmaq.com/filez/app/mk_b1.zip) (\[filesize\] [https://danmaq.com/filez/app/mk_b1.zip\[/filesize](https://danmaq.com/filez/app/mk_b1.zip[/filesize) \])

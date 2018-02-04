@@ -26,11 +26,11 @@ Ultimately, with the help of [Knuckle Fighter-X](http://www.vector.co.jp/soft/wi
 
 ## (1999) 2K ppm
 
-Pop'n music trainer. Planning started by being mailed to someone. Eventually it will be integrated as a plugin for " [Bring your own Music & Sounds \[BMS\]](/2993) " and the project ends before development starts.
+Pop'n music trainer. Planning started by being mailed to someone. Eventually it will be integrated as a plugin for " [Bring your own Music & Sounds \[BMS\]](https://danmaq.com/2993) " and the project ends before development starts.
 
 ## (1999) beatstage (formerly known as PS2K)
 
-BMS player on the pop-stage stage. I have hardly played at the moment and it is undecided whether to start production. Even if I do, I should try to make it a plugin format for " [Bring your own Music & Sounds \[BMS\]](/2993) ".
+BMS player on the pop-stage stage. I have hardly played at the moment and it is undecided whether to start production. Even if I do, I should try to make it a plugin format for " [Bring your own Music & Sounds \[BMS\]](https://danmaq.com/2993) ".
 
 ## (2000) SINGFREAKS
 

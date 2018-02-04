@@ -11,4 +11,4 @@ tags: []
 一言で言えば一発ネタです。
 一発ネタなのでクリアは想定していませんが、完全固定弾幕なのでもしかしたら安定パターンがあるかも。
 
-* “[「反魂蝶-狂咲-」”をダウンロードする](/filez/thd/guru.zip)([filesize]https://danmaq.com/filez/thd/guru.zip[/filesize])
+* “[「反魂蝶-狂咲-」”をダウンロードする](https://danmaq.com/filez/thd/guru.zip)([filesize]https://danmaq.com/filez/thd/guru.zip[/filesize])

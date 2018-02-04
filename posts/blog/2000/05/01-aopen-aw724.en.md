@@ -10,9 +10,9 @@ YAMAHA YMF 724/744 sound card with PCM + semi-soft · semi-hard XG sound source.
 
 ## Main songs made with this sound source
 
-*   \[Original\] [will-o'-the-wisp](/will-o-the-wisp)
-*   \[Original\] [TRZ-MASTER 2001](/trz-master2001)
-*   \[Original\] [Underground Trance](/underground-trance)
-*   \[Rapis Lazul's BMS arrangement\] [Justice -](/justice) generally [style](/justice)
-*   \[Original\] [mechanism](/mechanism)
+*   \[Original\] [will-o'-the-wisp](https://danmaq.com/will-o-the-wisp)
+*   \[Original\] [TRZ-MASTER 2001](https://danmaq.com/trz-master2001)
+*   \[Original\] [Underground Trance](https://danmaq.com/underground-trance)
+*   \[Rapis Lazul's BMS arrangement\] [Justice -](https://danmaq.com/justice) generally [style](https://danmaq.com/justice)
+*   \[Original\] [mechanism](https://danmaq.com/mechanism)
 *   Many others

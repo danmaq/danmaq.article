@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-Webコミック “[八雲家の日常](/tag/yakumo-family?order=ASC)” の番外編的なやつです。
+Webコミック “[八雲家の日常](https://danmaq.com/tag/yakumo-family?order=ASC)” の番外編的なやつです。
 
 橙「わはー♪涼しいー！」  
 藍「気に入ってくれたようだね」  
@@ -14,7 +14,7 @@ Webコミック “[八雲家の日常](/tag/yakumo-family?order=ASC)” の番�
 藍「じゃあ……  
 藍「じゃあ、今度それでやってよ」  
 橙「えっ？何をですか？」  
-藍「えっと、その……[この前の紫様の時の](/3123)……」  
+藍「えっと、その……[この前の紫様の時の](https://danmaq.com/3123)……」  
 橙「……」
 
-  * <[前へ](/3134) | [次へ>](/3155)
+  * <[前へ](https://danmaq.com/3134) | [次へ>](https://danmaq.com/3155)

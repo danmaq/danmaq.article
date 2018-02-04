@@ -6,4 +6,4 @@ draft: true
 tags: []
 ---
 
-From the left "Mu Yumi", "Lean Mace", "Curran", "Ark · Vimer" is the name. [It](/cats_photo_black) is similar to the [picture drawn the other day,](/cats_photo_black) but in reality there is a story connection. From this time it has been decided that the small attribute (ry
+From the left "Mu Yumi", "Lean Mace", "Curran", "Ark · Vimer" is the name. [It](https://danmaq.com/cats_photo_black) is similar to the [picture drawn the other day,](https://danmaq.com/cats_photo_black) but in reality there is a story connection. From this time it has been decided that the small attribute (ry

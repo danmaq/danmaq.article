@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-Purchase as a connection after the second machine Donadna. [Although](/cdx560) it was working as it was with [notes](/cdx560) , it was fatally small to put 32MB of main memory and Windows, and introduced Linux and used it as a sub PC. There was a mystery phenomenon that the note is the main and the desk is the sub. By the way this was the last desk machine until 2006. After that, it continued to leave in the storeroom and waste when moving in 2007.
+Purchase as a connection after the second machine Donadna. [Although](https://danmaq.com/cdx560) it was working as it was with [notes](https://danmaq.com/cdx560) , it was fatally small to put 32MB of main memory and Windows, and introduced Linux and used it as a sub PC. There was a mystery phenomenon that the note is the main and the desk is the sub. By the way this was the last desk machine until 2006. After that, it continued to leave in the storeroom and waste when moving in 2007.
 
 ## Performance
 

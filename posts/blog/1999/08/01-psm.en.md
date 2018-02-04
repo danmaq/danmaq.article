@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-## [Listen to](/filez/music/psm.mp3) " [PARANOiA SO - REAL MAX"](/filez/music/psm.mp3) (\[filesize\] [https://danmaq.com/filez/music/psm.mp3\[/filesize\])** When I was a](https://danmaq.com/filez/music/psm.mp3[/filesize])**) high school, I made improvisation as a song for DietDietRevolution '99 Remix. If it is said that it is just an edit, that is it. Abbreviation PSM. Paranoia · Strongest · It is not an abbreviation for Muzui. ** Original copyright information
+## [Listen to](https://danmaq.com/filez/music/psm.mp3) " [PARANOiA SO - REAL MAX"](https://danmaq.com/filez/music/psm.mp3) (\[filesize\] [https://danmaq.com/filez/music/psm.mp3\[/filesize\])** When I was a](https://danmaq.com/filez/music/psm.mp3[/filesize])**) high school, I made improvisation as a song for DietDietRevolution '99 Remix. If it is said that it is just an edit, that is it. Abbreviation PSM. Paranoia · Strongest · It is not an abbreviation for Muzui. ** Original copyright information
 
 *   From DanceDanceRevolution, PARANOiA series
 *   Jungle Edit | 1: 40 | BPM 160 → 240

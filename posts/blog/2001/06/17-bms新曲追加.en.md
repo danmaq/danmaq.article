@@ -10,4 +10,4 @@ Renewal ♪ (If you have time you need to make a detailed update ... punctuation
 
 ## update information
 
-[BMS new songs are](/tag/bms) added again.
+[BMS new songs are](https://danmaq.com/tag/bms) added again.

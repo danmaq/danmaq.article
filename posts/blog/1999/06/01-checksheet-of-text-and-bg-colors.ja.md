@@ -12,4 +12,4 @@ tags: []
 
 
   * 最終更新: 1999/6
-  * [ダウンロード](/filez/colhtml.lzh) ([filesize]https://danmaq.com/filez/colhtml.lzh[/filesize])
+  * [ダウンロード](https://danmaq.com/filez/colhtml.lzh) ([filesize]https://danmaq.com/filez/colhtml.lzh[/filesize])

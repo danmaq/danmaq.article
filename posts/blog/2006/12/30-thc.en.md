@@ -4,6 +4,7 @@ post_id: '3540'
 date: '2006-12-30T10:00:00+09:00'
 draft: false
 tags: []
+youtube: DEIW9994qYE
 ---
 
 ![Click to see the details.](https://danmaq.com/image/thd/thc1.jpg)

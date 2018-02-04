@@ -14,7 +14,7 @@ tags: []
 
 
 
-  * (XNA)[東方夢終劇](/products/apps/dnh/thc/).NET プレ アルファ版
+  * (XNA)[東方夢終劇](https://danmaq.com/products/apps/dnh/thc/).NET プレ アルファ版
   * (XNA)[結界幻想録 鏡](http://kagaminer.in/)体験版
   * (FLEX)タイトー「スペースパズルボブル」Web体験版Flash
   * (FLEX)タイトー「スペースインベーダー エクストリーム 2」公式サイトFlash

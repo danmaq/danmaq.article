@@ -10,5 +10,5 @@ tags: []
 
 I am updating only the update information this time but forgive me.
 
-*   [thM (provisional name)](/3676) Version upgrade of [operation spec judgment program](/3676) (Please refer to the special page on the left for details)
+*   [thM (provisional name)](https://danmaq.com/3676) Version upgrade of [operation spec judgment program](https://danmaq.com/3676) (Please refer to the special page on the left for details)
 *   Fixed a bug that cookie failed to load on some pages and javascript was mossy.

@@ -4,6 +4,7 @@ post_id: "8773"
 date: "2016-12-28T00:14:40+09:00"
 draft: false
 tags: ['novel', 'touhou']
+youtube: NmR9EevRMJc
 ---
 
 
@@ -11,4 +12,4 @@ tags: ['novel', 'touhou']
 
 > 妖怪たちの奇跡で、魔理沙としての夢を見た普通の女子高生“澪音”。一度は忘れた郷を求め、学校生活、私生活の様々なハプニング、そして出会いを乗り越え、やがて彼女は夢の主の少女に“再会”することとなる──
 
-拙作「[東方夢終劇 Concealed the Conclusion](https://danmaq.com/!/thC/)」のスピンオフ物語です。 幻想郷が消えた後の現実世界を舞台とした、全112ページの半分東方、半分オリジナルなライトノベル。 [コミックマーケット91で頒布いたします](/c91)！また、ショップ委託は現在交渉中です。 イラスト: [むつき灯路](http://pixiv.me/mutsuki_nozomi)
+拙作「[東方夢終劇 Concealed the Conclusion](https://danmaq.com/!/thC/)」のスピンオフ物語です。 幻想郷が消えた後の現実世界を舞台とした、全112ページの半分東方、半分オリジナルなライトノベル。 [コミックマーケット91で頒布いたします](https://danmaq.com/c91)！また、ショップ委託は現在交渉中です。 イラスト: [むつき灯路](http://pixiv.me/mutsuki_nozomi)

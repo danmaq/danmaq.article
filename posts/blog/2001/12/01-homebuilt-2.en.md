@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-It is a PC in the center of the picture. Although the appearance has not changed, the version which reinforced to the performance of about 1.7 times by replacing the motherboard and the CPU, the memory to full, and it is version. Currently some parts are absorbed by the second [machine](/Homebuilt-3) , absorbing insufficient from [Ver.1](/Homebuilt-1) and donating to the brother. Five years later, I came home in a couple of things, but since Windows 7 was "specially moving" specs, I was operating as a Linux server experiment machine, NAS. Eventually we will move to VPS and this PC will be disposed of at the auction site. Pentium 4 (Northwood) does not support the NX bit, Windows 8 could not operate, but there is a memorable disposal at a good price.
+It is a PC in the center of the picture. Although the appearance has not changed, the version which reinforced to the performance of about 1.7 times by replacing the motherboard and the CPU, the memory to full, and it is version. Currently some parts are absorbed by the second [machine](https://danmaq.com/Homebuilt-3) , absorbing insufficient from [Ver.1](https://danmaq.com/Homebuilt-1) and donating to the brother. Five years later, I came home in a couple of things, but since Windows 7 was "specially moving" specs, I was operating as a Linux server experiment machine, NAS. Eventually we will move to VPS and this PC will be disposed of at the auction site. Pentium 4 (Northwood) does not support the NX bit, Windows 8 could not operate, but there is a memorable disposal at a good price.
 
 ## PC games that caught at the time
 
@@ -22,7 +22,7 @@ It is a PC in the center of the picture. Although the appearance has not changed
 *   (CGI bulletin board) Hi-macho
 *   (CGI game) EVIL KINGDOM
 *   (Original SS) CATS STORY (eventually the game was torn down and completed as a feature story novel)
-*   (Original game) [REVENGER](/revenger) Production start (It is absorbed in the later [Kuremyo](/revenger) Town Ph or phantom battle disturbance and enters the store)
+*   (Original game) [REVENGER](https://danmaq.com/revenger) Production start (It is absorbed in the later [Kuremyo](https://danmaq.com/revenger) Town Ph or phantom battle disturbance and enters the store)
     
     ## Performance
     

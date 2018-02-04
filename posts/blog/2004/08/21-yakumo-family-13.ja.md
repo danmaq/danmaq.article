@@ -10,6 +10,6 @@ tags: []
 でもとりあえず首吊りモノトーン人形に八つ当たり。
 
 魔八雲フラン的な何か。
-Webコミック “[八雲家の日常](/tag/yakumo-family?order=ASC)” の番外編的なやつです。
+Webコミック “[八雲家の日常](https://danmaq.com/tag/yakumo-family?order=ASC)” の番外編的なやつです。
 
-* <[前へ](/3141) | [次へ>](/3298)
+* <[前へ](https://danmaq.com/3141) | [次へ>](https://danmaq.com/3298)

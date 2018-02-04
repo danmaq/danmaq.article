@@ -11,4 +11,4 @@ It is a website support sheet for checking compatibility between background colo
 ## Download information
 
 *   Last Updated: 1999/6
-*   [Download](/filez/colhtml.lzh) (\[filesize\] [https://danmaq.com/filez/colhtml.lzh\[/filesize](https://danmaq.com/filez/colhtml.lzh[/filesize) \])
+*   [Download](https://danmaq.com/filez/colhtml.lzh) (\[filesize\] [https://danmaq.com/filez/colhtml.lzh\[/filesize](https://danmaq.com/filez/colhtml.lzh[/filesize) \])

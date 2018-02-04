@@ -8,5 +8,5 @@ tags: []
 
 After all, it seems that I was only getting mad at being sleep deprived.
 
-*   [View all of the web comic "Daily life of the Yakumo family"](/tag/yakumo-family?order=ASC)
-*   < [Previous](/3124) | [Next>](/3127)
+*   [View all of the web comic "Daily life of the Yakumo family"](https://danmaq.com/tag/yakumo-family?order=ASC)
+*   < [Previous](https://danmaq.com/3124) | [Next>](https://danmaq.com/3127)

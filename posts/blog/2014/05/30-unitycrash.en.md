@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-[https://danmaq.com/unitycrash/](/unitycrash/) Abbreviated URL [http://dmq.cm/unitycrash](http://dmq.cm/unitycrash) ■ How to use
+[https://danmaq.com/unitycrash/](https://danmaq.com/unitycrash/) Abbreviated URL [http://dmq.cm/unitycrash](http://dmq.cm/unitycrash) ■ How to use
 
 1.  Open the above page when Unity goes down.
 2.  Press the button.

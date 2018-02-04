@@ -7,7 +7,7 @@ tags: []
 ---
 
 
-## “[Get Along改” を聞く](/filez/music/get_alone.mp3) ([filesize]https://danmaq.com/filez/music/get_alone.mp3[/filesize])** MAD。聞けば分かる。 さぼって昼まで寝ていたい。  **原作の著作権情報
+## “[Get Along改” を聞く](https://danmaq.com/filez/music/get_alone.mp3) ([filesize]https://danmaq.com/filez/music/get_alone.mp3[/filesize])** MAD。聞けば分かる。 さぼって昼まで寝ていたい。  **原作の著作権情報
 
   * Get Along
   * アニメ “スレイヤーズ” オープニングより

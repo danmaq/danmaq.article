@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-Illustration of a protagonist of a [self-made RPG](/tags/cats-story) , " [Ubukuro Neko zetsu](/cats_story) " that was conceived. From the left "Me", "Mu", "Mya".
+Illustration of a protagonist of a [self-made RPG](https://danmaq.com/tags/cats-story) , " [Ubukuro Neko zetsu](https://danmaq.com/cats_story) " that was conceived. From the left "Me", "Mu", "Mya".
 
 I remembered a culture shock to be able to make games at the time at PC, and when I made various games, I was hopeless and frustrated. This is one of them.
 

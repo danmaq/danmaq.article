@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-**[Read about SS "Reimu" (about 2,100 characters)](/?tag=reimu+contrafactum) (with bizarre expressions)** Caucasian rappers that produced a lot of dangerous lyrics, songs _that are flying out especially in_ EMINEM songs, a song of "Kim" (album "The Marshall Mathers "). Replacing EMINEM (Slim) with Marisa and Kim with Reimu, I tried to replace the story to the East by forcefully.
+**[Read about SS "Reimu" (about 2,100 characters)](https://danmaq.com/?tag=reimu+contrafactum) (with bizarre expressions)** Caucasian rappers that produced a lot of dangerous lyrics, songs _that are flying out especially in_ EMINEM songs, a song of "Kim" (album "The Marshall Mathers "). Replacing EMINEM (Slim) with Marisa and Kim with Reimu, I tried to replace the story to the East by forcefully.
 
 ## Caution
 

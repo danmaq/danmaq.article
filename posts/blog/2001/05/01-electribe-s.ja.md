@@ -11,6 +11,6 @@ KORGのサンプラー、真空管モデルより前の型。 音がとっても
 ## この音源で制作した主な楽曲
 
 
-  * [オリジナル] [will-o'-the-wisp](/will-o-the-wisp)
-  * [オリジナル] [electro quest](/electro-quest)
+  * [オリジナル] [will-o'-the-wisp](https://danmaq.com/will-o-the-wisp)
+  * [オリジナル] [electro quest](https://danmaq.com/electro-quest)
   * 他数曲

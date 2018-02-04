@@ -10,6 +10,6 @@ KORG's sampler, the type before the vacuum tube model. I loved the sound so much
 
 ## Main songs made with this sound source
 
-*   \[Original\] [will-o'-the-wisp](/will-o-the-wisp)
-*   \[Original\] [electro quest](/electro-quest)
+*   \[Original\] [will-o'-the-wisp](https://danmaq.com/will-o-the-wisp)
+*   \[Original\] [electro quest](https://danmaq.com/electro-quest)
 *   Several other songs

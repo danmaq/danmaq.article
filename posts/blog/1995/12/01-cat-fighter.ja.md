@@ -7,7 +7,7 @@ tags: []
 ---
 
 
-構想していた[自作RPG](/tags/cats-story)、“[あぶないネコでんせつ](/cats_story)”の主人公一行のイラスト。
+構想していた[自作RPG](https://danmaq.com/tags/cats-story)、“[あぶないネコでんせつ](https://danmaq.com/cats_story)”の主人公一行のイラスト。
 左から“ミー”、“ミュー”、“ミャー”。
 
 当時 PC でゲームを作れることにカルチャーショックを覚え、色々なゲームを製作しては、絶望し、そして頓挫していた。

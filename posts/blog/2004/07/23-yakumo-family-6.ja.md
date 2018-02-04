@@ -11,5 +11,5 @@ tags: []
 否、一応手段がないわけではないが……  
 ……その方法とは、記憶・心・人格……全てをリセットすることだ。
 
-* [Webコミック “八雲家の日常” を全部見る](/tag/yakumo-family?order=ASC)
-* <[前へ](/3126) | [次へ>](/3128)
+* [Webコミック “八雲家の日常” を全部見る](https://danmaq.com/tag/yakumo-family?order=ASC)
+* <[前へ](https://danmaq.com/3126) | [次へ>](https://danmaq.com/3128)

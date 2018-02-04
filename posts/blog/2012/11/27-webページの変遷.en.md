@@ -6,4 +6,4 @@ draft: true
 tags: []
 ---
 
-Since it will be quite long, it [was divided into different categories](/?cat=21) . Please have a look there.
+Since it will be quite long, it [was divided into different categories](https://danmaq.com/?cat=21) . Please have a look there.

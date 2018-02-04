@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-[As](/palx190dr) the notebook PC acquired [for the first time](/palx190dr) in [8 years, the](/palx190dr) mainstay UltraBook.
+[As](https://danmaq.com/palx190dr) the notebook PC acquired [for the first time](https://danmaq.com/palx190dr) in [8 years, the](https://danmaq.com/palx190dr) mainstay UltraBook.
 
 Even now Windows 10 Anniversary Update has been released, PowerCover still uses a short battery life while working extensively. The next note is about Surface Book 2.
 

@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-## [Listen for](/filez/music/get_alone.mp3) " [Get Along Reform"](/filez/music/get_alone.mp3) (\[filesize\] [https://danmaq.com/filez/music/get_alone.mp3\[/filesize\])**](https://danmaq.com/filez/music/get_alone.mp3[/filesize])**) MAD. I understand it. I want to sleep sleeping until noon. ** Original copyright information
+## [Listen for](https://danmaq.com/filez/music/get_alone.mp3) " [Get Along Reform"](https://danmaq.com/filez/music/get_alone.mp3) (\[filesize\] [https://danmaq.com/filez/music/get_alone.mp3\[/filesize\])**](https://danmaq.com/filez/music/get_alone.mp3[/filesize])**) MAD. I understand it. I want to sleep sleeping until noon. ** Original copyright information
 
 *   Get Along
 *   From the animation "Slayers" opening

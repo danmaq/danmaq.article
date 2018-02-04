@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-## [Listen to](/filez/music/abyss.mp3) " [Abyss ~ flying object"](/filez/music/abyss.mp3) (4:20 | \[filesize\] [https://danmaq.com/filez/music/abyss.mp3\[/filesize\])**](https://danmaq.com/filez/music/abyss.mp3[/filesize])**) Magici saw performed only during the Halloween period in 2005 It is a work that was recorded in a [joint music CD "Love Colors Music Festival Magical Concert"](http://marisa.kicks-ass.net/) released for spot sale, "Love Colors Magic". Three years have already passed since release, and I think it is difficult to obtain the CD from now, so it is released here. ** Original copyright information
+## [Listen to](https://danmaq.com/filez/music/abyss.mp3) " [Abyss ~ flying object"](https://danmaq.com/filez/music/abyss.mp3) (4:20 | \[filesize\] [https://danmaq.com/filez/music/abyss.mp3\[/filesize\])**](https://danmaq.com/filez/music/abyss.mp3[/filesize])**) Magici saw performed only during the Halloween period in 2005 It is a work that was recorded in a [joint music CD "Love Colors Music Festival Magical Concert"](http://marisa.kicks-ass.net/) released for spot sale, "Love Colors Magic". Three years have already passed since release, and I think it is difficult to obtain the CD from now, so it is released here. ** Original copyright information
 
 *   ZUN / Oriental dark flight
 *   From "Toho Flower Azuka - Phantasmagoria of Flower View."

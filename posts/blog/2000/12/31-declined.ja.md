@@ -7,4 +7,4 @@ tags: []
 ---
 
 
-ホントに[DECLINEd](/tag/declined)してんのかなぁ……もうちょっと猶予期間は設けるつもりだけど。
+ホントに[DECLINEd](https://danmaq.com/tag/declined)してんのかなぁ……もうちょっと猶予期間は設けるつもりだけど。

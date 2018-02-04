@@ -17,5 +17,5 @@ Purple "... ... zZzzz ..."
 Orange "Ran-sama, now ... did you hear anything?"  
 Ai "Oh, it's a chime at the end of preaching. Well shall we go or orange?"
 
-*   [View all of the web comic "Daily life of the Yakumo family"](/tag/yakumo-family?order=ASC)
-*   < [Previous](/3132) | [Next>](/3141)
+*   [View all of the web comic "Daily life of the Yakumo family"](https://danmaq.com/tag/yakumo-family?order=ASC)
+*   < [Previous](https://danmaq.com/3132) | [Next>](https://danmaq.com/3141)

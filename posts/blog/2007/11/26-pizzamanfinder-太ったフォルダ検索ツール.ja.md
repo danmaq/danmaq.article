@@ -25,4 +25,4 @@ tags: []
 
   * 動作環境: Microsoft Windows98/2000～XP(Vista以降は、検索対象とするフォルダによっては一工夫必要となります)、Microsoft Office Excel XP(2002)以降
   * 最終更新: 2008/2/10
-  * [ダウンロード](/filez/app/java/PizzaManFinder_1.0.1.zip) ([filesize]https://danmaq.com/filez/app/java/PizzaManFinder_1.0.1.zip[/filesize])
+  * [ダウンロード](https://danmaq.com/filez/app/java/PizzaManFinder_1.0.1.zip) ([filesize]https://danmaq.com/filez/app/java/PizzaManFinder_1.0.1.zip[/filesize])

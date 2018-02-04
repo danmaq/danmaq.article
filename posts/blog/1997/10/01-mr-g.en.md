@@ -8,7 +8,7 @@ tags: []
 
 At that time (when I was in high school), Sue Dr. Sue who was wearing a mathematical teaching portrait of Mr. G (pseudonym). I drew it in the image of the brain, not something that was photographed, but I remember being terribly alright when I looked at the face again.
 
-A picture created as illustration for setting " [JIJIHAZARD](/2898) " that was produced by classmate [Butterbean](http://mixi.jp/show_friend.pl?id=2308126) at the time.
+A picture created as illustration for setting " [JIJIHAZARD](https://danmaq.com/2898) " that was produced by classmate [Butterbean](http://mixi.jp/show_friend.pl?id=2308126) at the time.
 
 Even now, I will never forget the super-expansion of the lesson on that day ...... Mr. G who is writing earthly objects on the chalkboard which is not visible very much like an earthworm crawling.
 

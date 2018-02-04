@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-The revenge of [last time "How to make the floppy beaten"](/floppy_crasher) .
+The revenge of [last time "How to make the floppy beaten"](https://danmaq.com/floppy_crasher) .
 
 ```
 #include <string> 

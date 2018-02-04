@@ -12,4 +12,4 @@ A nine-tenth solving game of random question. The number of combos increases as 
 *   Development language (old): Microsoft Visual C ++ 6.0
 *   Development language (ported / coming soon): Borland C ++ Builder 5
 *   Last updated: May 1, 2007
-*   [Download Version β1.00d](/filez/app/q3z.exe) (\[filesize\] [https://danmaq.com/filez/app/q3z.exe\[/filesize](https://danmaq.com/filez/app/q3z.exe[/filesize) \])
+*   [Download Version β1.00d](https://danmaq.com/filez/app/q3z.exe) (\[filesize\] [https://danmaq.com/filez/app/q3z.exe\[/filesize](https://danmaq.com/filez/app/q3z.exe[/filesize) \])

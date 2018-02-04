@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-Following the previous diary, if you notice that one year has passed since danmaq formation, the continuation of the [previous access analysis that was posted](/3405) . This time searching rare word version.
+Following the previous diary, if you notice that one year has passed since danmaq formation, the continuation of the [previous access analysis that was posted](https://danmaq.com/3405) . This time searching rare word version.
 
 ## The night falls down
 
@@ -26,7 +26,7 @@ We are not dealing with this site unfortunately
 
 ## Dronyma
 
-[I](/tag/doron) wonder if [this](/tag/doron) is caught
+[I](https://danmaq.com/tag/doron) wonder if [this](https://danmaq.com/tag/doron) is caught
 
 ## Eri Long Yin
 

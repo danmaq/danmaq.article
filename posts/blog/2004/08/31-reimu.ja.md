@@ -7,7 +7,7 @@ tags: []
 ---
 
 
-**[SS “Reimu”を読む (約2,100文字)](/?tag=reimu+contrafactum) (猟奇的表現あり注意)** 危険な詞を大量に生み出した白人ラッパー、EMINEM の曲の_中でも特にぶっ飛んじゃってる_曲、 “Kim” の替え歌(アルバム “The Marshall Mathers”より)。 EMINEM(Slim) を Marisa、 Kim を Reimu に置き換えて強引にストーリーを東方に置き換えてみました。
+**[SS “Reimu”を読む (約2,100文字)](https://danmaq.com/?tag=reimu+contrafactum) (猟奇的表現あり注意)** 危険な詞を大量に生み出した白人ラッパー、EMINEM の曲の_中でも特にぶっ飛んじゃってる_曲、 “Kim” の替え歌(アルバム “The Marshall Mathers”より)。 EMINEM(Slim) を Marisa、 Kim を Reimu に置き換えて強引にストーリーを東方に置き換えてみました。
 ## 注意
 この SS は_猟奇的なシーンを容易に想像できるセリフが含まれています_ので、そっち系の免疫のある方のみお読み戴くことをお勧めします。
 ## 口直し

@@ -12,4 +12,4 @@ Challenge the tropical festive style. At this time I was making songs under a di
 
 ## Additional notes
 
-By the way, I did not have any mastering knowledge at the time, and I got knowledge such as normalization, compressor, limiter etc. around the middle of 2005 one and a half years ago. I twisted my head and missed the sound pressure .... I continued to make the volume a mashimashi, and this noisy song was finished. Incidentally, since the work data was lost in the following month, it can not be remastered orz, but this song is also included in [danmaq soundtrack](/3636) .
+By the way, I did not have any mastering knowledge at the time, and I got knowledge such as normalization, compressor, limiter etc. around the middle of 2005 one and a half years ago. I twisted my head and missed the sound pressure .... I continued to make the volume a mashimashi, and this noisy song was finished. Incidentally, since the work data was lost in the following month, it can not be remastered orz, but this song is also included in [danmaq soundtrack](https://danmaq.com/3636) .

@@ -7,4 +7,4 @@ tags: []
 ---
 
 
-みんな、くろくなっちゃえ このイラストには[アナザー・バージョンがある](/cats_photo_white)。
+みんな、くろくなっちゃえ このイラストには[アナザー・バージョンがある](https://danmaq.com/cats_photo_white)。

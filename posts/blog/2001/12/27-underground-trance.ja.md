@@ -7,5 +7,5 @@ tags: []
 ---
 
 
-## “[UnderGround Trance” を試聴する](/filez/music/trance.mp3) (1:08 | [filesize]https://danmaq.com/filez/music/trance.mp3[/filesize])
+## “[UnderGround Trance” を試聴する](https://danmaq.com/filez/music/trance.mp3) (1:08 | [filesize]https://danmaq.com/filez/music/trance.mp3[/filesize])
 初めてトランス系流してる箱に行った時のカルチャーショックで勢いで作ってしまって勢いが持たなかった曲。当初 60 分の長編曲になる予定が 3 分弱でお疲れ。

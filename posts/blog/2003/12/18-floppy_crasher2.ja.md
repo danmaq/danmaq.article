@@ -7,7 +7,7 @@ tags: []
 ---
 
 
-[前回 “フロッピーをガリガリ言わせる方法”](/floppy_crasher) のリベンジ。
+[前回 “フロッピーをガリガリ言わせる方法”](https://danmaq.com/floppy_crasher) のリベンジ。
 
 
     #include <string>

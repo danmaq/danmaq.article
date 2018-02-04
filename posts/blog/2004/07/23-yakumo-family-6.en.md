@@ -11,5 +11,5 @@ The wounds received in the body of the expression god can be repaired by the for
 No, it does not mean there is no means for once ... ...  
 ... ... that way is to reset all, memories, minds and personality ......
 
-*   [View all of the web comic "Daily life of the Yakumo family"](/tag/yakumo-family?order=ASC)
-*   < [Previous](/3126) | [Next>](/3128)
+*   [View all of the web comic "Daily life of the Yakumo family"](https://danmaq.com/tag/yakumo-family?order=ASC)
+*   < [Previous](https://danmaq.com/3126) | [Next>](https://danmaq.com/3128)

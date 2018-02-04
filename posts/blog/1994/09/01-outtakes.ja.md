@@ -38,13 +38,13 @@ SFC で発売された RPG “エルファリア” に触発されて RPG を�
 ## (1999) 2K ppm
 
 ポップンミュージックトレーナ。誰かにメールでせつかれて企画開始。
-最終的に “[Bring your own Music & Sounds [BMS]](/2993)” のプラグインとして統合することとなり開発開始前にプロジェクト終了。
+最終的に “[Bring your own Music & Sounds [BMS]](https://danmaq.com/2993)” のプラグインとして統合することとなり開発開始前にプロジェクト終了。
 
 ## (1999) beatstage (旧称: PS2K)
 
 ポップンステージにくりそつなBMSプレーヤー。
 現時点では殆どプレイしたことがなく、製作開始するかどうか未定。
-やるとしても “[Bring your own Music & Sounds [BMS]](/2993)” のプラグイン形式にしようかなと。
+やるとしても “[Bring your own Music & Sounds [BMS]](https://danmaq.com/2993)” のプラグイン形式にしようかなと。
 
 ## (2000) SINGFREAKS
 

@@ -6,4 +6,4 @@ draft: true
 tags: []
 ---
 
-Well, according to [new content relocation](/yasimcity-solo) , I have started uploading little by little, perhaps, somewhere, unfinished new content may emerge fierce !! Everyone worships new content before opening Already!
+Well, according to [new content relocation](https://danmaq.com/yasimcity-solo) , I have started uploading little by little, perhaps, somewhere, unfinished new content may emerge fierce !! Everyone worships new content before opening Already!

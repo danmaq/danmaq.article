@@ -7,7 +7,7 @@ tags: []
 ---
 
 
-[https://danmaq.com/unitycrash/](/unitycrash/) 短縮版URL <http://dmq.cm/unitycrash> ■使い方
+[https://danmaq.com/unitycrash/](https://danmaq.com/unitycrash/) 短縮版URL <http://dmq.cm/unitycrash> ■使い方
 
   1. Unityが落ちた時に上記ページを開きます。
   2. ボタンを押します。

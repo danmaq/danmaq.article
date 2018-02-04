@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-The schedule for next week has gone by nearly two months, sorry. Even though I died this way, I have not escaped at night, so I'm pleased if you can rest assured. That is why there are not many things that can be released at this time, but on the [illustration page I will add](/3675) a [piece of Toho and a](/3675) little about the next work.
+The schedule for next week has gone by nearly two months, sorry. Even though I died this way, I have not escaped at night, so I'm pleased if you can rest assured. That is why there are not many things that can be released at this time, but on the [illustration page I will add](https://danmaq.com/3675) a [piece of Toho and a](https://danmaq.com/3675) little about the next work.
 
 ## About the next work
 

@@ -15,4 +15,4 @@ In the office I made texts when I opened a seminar for studying HTML by saying "
 ## download
 
 *   Last updated: March 15, 2009
-*   [Download](/filez/htmldoc.zip) (\[filesize\] [https://danmaq.com/filez/htmldoc.zip\[/filesize](https://danmaq.com/filez/htmldoc.zip[/filesize) \])
+*   [Download](https://danmaq.com/filez/htmldoc.zip) (\[filesize\] [https://danmaq.com/filez/htmldoc.zip\[/filesize](https://danmaq.com/filez/htmldoc.zip[/filesize) \])

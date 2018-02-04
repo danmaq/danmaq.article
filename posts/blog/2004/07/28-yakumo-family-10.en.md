@@ -10,5 +10,5 @@ Also, if you let it go upside down, the judgment to the surroundings becomes dul
 
 On the flow, I let him face-to-face only to orange, but personally I choose a magician
 
-*   [View all of the web comic "Daily life of the Yakumo family"](/tag/yakumo-family?order=ASC)
-*   < [Previous](/3131) | [Next>](/3134)
+*   [View all of the web comic "Daily life of the Yakumo family"](https://danmaq.com/tag/yakumo-family?order=ASC)
+*   < [Previous](https://danmaq.com/3131) | [Next>](https://danmaq.com/3134)

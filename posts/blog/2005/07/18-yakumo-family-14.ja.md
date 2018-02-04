@@ -8,6 +8,6 @@ tags: []
 
 物凄い久しぶり過ぎて絵板アプリの使い勝手完全に忘れてた……orz
 
-Webコミック “[八雲家の日常](/tag/yakumo-family?order=ASC)” の復刻編的なやつですが、続きません。
+Webコミック “[八雲家の日常](https://danmaq.com/tag/yakumo-family?order=ASC)” の復刻編的なやつですが、続きません。
 
-  * <[前へ](/3155)
+  * <[前へ](https://danmaq.com/3155)

@@ -7,6 +7,6 @@ tags: []
 ---
 
 
-東方弾幕風フレームワークライブラリ『[Framework of LunAtic Notation](/tag/flan)』のバージョン0.1hをリリースしました。
+東方弾幕風フレームワークライブラリ『[Framework of LunAtic Notation](https://danmaq.com/tag/flan)』のバージョン0.1hをリリースしました。
 
 今回は前バージョンで会話イベントスクリプトから使用不可となった算術関数の一部が再度使用可能となりました。

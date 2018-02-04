@@ -8,5 +8,5 @@ tags: []
 
 普段はあまり怒ったりしないのですが、常におかしいので他人には良く分かりません。
 
-* [Webコミック “八雲家の日常” を全部見る](/tag/yakumo-family?order=ASC)
-* <[前へ](/3123) | [次へ>](/3126)
+* [Webコミック “八雲家の日常” を全部見る](https://danmaq.com/tag/yakumo-family?order=ASC)
+* <[前へ](https://danmaq.com/3123) | [次へ>](https://danmaq.com/3126)

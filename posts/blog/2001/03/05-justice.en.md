@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-**[Listen to the](/filez/music/tice.mp3)** regular version **" [justice -rapid style-"](/filez/music/tice.mp3) (2:28 | \[filesize\] [https://danmaq.com/filez/music/tice.mp3\[/filesize](https://danmaq.com/filez/music/tice.mp3[/filesize) \])** ringtone style **" [justice -rapid style-" ringtone style Listen to the remix](/filez/music/tice_smaf_ma2.mp3) (2:28 | \[filesize\] [https://danmaq.com/filez/music/tice\_smaf\_ma2.mp3\[/filesize](https://danmaq.com/filez/music/tice_smaf_ma2.mp3[/filesize) \])** Lapis Lazul song "Justice" remix. Vocals included exactly. Although the original song was BPM 160 and early from the beginning, it was forced to speed up to BPM 193. I tried challenging to arrange the ultra fast Euro wanted to make it. I heard that once again listening to it, it is easy to remix again if there is nothing to do with it, as there are some unpleasant parts such as dissonance included.
+**[Listen to the](https://danmaq.com/filez/music/tice.mp3)** regular version **" [justice -rapid style-"](https://danmaq.com/filez/music/tice.mp3) (2:28 | \[filesize\] [https://danmaq.com/filez/music/tice.mp3\[/filesize](https://danmaq.com/filez/music/tice.mp3[/filesize) \])** ringtone style **" [justice -rapid style-" ringtone style Listen to the remix](https://danmaq.com/filez/music/tice_smaf_ma2.mp3) (2:28 | \[filesize\] [https://danmaq.com/filez/music/tice\_smaf\_ma2.mp3\[/filesize](https://danmaq.com/filez/music/tice_smaf_ma2.mp3[/filesize) \])** Lapis Lazul song "Justice" remix. Vocals included exactly. Although the original song was BPM 160 and early from the beginning, it was forced to speed up to BPM 193. I tried challenging to arrange the ultra fast Euro wanted to make it. I heard that once again listening to it, it is easy to remix again if there is nothing to do with it, as there are some unpleasant parts such as dissonance included.
 
 ## Additional September 7, 2009
 
@@ -16,4 +16,4 @@ The BMS version added the NORMAL music score, and the difficulty level setting o
 
 *   Lapis Lazul / Justice
 *   cyber euro | 2: 28 | 194 BpM | BMSLEVEL: N 8 - H 9 - A 10 | BMSNOTES: N 1163 - H 1133 - A 1688
-*   [Download BMS "justice -rapid style-"](/filez/music/justice.zip) (\[filesize\] [https://danmaq.com/filez/music/justice.zip\[/filesize](https://danmaq.com/filez/music/justice.zip[/filesize) \])
+*   [Download BMS "justice -rapid style-"](https://danmaq.com/filez/music/justice.zip) (\[filesize\] [https://danmaq.com/filez/music/justice.zip\[/filesize](https://danmaq.com/filez/music/justice.zip[/filesize) \])

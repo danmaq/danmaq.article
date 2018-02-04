@@ -10,4 +10,4 @@ It is like a division by 2 with the spell of Las Boss 'Yomi' s dream "Spirit But
 
 In a nutshell it is a story. I am not assuming clear because it is a one-time story, but maybe there is a stable pattern because it is a perfectly fixed barrage.
 
-*   "\[Anti- [Butterfly - Mad Saki -\]"](/filez/thd/guru.zip) (\[filesize\] [https://danmaq.com/filez/thd/guru.zip\[/filesize](https://danmaq.com/filez/thd/guru.zip[/filesize) \])
+*   "\[Anti- [Butterfly - Mad Saki -\]"](https://danmaq.com/filez/thd/guru.zip) (\[filesize\] [https://danmaq.com/filez/thd/guru.zip\[/filesize](https://danmaq.com/filez/thd/guru.zip[/filesize) \])

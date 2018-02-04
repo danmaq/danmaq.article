@@ -6,4 +6,4 @@ draft: true
 tags: []
 ---
 
-A part of the landscape painting of the virtual world when planning to make an [image chat site close to the feeling of MMORPG for a while at the moment](/tag/FCoV) .
+A part of the landscape painting of the virtual world when planning to make an [image chat site close to the feeling of MMORPG for a while at the moment](https://danmaq.com/tag/FCoV) .

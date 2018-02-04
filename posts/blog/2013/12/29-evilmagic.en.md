@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-*   [Publish up to 69 pages out of 180 pages! Read trial version PDF](/filez/em_trial.pdf) (\[filesize\] [https://danmaq.com/filez/em_trial.pdf\[/filesize](https://danmaq.com/filez/em_trial.pdf[/filesize) \])
+*   [Publish up to 69 pages out of 180 pages! Read trial version PDF](https://danmaq.com/filez/em_trial.pdf) (\[filesize\] [https://danmaq.com/filez/em_trial.pdf\[/filesize](https://danmaq.com/filez/em_trial.pdf[/filesize) \])
 
 > Girl Enna who can use magical abilities, Grace of the younger brother, Ark which is a childhood friend of two people, still children of the first half of teens, the slapstick rampage story of three people!
 > 
@@ -14,4 +14,4 @@ tags: []
 
 It is an authentic fantasy light novel of 180 pages in all. Cover illustration, and illustrations were drawn by [Tsukasa Sakura](http://dungeonmania.web.fc2.com/) ! (By the way, since Illustrations drawn by me are mixed in one place, please try looking for it) ![Children, still a lot of evil bruts three people rampage! Sword and magical, authentic fantasy novels!](https://danmaq.com/wp-content/uploads/2012/11/em_POP-300x300.png)
 
-*   [Publish up to 69 pages out of 180 pages! Read trial version PDF](/filez/em_trial.pdf) (\[filesize\] [https://danmaq.com/filez/em_trial.pdf\[/filesize](https://danmaq.com/filez/em_trial.pdf[/filesize) \])
+*   [Publish up to 69 pages out of 180 pages! Read trial version PDF](https://danmaq.com/filez/em_trial.pdf) (\[filesize\] [https://danmaq.com/filez/em_trial.pdf\[/filesize](https://danmaq.com/filez/em_trial.pdf[/filesize) \])

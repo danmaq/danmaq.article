@@ -13,14 +13,14 @@ Oh, only the game, I want you to wait until summer.
 
 ## Study · Waiting for Flash
 
-I will make an application using FlashCS + AS3 at work! Although it was decided that it was unfortunate, [it is a test which tried making a life game in a](/lifegame.html) hurry as a study. No, I'm fascinated recently with Bocaro a bit more Madoka, from the site eastwards have gone missing, so it's Ehrin link.
+I will make an application using FlashCS + AS3 at work! Although it was decided that it was unfortunate, [it is a test which tried making a life game in a](https://danmaq.com/lifegame.html) hurry as a study. No, I'm fascinated recently with Bocaro a bit more Madoka, from the site eastwards have gone missing, so it's Ehrin link.
 
 Strictly, Flash itself has done it. All I did with Flash CS was Flash Lite 1.1 (equivalent to 4 for PC version Flash), and after that all the Flex Builder was used.
 
 First I got crazy about the difference from Flex, but it is easier if I remember how to use linkage.
 
-*   [Preview](/lifegame.html) (Flash Lite 2.0 or later or Flash Player 8 or later)
-*   [Flash movie body and FlashCS 4 project and source (great spaghetti!) Download](/filez/app/lifegame.zip)
+*   [Preview](https://danmaq.com/lifegame.html) (Flash Lite 2.0 or later or Flash Player 8 or later)
+*   [Flash movie body and FlashCS 4 project and source (great spaghetti!) Download](https://danmaq.com/filez/app/lifegame.zip)
 
 ## Told this week's To Love-Ru
 

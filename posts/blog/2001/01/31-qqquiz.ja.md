@@ -13,4 +13,4 @@ tags: []
   * 開発言語(旧): Microsoft VisualC++ 6.0
   * 開発言語(移植版/近日公開予定): Borland C++ Builder 5
   * 最終更新: 2007/5/1
-  * [Version β1.00dをダウンロード](/filez/app/q3z.exe) ([filesize]https://danmaq.com/filez/app/q3z.exe[/filesize])
+  * [Version β1.00dをダウンロード](https://danmaq.com/filez/app/q3z.exe) ([filesize]https://danmaq.com/filez/app/q3z.exe[/filesize])

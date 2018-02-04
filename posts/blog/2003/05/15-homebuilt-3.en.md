@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-A PC that was extremely high performance even though I owned it. In 2005 [TOSHIBA dynabookSS / LX190](/palx190dr) introduction became the fastest [thing](/palx190dr) , and in 2010 the [Tsukumo BTO](/sencia) launched the fastest seat. I want to suddenly live by himself for a half year in office, and Donadna as its fund.
+A PC that was extremely high performance even though I owned it. In 2005 [TOSHIBA dynabookSS / LX190](https://danmaq.com/palx190dr) introduction became the fastest [thing](https://danmaq.com/palx190dr) , and in 2010 the [Tsukumo BTO](https://danmaq.com/sencia) launched the fastest seat. I want to suddenly live by himself for a half year in office, and Donadna as its fund.
 
 ## PC games that caught at the time
 

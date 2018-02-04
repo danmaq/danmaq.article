@@ -8,5 +8,5 @@ tags: []
 
 A fox is fake, but sometimes it is made funny.
 
-*   [View all of the web comic "Daily life of the Yakumo family"](/tag/yakumo-family?order=ASC)
-*   < [Previous](/3129) | [Next>](/3132)
+*   [View all of the web comic "Daily life of the Yakumo family"](https://danmaq.com/tag/yakumo-family?order=ASC)
+*   < [Previous](https://danmaq.com/3129) | [Next>](https://danmaq.com/3132)

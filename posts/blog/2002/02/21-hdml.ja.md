@@ -36,4 +36,4 @@ perlで動的にHDML(Handbeld Device Markup Language)を生成するモジュー
 
   * 動作環境: perl 5.005以降(5.6.1以降を推奨)
   * 最終バージョン: 0.55(2002/2/26)
-  * [ダウンロード](/filez/perl/HDML-0.55.ZIP) ([filesize]https://danmaq.com/filez/perl/HDML-0.55.ZIP[/filesize])
+  * [ダウンロード](https://danmaq.com/filez/perl/HDML-0.55.ZIP) ([filesize]https://danmaq.com/filez/perl/HDML-0.55.ZIP[/filesize])

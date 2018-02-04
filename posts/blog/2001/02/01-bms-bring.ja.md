@@ -12,4 +12,4 @@ beatmaniaトレーナ。今までeraばっか出して手を焼きまくった�
   * ジャンル: 音ゲーシミュレータ
   * 開発言語: Microsoft VisualC++ 6.0 + Easy Link library
   * 最終更新: 2001/2/2
-  * [Version α1.0002をダウンロード](/filez/app/bms.rar) ([filesize]https://danmaq.com/filez/app/bms.rar[/filesize])
+  * [Version α1.0002をダウンロード](https://danmaq.com/filez/app/bms.rar) ([filesize]https://danmaq.com/filez/app/bms.rar[/filesize])

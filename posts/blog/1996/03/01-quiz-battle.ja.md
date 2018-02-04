@@ -31,4 +31,4 @@ tags: []
 * 開発言語(旧): N88-日本語BASIC(86) MS-DOS版
 * 開発言語(移植版): JavaSE 6
 * 最終更新: 2007/1/4
-* [JAVA移植版をダウンロード](/filez/app/java/NumBattleGame.zip) ([filesize]https://danmaq.com/filez/app/java/NumBattleGame.zip[/filesize])
+* [JAVA移植版をダウンロード](https://danmaq.com/filez/app/java/NumBattleGame.zip) ([filesize]https://danmaq.com/filez/app/java/NumBattleGame.zip[/filesize])

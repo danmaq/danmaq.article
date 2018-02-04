@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-It's the first main machine in my notebook PC I brought. Thanks to this PC I learned the mobility of the notebook PC and I can not return to the desk PC. The 3D ability is not good for CPU power. No, I guess I'm doing my best for B5 class notes. Its sturdiness is noteworthy. Windows Media Player It does not break even if running in a single car with playing and putting it in a bag. (The HDD flew away if I did it for a few months) After taking care of me for a year's strength, after I became indebted for the strength, I was concerned about the 3D ability again and transferred it to [TOSHIBA dynabookSS LX](/dynabook-sslx190) and sold it.
+It's the first main machine in my notebook PC I brought. Thanks to this PC I learned the mobility of the notebook PC and I can not return to the desk PC. The 3D ability is not good for CPU power. No, I guess I'm doing my best for B5 class notes. Its sturdiness is noteworthy. Windows Media Player It does not break even if running in a single car with playing and putting it in a bag. (The HDD flew away if I did it for a few months) After taking care of me for a year's strength, after I became indebted for the strength, I was concerned about the 3D ability again and transferred it to [TOSHIBA dynabookSS LX](https://danmaq.com/dynabook-sslx190) and sold it.
 
 ## PC games that caught at the time
 

@@ -13,7 +13,7 @@ I guess the latter half seems a bit sweet ... well.
 That's why I kept you waiting very much. [Toho Yume Drama series R2.00 patch](https://danmaq.com/!/thC/) will be released. Paid patch? Where did you get blown into that legal thread?  
 Mainly **extra spelling of 30 or less** and addition of _result browsing function_ , afterwards adjustment of some screen directing. (Please look at [the page](https://danmaq.com/!/thC/) of [Dream Drama for](https://danmaq.com/!/thC/) other small updates)
 
-I tentatively made it up sooner or later. Also add 1 [Eastern illustration](/3571) . Milk closet purple. (Needless to say, the main cause of delayed patch injection)
+I tentatively made it up sooner or later. Also add 1 [Eastern illustration](https://danmaq.com/3571) . Milk closet purple. (Needless to say, the main cause of delayed patch injection)
 
 ## We will begin site renewal construction in the near future
 

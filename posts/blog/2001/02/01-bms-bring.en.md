@@ -11,4 +11,4 @@ beatmania trainer. Easy Link library which I gave up on era and put up my hands 
 *   Genre: sound gee simulator
 *   Development language: Microsoft Visual C ++ 6.0 + Easy Link library
 *   Last Updated: 2001/2/2
-*   [Download Version α1.0002](/filez/app/bms.rar) (\[filesize\] [https://danmaq.com/filez/app/bms.rar\[/filesize](https://danmaq.com/filez/app/bms.rar[/filesize) \])
+*   [Download Version α1.0002](https://danmaq.com/filez/app/bms.rar) (\[filesize\] [https://danmaq.com/filez/app/bms.rar\[/filesize](https://danmaq.com/filez/app/bms.rar[/filesize) \])

@@ -8,5 +8,5 @@ tags: []
 
 狐は化かすものだが、化かされることもある。
 
-* [Webコミック “八雲家の日常” を全部見る](/tag/yakumo-family?order=ASC)
-* <[前へ](/3129) | [次へ>](/3132)
+* [Webコミック “八雲家の日常” を全部見る](https://danmaq.com/tag/yakumo-family?order=ASC)
+* <[前へ](https://danmaq.com/3129) | [次へ>](https://danmaq.com/3132)

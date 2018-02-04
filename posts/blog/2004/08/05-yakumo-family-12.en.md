@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-It is an extraordinary guy of Web comic " [Yakumo's daily life](/tag/yakumo-family?order=ASC) ".
+It is an extraordinary guy of Web comic " [Yakumo's daily life](https://danmaq.com/tag/yakumo-family?order=ASC) ".
 
 Orange "Wow ... ♪ cool!"  
 Ai "It looks like you liked it"  
@@ -14,7 +14,7 @@ Orange "Yeah! Thank you for your indigo -"
 Ai: Okay ... then.  
 Ai: Then, please do it in this time, then  
 Orange "What? What?"  
-Ai "Er, that ... ... in the [past purple like this](/3123) ... ...."  
+Ai "Er, that ... ... in the [past purple like this](https://danmaq.com/3123) ... ...."  
 orange"……"
 
-*   < [Previous](/3134) | [Next>](/3155)
+*   < [Previous](https://danmaq.com/3134) | [Next>](https://danmaq.com/3155)

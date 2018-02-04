@@ -6,4 +6,4 @@ draft: true
 tags: []
 ---
 
-[For details of this illustration, please click here.](/banrei) Please give me the power. To develop independence movement. By the way NG is stuck all around here? Or are you going out? ...... Ha! No way! So to do so and to stop the independence movement ... .... I am in control forever!
+[For details of this illustration, please click here.](https://danmaq.com/banrei) Please give me the power. To develop independence movement. By the way NG is stuck all around here? Or are you going out? ...... Ha! No way! So to do so and to stop the independence movement ... .... I am in control forever!

@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-An image illustration of RPG, " [Treasure of a destroyed castle I](/6338) " that was under construction at that time using N88-Japanese BASIC (86). The figure of the real system illustration is like this.
+An image illustration of RPG, " [Treasure of a destroyed castle I](https://danmaq.com/6338) " that was under construction at that time using N88-Japanese BASIC (86). The figure of the real system illustration is like this.
 
 Actually, the opening movie was also delusional, and there is a memory that was the scene of that storyboard. I was building a character deza of three people. Regrettably the two others disappeared.
 

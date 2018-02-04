@@ -10,7 +10,7 @@ It is a framework for XNA GameStudio mainly for games. It is an object with the 
 
 ## Performance
 
-*   (XNA) [Toho Yumesu Drama](/products/apps/dnh/thc/) .NET Pre-Alpha Version
+*   (XNA) [Toho Yumesu Drama](https://danmaq.com/products/apps/dnh/thc/) .NET Pre-Alpha Version
 *   (XNA) [Concert Fantasy Impression](http://kagaminer.in/) Trial Version
 *   (FLEX) Taito "Space Puzzle Bobble" Web trial version Flash
 *   (FLEX) Taito "Space Invaders Extreme 2" Official website Flash

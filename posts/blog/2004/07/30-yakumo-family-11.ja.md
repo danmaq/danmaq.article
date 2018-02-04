@@ -19,5 +19,5 @@ tags: []
 橙「らんさま、今・・・何か聞こえませんでした？」  
 藍「あぁ、説教終了のチャイムだよ。さて行こうか、橙」
 
-* [Webコミック “八雲家の日常” を全部見る](/tag/yakumo-family?order=ASC)
-* <[前へ](/3132) | [次へ>](/3141)
+* [Webコミック “八雲家の日常” を全部見る](https://danmaq.com/tag/yakumo-family?order=ASC)
+* <[前へ](https://danmaq.com/3132) | [次へ>](https://danmaq.com/3141)

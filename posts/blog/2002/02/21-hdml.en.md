@@ -36,4 +36,4 @@ You can easily create HDML as if you were generating HTML with CGI.pm.
 
 *   Operating environment: perl 5.005 or later (5.6.1 or later is recommended)
 *   Final version: 0.55 (2002/2/26)
-*   [Download](/filez/perl/HDML-0.55.ZIP) (\[filesize\] [https://danmaq.com/filez/perl/HDML-0.55.ZIP\[/filesize](https://danmaq.com/filez/perl/HDML-0.55.ZIP[/filesize) \])
+*   [Download](https://danmaq.com/filez/perl/HDML-0.55.ZIP) (\[filesize\] [https://danmaq.com/filez/perl/HDML-0.55.ZIP\[/filesize](https://danmaq.com/filez/perl/HDML-0.55.ZIP[/filesize) \])

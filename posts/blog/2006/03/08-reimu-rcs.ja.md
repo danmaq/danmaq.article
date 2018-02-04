@@ -10,7 +10,7 @@ tags: []
 ## REIMU - Revision Easy & Ideal Managing Unit** CVSやSVNが難しくて扱えない方向けのwiki感覚で操作可能なwebベースの簡易コード管理システム(いわゆるプログラム開発支援ツールの一種)です。perlがCGI動作さえすればtelnetできないサーバにも設置できます。 複数人数でプログラミングするときにはきっと役立つでしょう！ 但しCVSを己の手足のように扱える方には非常に向いていません(こんなもの使わずに素直にCVSを使うべきです)。ちなみに、元々[東方夢終劇](https://danmaq.com/!/thC/)のスクリプトをうまく中央集中管理させるために出来た副産物だってことはここだけの秘密でｗ **ダウンロード
 
   * 最新バージョン:0.45
-  * “[REIMU - Revision Easy & Ideal Managing Unit”をダウンロードする](/filez/perl/REIMU-0.45.zip) ([filesize]https://danmaq.com/filez/perl/REIMU-0.45.zip[/filesize])
+  * “[REIMU - Revision Easy & Ideal Managing Unit”をダウンロードする](https://danmaq.com/filez/perl/REIMU-0.45.zip) ([filesize]https://danmaq.com/filez/perl/REIMU-0.45.zip[/filesize])
 ## 更新履歴
 
   * v0.45(2006/3/8)上書きうｐ時の不都合修正、UI表示処理の軽量化、Recentで絶対パス表示、Recentで表示件数変更機能

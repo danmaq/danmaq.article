@@ -23,4 +23,4 @@ I think that the source is also designed for extremely easy viewing so it is per
 
 *   Operating environment: perl 5.005 or later (5.6.1 or later is recommended)
 *   Final version: 0.05 (March 28, 2002)
-*   [Download](/filez/perl/Count-0.05.zip) (\[filesize\] [https://danmaq.com/filez/perl/Count-0.05.zip\[/filesize](https://danmaq.com/filez/perl/Count-0.05.zip[/filesize) \])
+*   [Download](https://danmaq.com/filez/perl/Count-0.05.zip) (\[filesize\] [https://danmaq.com/filez/perl/Count-0.05.zip\[/filesize](https://danmaq.com/filez/perl/Count-0.05.zip[/filesize) \])

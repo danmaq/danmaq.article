@@ -6,4 +6,4 @@ draft: true
 tags: []
 ---
 
-Everyone, Kurokuya This illustration has [another version](/cats_photo_white) .
+Everyone, Kurokuya This illustration has [another version](https://danmaq.com/cats_photo_white) .

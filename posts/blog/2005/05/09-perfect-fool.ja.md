@@ -9,4 +9,4 @@ tags: []
 
 バカ。 一発ネタなので難易度はあまり調整してません。  時間切れまで待てば楽に自滅してくれます。もし時間内に倒す場合は、半分くらいまで削った辺りから、弾を出させる時間すら与えずなるだけ速攻で殺すと比較的楽です。
 
-  * “[豆腐「パーフェクトフール」”をダウンロードする](/filez/thd/9.zip)([filesize]https://danmaq.com/filez/thd/9.zip[/filesize])
+  * “[豆腐「パーフェクトフール」”をダウンロードする](https://danmaq.com/filez/thd/9.zip)([filesize]https://danmaq.com/filez/thd/9.zip[/filesize])

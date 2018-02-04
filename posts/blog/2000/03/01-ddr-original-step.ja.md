@@ -7,5 +7,5 @@ tags: []
 ---
 
 
-## [DDRカスタムステップをダウンロード](/filez/orgstep.zip) ([filesize]https://danmaq.com/filez/orgstep.zip[/filesize])
+## [DDRカスタムステップをダウンロード](https://danmaq.com/filez/orgstep.zip) ([filesize]https://danmaq.com/filez/orgstep.zip[/filesize])
 DanceDanceRevolusion 1st～3rdMixのオリジナルステップ11種類が入っています。[DDRV](http://www5.big.or.jp/%7Enekotaro/ddrv/)用データです。難易度よりもネタ的要素を重視しています。

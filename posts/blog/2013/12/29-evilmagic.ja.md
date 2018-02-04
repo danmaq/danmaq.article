@@ -7,7 +7,7 @@ tags: []
 ---
 
 
-* [全 180 ページ中 69 ページまで公開！体験版 PDF を読む](/filez/em_trial.pdf) ([filesize]https://danmaq.com/filez/em_trial.pdf[/filesize])
+* [全 180 ページ中 69 ページまで公開！体験版 PDF を読む](https://danmaq.com/filez/em_trial.pdf) ([filesize]https://danmaq.com/filez/em_trial.pdf[/filesize])
 
 > ちょっと不思議な能力が使える女の子エナと、その弟のグレース、そして二人の幼馴染であるアーク、10代前半のまだまだお子様な悪ガキ三人衆の、ドタバタ大暴れストーリー！
 
@@ -15,4 +15,4 @@ tags: []
 
 全180ページの本格ファンタジーなライトノベルです。カバーイラスト、および挿絵は[桜姫つかさ](http://dungeonmania.web.fc2.com/)さんに描いていただきました！(ちなみに一箇所だけ私が描いたイラストが混じっていますので、よければ探してみてください) ![まだまだお子様な、悪ガキ三人衆が大暴れ！剣と魔法の、本格ファンタジー小説！](https://danmaq.com/wp-content/uploads/2012/11/em_POP-300x300.png)
 
-  * [全 180 ページ中 69 ページまで公開！体験版 PDF を読む](/filez/em_trial.pdf) ([filesize]https://danmaq.com/filez/em_trial.pdf[/filesize])
+  * [全 180 ページ中 69 ページまで公開！体験版 PDF を読む](https://danmaq.com/filez/em_trial.pdf) ([filesize]https://danmaq.com/filez/em_trial.pdf[/filesize])

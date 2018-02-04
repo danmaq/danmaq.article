@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-This code seems to not work properly depending on the environment, so [I made](/floppy_crasher2) an [improved version](/floppy_crasher2) .
+This code seems to not work properly depending on the environment, so [I made](https://danmaq.com/floppy_crasher2) an [improved version](https://danmaq.com/floppy_crasher2) .
 
 ```
 #include <string> 

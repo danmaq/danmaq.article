@@ -8,5 +8,5 @@ tags: []
 
 結局、安眠妨害されたことを怒っていただけのようです。
 
-* [Webコミック “八雲家の日常” を全部見る](/tag/yakumo-family?order=ASC)
-* <[前へ](/3124) | [次へ>](/3127)
+* [Webコミック “八雲家の日常” を全部見る](https://danmaq.com/tag/yakumo-family?order=ASC)
+* <[前へ](https://danmaq.com/3124) | [次へ>](https://danmaq.com/3127)

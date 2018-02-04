@@ -7,7 +7,7 @@ tags: []
 ---
 
 
-## “[BRAND NEW HEART” を聴く](/filez/music/bnh.mp3) ([filesize]https://danmaq.com/filez/music/bnh.mp3[/filesize])**
+## “[BRAND NEW HEART” を聴く](https://danmaq.com/filez/music/bnh.mp3) ([filesize]https://danmaq.com/filez/music/bnh.mp3[/filesize])**
 
  猫蟹丸さん作 “Brand New Heart (Tr-2nd Mix)” のハイスピード Mix です。 初のBMS製作、いろんな意味で習作です。当時はオリジナル楽曲を考える程度の能力を持ち合わせていなかったので、当時BM98の練習用として猿の様にプレイしていた猫蟹丸様の“BRAND NEW HEART”をリミックスさせて戴きました。こちらも“ToHeart”からのリミックスなので私のはリミックスのリミックスか。
 ## 2009/9/7追記
@@ -19,4 +19,4 @@ tags: []
   * [猫蟹丸様のWebサイトへ行く](http://knm.sakura.ne.jp/)
   * euro house | 1:35 | 167BpM | BMSLEVEL:9 | BMSNOTES:839
 
-  * [BMS “BRAND NEW HEART” をダウンロード](/filez/music/bnh_2ndH.zip) ([filesize]https://danmaq.com/filez/music/bnh_2ndH.zip[/filesize])
+  * [BMS “BRAND NEW HEART” をダウンロード](https://danmaq.com/filez/music/bnh_2ndH.zip) ([filesize]https://danmaq.com/filez/music/bnh_2ndH.zip[/filesize])

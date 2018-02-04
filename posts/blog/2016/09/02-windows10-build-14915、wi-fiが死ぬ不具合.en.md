@@ -7,7 +7,7 @@ cover: ../../../assets/misc/2016-windows10-insider-problem.jpg
 tags: []
 ---
 
-Finally Nightly (Weekly?) Build specific flavor has come out ... .... A new build of Windows 10 Insider Preview, 14915 was coming so install before going to bed. When I woke up in the morning, wireless LAN ceased to say totally. The problematic PC is [Microsoft Surface Pro](/surface-pro) .
+Finally Nightly (Weekly?) Build specific flavor has come out ... .... A new build of Windows 10 Insider Preview, 14915 was coming so install before going to bed. When I woke up in the morning, wireless LAN ceased to say totally. The problematic PC is [Microsoft Surface Pro](https://danmaq.com/surface-pro) .
 
 ## What you did
 

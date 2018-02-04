@@ -18,4 +18,4 @@ And the enemy 's ball is as fast as a bullet. No matter how hard you hit, you pr
 *   Development language (old): N88 - Japanese BASIC (86) MS - DOS version
 *   Development language (ported version): Microsoft Visual C ++. Net 2003
 *   Last updated: 2006/3
-*   [Download v.0.0 g (Windows ported version)](/filez/app/ball.zip) (\[filesize\] [https://danmaq.com/filez/app/ball.zip\[/filesize](https://danmaq.com/filez/app/ball.zip[/filesize) \])
+*   [Download v.0.0 g (Windows ported version)](https://danmaq.com/filez/app/ball.zip) (\[filesize\] [https://danmaq.com/filez/app/ball.zip\[/filesize](https://danmaq.com/filez/app/ball.zip[/filesize) \])

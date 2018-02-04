@@ -13,6 +13,6 @@ tags: []
   * 開発言語(旧): Microsoft QBasic 1.1
   * 開発言語(移植版): HSP 2.4
   * 最終更新: 2000/2/1
-  * [Version β3をダウンロード](/filez/app/makiwari.zip) ([filesize]https://danmaq.com/filez/app/makiwari.zip[/filesize])
-  * [Version β2.1をダウンロード](/filez/app/mk_old.zip) ([filesize]https://danmaq.com/filez/app/mk_old.zip[/filesize])
-  * [Version β1をダウンロード](/filez/app/mk_b1.zip) ([filesize]https://danmaq.com/filez/app/mk_b1.zip[/filesize])
+  * [Version β3をダウンロード](https://danmaq.com/filez/app/makiwari.zip) ([filesize]https://danmaq.com/filez/app/makiwari.zip[/filesize])
+  * [Version β2.1をダウンロード](https://danmaq.com/filez/app/mk_old.zip) ([filesize]https://danmaq.com/filez/app/mk_old.zip[/filesize])
+  * [Version β1をダウンロード](https://danmaq.com/filez/app/mk_b1.zip) ([filesize]https://danmaq.com/filez/app/mk_b1.zip[/filesize])

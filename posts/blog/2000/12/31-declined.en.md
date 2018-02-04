@@ -6,4 +6,4 @@ draft: true
 tags: []
 ---
 
-I [wonder](/tag/declined) if [DECLINEd](/tag/declined) really is ... ... I'm going to set a grace period a bit more.
+I [wonder](https://danmaq.com/tag/declined) if [DECLINEd](https://danmaq.com/tag/declined) really is ... ... I'm going to set a grace period a bit more.

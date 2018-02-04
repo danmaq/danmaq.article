@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-## [Listen to](/filez/music/bnh.mp3) " [BRAND NEW HEART"](/filez/music/bnh.mp3) (\[filesize\] [https://danmaq.com/filez/music/bnh.mp3\[/filesize\])**](https://danmaq.com/filez/music/bnh.mp3[/filesize])**)
+## [Listen to](https://danmaq.com/filez/music/bnh.mp3) " [BRAND NEW HEART"](https://danmaq.com/filez/music/bnh.mp3) (\[filesize\] [https://danmaq.com/filez/music/bnh.mp3\[/filesize\])**](https://danmaq.com/filez/music/bnh.mp3[/filesize])**)
 
 It is a high speed Mix of "Brand New Heart (Tr - 2nd Mix)" produced by Mr. First BMS production, study in various ways. At that time I was not able to think about the original songs, so I remixed "BRAND NEW HEART" by Mrs. Kokumaru who was playing like a monkey for the practice of BM 98 at that time. This is a remix from "ToHeart" So is my remix remix?
 
@@ -22,4 +22,4 @@ This work is a _difference_ of the original song. Playing with this BMS alone is
 *   [Go to the website of Cat Kanemaru](http://knm.sakura.ne.jp/)
 *   euro house | 1: 35 | 167 BpM | BMSLEVEL: 9 | BMSNOTES: 839
     
-*   [Download BMS "BRAND NEW HEART"](/filez/music/bnh_2ndH.zip) (\[filesize\] [https://danmaq.com/filez/music/bnh_2ndH.zip\[/filesize](https://danmaq.com/filez/music/bnh_2ndH.zip[/filesize) \])
+*   [Download BMS "BRAND NEW HEART"](https://danmaq.com/filez/music/bnh_2ndH.zip) (\[filesize\] [https://danmaq.com/filez/music/bnh_2ndH.zip\[/filesize](https://danmaq.com/filez/music/bnh_2ndH.zip[/filesize) \])

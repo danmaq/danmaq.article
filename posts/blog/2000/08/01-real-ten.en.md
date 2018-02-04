@@ -6,6 +6,6 @@ draft: true
 tags: []
 ---
 
-## [Listen to](/filez/music/realten.mid) " [REAL TEN" with MIDI (XG)](/filez/music/realten.mid) (1:23 | \[filesize\] [https://danmaq.com/filez/music/realten.mid\[/filesize](https://danmaq.com/filez/music/realten.mid[/filesize) \])
+## [Listen to](https://danmaq.com/filez/music/realten.mid) " [REAL TEN" with MIDI (XG)](https://danmaq.com/filez/music/realten.mid) (1:23 | \[filesize\] [https://danmaq.com/filez/music/realten.mid\[/filesize](https://danmaq.com/filez/music/realten.mid[/filesize) \])
 
 A work that my friend asked me to make something in 30 minutes and I really made it. I feel confident that I will not be beaten by anyone if it is shobo. Actually the first full original song. It is such a first time, is not it, yeah.

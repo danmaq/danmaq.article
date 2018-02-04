@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-A story thing which I was drawn The image of a certain scene produced as a document, thinking to make RPG of PC gag cartoon " [Cat Tetsetsu](/cats_story) " on PC.
+A story thing which I was drawn The image of a certain scene produced as a document, thinking to make RPG of PC gag cartoon " [Cat Tetsetsu](https://danmaq.com/cats_story) " on PC.
 
 The kind of story that was being made at that time was anyway the gags were in full bloom. (From next year onwards or later, I started to like the story of a depressed expansion)
 

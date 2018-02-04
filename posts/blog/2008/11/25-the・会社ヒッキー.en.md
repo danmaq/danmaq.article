@@ -16,4 +16,4 @@ I was wondering if I would like to release a trial version of "thM (tentative na
 
 ## update information
 
-[One SS is released](/tag/1123) . VOCALOID stuff (Master x Miku), non ero / serious one.
+[One SS is released](https://danmaq.com/tag/1123) . VOCALOID stuff (Master x Miku), non ero / serious one.
