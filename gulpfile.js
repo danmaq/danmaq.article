@@ -1,6 +1,7 @@
 const gulp = require('gulp');
 const frontMatter = require('gulp-front-matter');
 const marked = require('gulp-marked');
+const plumber = require('gulp-plumber');
 
 const escapeLineBreak = require('./src/escapeLineBreak');
 const translate = require('./src/translate');
@@ -8,12 +9,16 @@ const toMarkdown = require('./src/toMarkdown');
 const trace = require('./src/trace');
 const unEscapeLineBreak = require('./src/unEscapeLineBreak');
 
-gulp.task(
-  'translate',
-  () =>
+const SOURCES = 'posts/**/*.ja.md';
+
+/**
+ * @param {string} source Source path, or Gulp wildcard.
+ */
+const translatePipe =
+  source =>
     gulp
-      .src('posts/ja/**/*.md')
-      // .src('posts/ja/blog/2017/04/25-problem-of-homebrew-cask-from-ansible.md')
+      .src(source)
+      .pipe(plumber())
       .pipe(frontMatter({ property: 'frontmatter' }))
       .pipe(marked({ xhtml: true, langPrefix: 'language-' }))
       .pipe(escapeLineBreak())
@@ -21,5 +26,20 @@ gulp.task(
       .pipe(unEscapeLineBreak())
       .pipe(toMarkdown())
       .pipe(trace())
-      .pipe(gulp.dest('posts/en')),
+      .pipe(gulp.dest('posts/en'));
+
+gulp.task(
+  'translate',
+  // .src('posts/ja/blog/2017/04/25-problem-of-homebrew-cask-from-ansible.md')
+  () => translatePipe(SOURCES),
+);
+
+gulp.task(
+  'watch',
+  () =>
+    gulp
+      .watch(SOURCES)
+      .on('change', ({ path }) => {
+        console.log(gulp.src(path));
+      }),
 );
