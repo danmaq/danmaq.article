@@ -1,3 +1,4 @@
+const path = require('path');
 const gulp = require('gulp');
 const debug = require('gulp-debug');
 const frontMatter = require('gulp-front-matter');
@@ -35,7 +36,7 @@ const translatePipe =
       p.extname = '.md';
     }))
     .pipe(debug())
-    .pipe(gulp.dest(dest || getTranslateedFile(source)));
+    .pipe(gulp.dest(dest || path.dirname(source)));
 
 gulp.task(
   'translate:all',
