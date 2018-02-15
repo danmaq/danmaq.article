@@ -1,5 +1,5 @@
 ---
-title: EVIL MAGIC - 邪の魔術
+title: EVIL MAGIC ~ Magical Witchcraft
 post_id: '1103'
 date: '2013-12-29T16:00:03+09:00'
 cover: ../../../assets/products/evil_magic.jpg
@@ -9,13 +9,12 @@ tags: []
 
 *   [Publish up to 69 pages out of 180 pages! Read trial version PDF](https://danmaq.com/filez/em_trial.pdf) (\[filesize\] [https://danmaq.com/filez/em_trial.pdf\[/filesize](https://danmaq.com/filez/em_trial.pdf[/filesize) \])
 
-> Girl Enna who can use magical abilities, and her young brother and childhood friend are famous in the village as a badboys threesome.
-> However, the owner of this land is a worse one that kidnapping childhood friend.
->　Angry Ena rushed into the house of the lord with the younger brother.
->
->　Will they be able to recapture the deprived childhood friend?
->　It is a real fantasy story of a new sense.
+> Ena and her younger brother who can use magical abilities, and childhood friend is famous as a village's evil gangsters threesome. But worse one, childhood friend was kidnapped by the lord, and they ramped up even in the lords of the lords! The original fantasy story of a new sense that does not end with merely a moral censure!
 
-It is an authentic fantasy light novel of 180 pages in all. Cover illustration, and illustrations were drawn by [Tsukasa Sakurahime](http://dungeonmania.web.fc2.com/) ! (By the way, since Illustrations drawn by me are mixed in one place, please try looking for it) ![Children, still a lot of evil bruts three people rampage! Sword and magical, authentic fantasy novels!](https://danmaq.com/wp-content/uploads/2012/11/em_POP-300x300.png)
+It is a slightly dark authentic fantasy light novel of 180 pages in all. Cover illustration, and illustrations were drawn by [Tsukasa Sakura](http://dungeonmania.web.fc2.com/) ! (By the way, since Illustrations drawn by me are mixed in one place, please try looking for it)
+
+We are distributing it as published by Comiket. We are also considering releasing an e-book version.
+
+![Children, still a lot of evil bruts three people rampage! Sword and magical, authentic fantasy novels!](https://danmaq.com/wp-content/uploads/2012/11/em_POP-300x300.png)
 
 *   [Publish up to 69 pages out of 180 pages! Read trial version PDF](https://danmaq.com/filez/em_trial.pdf) (\[filesize\] [https://danmaq.com/filez/em_trial.pdf\[/filesize](https://danmaq.com/filez/em_trial.pdf[/filesize) \])

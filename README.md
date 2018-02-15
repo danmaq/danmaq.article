@@ -8,3 +8,17 @@ draft: true
 
 * Master language: ja
 * Other language: translated by Google Translate.
+
+## Memo
+
+### Common pipeline
+
+* *.ja.md -> *.en.md via Google Translate
+
+### Dual Mode
+
+* yarn start: watch save -> pipeline
+* yarn run translate:
+    * uncommited diff
+    * new file
+    * *.ja.md has newest commit
