@@ -3,6 +3,7 @@ draft: true
 ---
 
 [![wercker status](https://app.wercker.com/status/85b41d5ce327dee9d18b34a498e171bf/s/master "wercker status")](https://app.wercker.com/project/byKey/85b41d5ce327dee9d18b34a498e171bf)
+[![CircleCI](https://circleci.com/gh/danmaq/danmaq.article/tree/master.svg?style=svg)](https://circleci.com/gh/danmaq/danmaq.article/tree/master)
 
 # Articles markdown for danmaq.com
 
