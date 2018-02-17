@@ -9,12 +9,19 @@ tags:
 youtube: NmR9EevRMJc
 ---
 
-> ─ ─ Gensokyo was the world of dreams a single girl sees. The girl ruled the world of Gensokyo as a "Reimu" in her dream, but in a dream there is definitely a final drama. This story is a story after Gensokyo disappeared.
+> Gensokyo was the world of dreams a single girl sees.
+> In the dream, she was “Reimu” of the main character of Gensokyo.
+> And the dream will come to an end someday.
+> This story is the story after Gensokyo has terminated.
 > 
-> Ordinary girls high school student "Mioone" who saw dreams as Marisa in miracles of youkai. Once seeking the forgotten village, overcoming the various happening and encounters of school life, private life, and eventually she will "reunite" the girl of the dream lord ─
 
-It is a spin-off story of my work " [Concealed the Conclusion of Toho Dreams](https://danmaq.com/!/thC/) ". Half of the 112 pages Eastward, half original light Novel set in the real world after Gensokyo disappeared.
+> “Rein” is a ordinary school girl who saw a dream as Marisa by miracle of Youkai.
+> Asking for a eden that she forgot once, she will overcome school life, various happening in private life, and encounter.
+> And finally, she will meet again the girl of the Lord of the dream.
+
+It is a spin-off story of my work “[Touhou Concealed the Conclusion](https://danmaq.com/!/thC/)”.
+Novel set in the real world after Gensokyo disappeared. All 112 pages.
 
 [We will distribute it with comic market 91](https://danmaq.com/c91) ! Also, shop consignment is under negotiation now. The e-book version is also under consideration for release.
 
-Illustration: [Mutting Lamp Road](http://pixiv.me/mutsuki_nozomi)
+Illustration: [Hiro](http://pixiv.me/mutsuki_nozomi)
