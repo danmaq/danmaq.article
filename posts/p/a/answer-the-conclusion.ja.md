@@ -3,7 +3,9 @@ title: "Answer the Conclusion"
 post_id: "8773"
 date: "2016-12-28T00:14:40+09:00"
 draft: false
-tags: ['novel', 'touhou']
+tags:
+  - novel
+  - touhou
 youtube: NmR9EevRMJc
 ---
 
