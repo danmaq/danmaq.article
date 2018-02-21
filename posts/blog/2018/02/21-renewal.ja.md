@@ -1,7 +1,7 @@
 ---
 title: "danmaq Web ページのリニューアルお知らせ (Jekyll じゃなくて Gatsby だけど)"
 date: "2018-02-21T13:47:00+09:00"
-draft: true
+draft: false
 cover: ../../../assets/misc/2017-wp-to-jekyll.png
 tags:
   - release
