@@ -43,6 +43,6 @@ If you can install it until you are satisfied, do not forget to clean up again.
 
 ```
 
-## So what happened to [Jekyll's plan](/posts/blog/2017/02/09-wordpress-to-jekyll.en) ?
+## So what happened to [Jekyll's plan](/posts/blog/2017/02/09-wordpress-to-jekyll.en.md) ?
 
 The mockup on the TOP page was roughly done! Because it's a sloth Friends, it's a slow movement beyond cattle!
