@@ -38,6 +38,6 @@ tags: ['diary', 'tech', 'ansible', 'mac', 'homebrew']
   become: yes
 ```
 
-## そいえば [Jekyll 化計画](../../02/09-wordpress-to-jekyll)どうしたんだよ？
+## そいえば [Jekyll 化計画](/posts/blog/2017/02/09-wordpress-to-jekyll.ja.md)どうしたんだよ？
 
 TOP ページのモックアップが大雑把にできたよ！ ナマケモノのフレンズだから牛歩以上にゆっくりな動きだよ！

@@ -18,11 +18,10 @@ const getTranslateedFile = filename => filename.replace(/\.ja/, '.en');
 /**
  * Create translate pipeline.
  * @param {string} source Source path, or Gulp wildcard.
- * @param {string} [dest] Dest path.
  * @returns {NodeJS.ReadWriteStream}
  */
 const translatePipe =
-  (source, dest) => gulp
+  source => gulp
     .src(source)
     .pipe(plumber())
     .pipe(frontMatter({ property: 'frontmatter' }))
@@ -36,7 +35,15 @@ const translatePipe =
       p.extname = '.md';
     }))
     .pipe(debug())
-    .pipe(gulp.dest(dest || path.dirname(source)));
+    .pipe(gulp.dest(path.dirname(source)));
+
+gulp.task(
+  'translate',
+  () => {
+    gulp.src(SOURCES)
+      .pipe(debug());
+  },
+);
 
 gulp.task(
   'translate:all',
@@ -48,5 +55,5 @@ gulp.task(
   () =>
     gulp
       .watch(SOURCES)
-      .on('change', ({ path }) => translatePipe(path)),
+      .on('change', ({ path: p }) => translatePipe(p)),
 );

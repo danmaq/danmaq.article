@@ -46,6 +46,7 @@
     },
     "scripts": {
         "start": "gulp watch",
+        "translate": "gulp translate",
         "translate:all": "gulp translate:all"
     }
 }
