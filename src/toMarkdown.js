@@ -2,8 +2,8 @@ const Turndown = require('turndown');
 const yaml = require('js-yaml');
 
 /**
- * @param {string} body
- * @param {{title: string}} frontmatter
+ * @param {string} body HTML document.
+ * @param {{title: string}} frontmatter Object for Frontmatter metadata.
  * @param {{from: string, to: string}} options
  * @returns {Promise<string>}
  */

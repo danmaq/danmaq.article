@@ -1,8 +1,10 @@
 const { JSDOM } = require('jsdom');
 
 /**
- * @param {string} body
- * @returns {Promise<string>}
+ * The &lt;br /&gt; element of the part indicating the source code is
+ * reverse escaped to a line break.
+ * @param {string} body HTML document.
+ * @returns {Promise<string>} Converted HTML document.
  */
 const escapeLineBreak = async (body = '') => {
   const { document } = new JSDOM(body).window;
