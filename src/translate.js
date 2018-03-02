@@ -2,9 +2,11 @@ require('dotenv').config();
 const Translate = require('@google-cloud/translate');
 
 /**
- * @param {string} body
- * @param {{title: string}} frontmatter
- * @returns {Promise<string>}
+ * Translate document with Google Translate.
+ * @param {string} body HTML document.
+ * @param {{title: string}} frontmatter Object for Frontmatter metadata.
+ * @param {{from: string, to: string}} options Options for translation.
+ * @returns {Promise<string>} Translated HTML document.
  */
 const translate = async (body, frontmatter, options) => {
   const tr = new Translate({ projectId: 'danmaq-article' });
