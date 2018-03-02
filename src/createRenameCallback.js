@@ -1,5 +1,3 @@
-const path = require('path');
-
 /**
  * @param {string} from
  * @param {string} to
@@ -9,7 +7,8 @@ const createRenameCallback =
   (from, to) =>
     (p) => {
       p.extname = '.md';
-      p.basename = p.basename.replace(`\\.${from}`, to);
+      p.basename = p.basename.replace(`.${from}`, `.${to}`);
+      console.warn(p.basename);
     };
 
 module.exports = createRenameCallback;

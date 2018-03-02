@@ -4,14 +4,15 @@ const yaml = require('js-yaml');
 /**
  * @param {string} body
  * @param {{title: string}} frontmatter
+ * @param {{from: string, to: string}} options
  * @returns {Promise<string>}
  */
-const toMarkdown = async (body, frontmatter) => {
+const toMarkdown = async (body, frontmatter, options) => {
   const params = { codeBlockStyle: 'fenced', headingStyle: 'atx' };
   const turndown = new Turndown(params);
-  const result = turndown.turndown(body);
+  const regexp = new RegExp(`.${options.from}.md`, 'g');
   const fm = `---\n${yaml.safeDump(frontmatter)}---\n\n`;
-  return fm + result;
+  return fm + turndown.turndown(body.replace(regexp, `.${options.to}.md`));
 };
 
 module.exports = require('./task')(toMarkdown);
