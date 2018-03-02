@@ -13,6 +13,10 @@ const unEscapeLineBreak = require('./src/unEscapeLineBreak');
 
 const SOURCES = 'posts/**/*.ja.md';
 
+/**
+ * Create filename.
+ * @param {string} filename
+ */
 const getTranslateedFile = filename => filename.replace(/\.ja/, '.en');
 
 /**

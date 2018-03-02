@@ -4,6 +4,7 @@ const Translate = require('@google-cloud/translate');
 /**
  * @param {string} body
  * @param {{title: string}} frontmatter
+ * @param {{from: string, to: string}} options
  * @returns {Promise<string>}
  */
 const translate = async (body, frontmatter, options) => {
