@@ -9,12 +9,12 @@ tags:
 
 # Network Utterance Environment
 
-It is an open source blog / CMS system. The danmaq Web page has also been completely transferred from this handwritten blog using a conventional text editor to this system from June 23, 2011.
+It is an open source blog / CMS system. From the handwritten blog by danmaq web page using conventional text editor, We transitioned to this system completely from June 23rd, 2011. After 2013 I am using WordPress. Also, since 2018 I use Gatsby as a semi-automatic handwritten blog.
 
 ## Characteristic
 
-*   You can use skins with extremely high degrees of freedom using XSLT.
-*   Nico Nico douga animated tag system is implemented. Furthermore, by hierarchizing tags, you can use tags directly as "table of contents" instead.
+*   You can use highly customized skins using XSLT.
+*   Nico Nico douga animated tag system is implemented. By hierarchizing tags, you can use the tag as it is as a "table of contents".
 *   You can customize the structure and appearance of articles by embedding tags using pseudo HTML in the article.
 
 ## download
