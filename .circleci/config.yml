@@ -5,7 +5,7 @@ jobs:
       - image: circleci/node:latest
     working_directory: ~/repo
     steps:
-      - run: git clone https://github.com/danmaq/danmaq.gatsby.git
+      - run: git clone https://github.com/danmaq/danmaq.gatsby.git ~/repo
       - checkout:
           path: ~/repo/danmaq.gatsby/danmaq.article
       - restore_cache:
