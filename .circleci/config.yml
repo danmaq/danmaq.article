@@ -7,7 +7,7 @@ jobs:
     steps:
       - run: git clone https://github.com/danmaq/danmaq.gatsby.git ~/repo
       - checkout:
-          path: ~/repo/danmaq.gatsby/danmaq.article
+          path: ~/repo/danmaq.article
       - restore_cache:
           keys:
           - v1-dependencies-{{ checksum "package.json" }}
