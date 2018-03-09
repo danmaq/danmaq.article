@@ -4,7 +4,6 @@ google-translate.json
 # Build directory
 node_modules
 yarn-error.log
-.wercker
 
 # OS
 .DS_Store
