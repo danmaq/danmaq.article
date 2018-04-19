@@ -21,7 +21,7 @@
     },
     "homepage": "https://github.com/danmaq/danmaq.article",
     "engines": {
-        "node": ">=9.4.0"
+        "node": ">=8.8.1"
     },
     "dependencies": {
         "@google-cloud/translate": "^1.1.0",
