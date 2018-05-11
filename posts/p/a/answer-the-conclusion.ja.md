@@ -17,11 +17,10 @@ youtube: NmR9EevRMJc
 > 妖怪たちの奇跡で、魔理沙としての夢を見た普通の女子高生“澪音”。
 > 一度は忘れた郷を求め、学校生活、私生活の様々なハプニング、そして出会いを乗り越え、やがて彼女は夢の主の少女に“再会”することとなる──
 
-拙作「[東方夢終劇 Concealed the Conclusion](https://danmaq.com/!/thC/)」のスピンオフ物語です。
+拙作「[東方夢終劇 Concealed the Conclusion](../c/concealed-the-conclusion.md)」のスピンオフ物語です。
 幻想郷が消えた後の現実世界を舞台とした、全112ページの半分東方、半分オリジナルなライトノベル。
 
-[コミックマーケット91で頒布いたします](https://danmaq.com/c91)！
-また、ショップ委託は現在交渉中です。
-電子書籍版も併せてリリース検討中です。
+[BOOK☆WALKER でダウンロード頒布中です](https://bookwalker.jp/debe42447a-e129-415a-8d46-a6873232200b/)！  
+また、併せてコミックマーケットでも文庫版を頒布しています。
 
 イラスト: [むつき灯路](http://pixiv.me/mutsuki_nozomi)
