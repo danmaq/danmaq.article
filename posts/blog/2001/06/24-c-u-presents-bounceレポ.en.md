@@ -1,6 +1,6 @@
 ---
 title: '"C-U presents: Bounce" repo'
-post_id: '3013'
+post_id: 3013
 date: '2001-06-24T18:20:00+09:00'
 draft: true
 tags: []

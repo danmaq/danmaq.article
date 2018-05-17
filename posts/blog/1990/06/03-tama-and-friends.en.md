@@ -1,6 +1,6 @@
 ---
 title: Tama
-post_id: '2893'
+post_id: 2893
 date: '1990-06-03T21:55:00+09:00'
 draft: true
 tags: []

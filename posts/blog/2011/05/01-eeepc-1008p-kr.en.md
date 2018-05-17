@@ -1,6 +1,6 @@
 ---
 title: (2011-2015) ASUS EeePC 1008P-KR
-post_id: '3706'
+post_id: 3706
 date: '2011-05-01T21:55:00+09:00'
 draft: true
 tags: []

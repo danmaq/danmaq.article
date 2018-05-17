@@ -1,6 +1,6 @@
 ---
 title: It seems to be told that "I will not let you finish it indefinitely"
-post_id: '2976'
+post_id: 2976
 date: '2000-06-19T02:02:22+09:00'
 draft: true
 tags: []

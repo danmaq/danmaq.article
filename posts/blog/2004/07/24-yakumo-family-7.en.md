@@ -1,6 +1,6 @@
 ---
 title: The regret for myself who can not keep orange
-post_id: '3128'
+post_id: 3128
 date: '2004-07-24T07:36:00+09:00'
 draft: true
 tags: []

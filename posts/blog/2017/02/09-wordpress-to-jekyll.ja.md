@@ -1,6 +1,6 @@
 ---
 title: "WordPress やめて Jekyll 始めます！"
-post_id: "8783"
+post_id: 8783
 date: "2017-02-09T22:19:26+09:00"
 draft: false
 cover: ../../../assets/misc/2017-wp-to-jekyll.png

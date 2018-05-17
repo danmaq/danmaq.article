@@ -1,6 +1,6 @@
 ---
 title: Invisible condition
-post_id: '3121'
+post_id: 3121
 date: '2004-07-17T04:10:00+09:00'
 draft: true
 tags: []

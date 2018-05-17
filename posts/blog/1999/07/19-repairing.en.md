@@ -1,6 +1,6 @@
 ---
 title: Somewhere here I am lonely deserted
-post_id: '2937'
+post_id: 2937
 date: '1999-07-19T13:56:00+09:00'
 draft: true
 tags: []

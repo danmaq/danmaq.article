@@ -1,6 +1,6 @@
 ---
 title: "danmaq活動の緊急一時停止告知"
-post_id: "3655"
+post_id: 3655
 date: "2008-03-27T00:26:00+09:00"
 draft: true
 tags: []

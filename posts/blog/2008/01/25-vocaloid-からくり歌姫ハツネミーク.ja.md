@@ -1,6 +1,6 @@
 ---
 title: "[VOCALOID] からくり歌姫ハツネミーク"
-post_id: "3645"
+post_id: 3645
 date: "2008-01-25T00:00:00+09:00"
 draft: true
 tags: []

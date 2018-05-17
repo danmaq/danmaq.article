@@ -1,6 +1,6 @@
 ---
 title: Customers who came for a long time also came
-post_id: '2983'
+post_id: 2983
 date: '2000-07-16T21:21:54+09:00'
 draft: true
 tags: []

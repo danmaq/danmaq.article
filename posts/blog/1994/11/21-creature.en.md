@@ -1,6 +1,6 @@
 ---
 title: Creature
-post_id: '6435'
+post_id: 6435
 date: '1994-11-21T10:00:49+09:00'
 draft: true
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "(2003-2004) 弐號機"
-post_id: "3074"
+post_id: 3074
 date: "2003-05-15T00:00:00+09:00"
 draft: true
 tags: []

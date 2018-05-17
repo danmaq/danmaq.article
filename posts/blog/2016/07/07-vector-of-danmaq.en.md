@@ -1,6 +1,6 @@
 ---
 title: Think about the direction again
-post_id: '8315'
+post_id: 8315
 date: '2016-07-07T21:34:17+09:00'
 draft: true
 tags: []

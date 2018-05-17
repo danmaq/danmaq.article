@@ -1,6 +1,6 @@
 ---
 title: Battlefield - Power Station
-post_id: '2919'
+post_id: 2919
 date: '1998-04-01T00:00:00+09:00'
 draft: true
 tags: []

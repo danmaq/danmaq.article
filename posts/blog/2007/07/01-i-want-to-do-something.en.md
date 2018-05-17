@@ -1,6 +1,6 @@
 ---
 title: 'I want to do that, I want to do it, I did more (ry'
-post_id: '3595'
+post_id: 3595
 date: '2007-07-01T23:17:00+09:00'
 draft: true
 tags: []

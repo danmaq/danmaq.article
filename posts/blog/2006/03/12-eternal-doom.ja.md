@@ -1,6 +1,6 @@
 ---
 title: "Eternal DOOM"
-post_id: "3420"
+post_id: 3420
 date: "2006-03-12T00:18:00+09:00"
 draft: true
 tags: []

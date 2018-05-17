@@ -1,6 +1,6 @@
 ---
 title: '[Barrage style] "Anti-Butterfly - Mad Saki -"'
-post_id: '3130'
+post_id: 3130
 date: '2004-07-25T14:31:00+09:00'
 draft: true
 tags: []

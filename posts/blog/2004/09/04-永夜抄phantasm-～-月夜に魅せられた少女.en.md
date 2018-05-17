@@ -1,6 +1,6 @@
 ---
 title: A girl fascinated by moonlit night
-post_id: '3173'
+post_id: 3173
 date: '2004-09-04T15:44:00+09:00'
 draft: true
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "a bone"
-post_id: "3256"
+post_id: 3256
 date: "2005-02-26T00:00:00+09:00"
 draft: true
 tags: []

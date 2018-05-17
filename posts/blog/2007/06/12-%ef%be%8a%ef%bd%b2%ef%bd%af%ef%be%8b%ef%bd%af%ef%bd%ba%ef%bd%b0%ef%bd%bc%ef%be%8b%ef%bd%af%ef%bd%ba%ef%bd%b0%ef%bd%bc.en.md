@@ -1,6 +1,6 @@
 ---
 title: Hit! Hikoshi! Hikoshi!
-post_id: '3584'
+post_id: 3584
 date: '2007-06-12T00:00:00+09:00'
 draft: true
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: A prescription for freezing when using homebrew_cask with Ansible
-post_id: '8797'
+post_id: 8797
 date: '2017-04-25T11:29:56+09:00'
 draft: false
 tags:

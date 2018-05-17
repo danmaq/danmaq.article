@@ -1,6 +1,6 @@
 ---
 title: "東方リプレイ集"
-post_id: "3095"
+post_id: 3095
 date: "2004-09-01T00:00:00+09:00"
 draft: true
 tags: []

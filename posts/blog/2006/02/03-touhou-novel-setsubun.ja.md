@@ -1,6 +1,6 @@
 ---
 title: "本文"
-post_id: "3391"
+post_id: 3391
 date: "2006-02-03T10:39:00+09:00"
 draft: true
 tags: []

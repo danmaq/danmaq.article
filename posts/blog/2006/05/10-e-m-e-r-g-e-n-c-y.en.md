@@ -1,6 +1,6 @@
 ---
 title: E M E R G E N C Y
-post_id: '3451'
+post_id: 3451
 date: '2006-05-10T19:26:00+09:00'
 draft: true
 tags: []

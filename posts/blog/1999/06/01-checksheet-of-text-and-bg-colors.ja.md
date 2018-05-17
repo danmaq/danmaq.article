@@ -1,6 +1,6 @@
 ---
 title: "テキスト色と背景の相性テストシート"
-post_id: "2928"
+post_id: 2928
 date: "1999-06-01T00:00:00+09:00"
 draft: true
 tags:

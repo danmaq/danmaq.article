@@ -2,7 +2,7 @@
 title: >-
   When the moon is full of good days When the waters are covered By the wondrous
   things
-post_id: '3570'
+post_id: 3570
 date: '2007-05-05T03:38:00+09:00'
 draft: true
 tags: []

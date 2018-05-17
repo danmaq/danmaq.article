@@ -1,6 +1,6 @@
 ---
 title: Higurashi Hidengo - the Alternative Age
-post_id: '3307'
+post_id: 3307
 date: '2005-08-14T10:00:00+09:00'
 draft: false
 tags:

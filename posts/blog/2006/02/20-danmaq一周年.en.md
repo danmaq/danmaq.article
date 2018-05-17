@@ -1,6 +1,6 @@
 ---
 title: danmaq one year anniversary
-post_id: '3405'
+post_id: 3405
 date: '2006-02-20T09:58:00+09:00'
 draft: true
 tags: []

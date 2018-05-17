@@ -1,6 +1,6 @@
 ---
 title: "[東方] 時封城v2ED鉛筆描きver."
-post_id: "3467"
+post_id: 3467
 date: "2006-06-06T00:09:00+09:00"
 draft: true
 tags: []

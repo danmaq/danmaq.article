@@ -1,6 +1,6 @@
 ---
 title: danmaq local rule
-post_id: '3219'
+post_id: 3219
 date: '2004-12-28T00:00:00+09:00'
 draft: true
 tags: []

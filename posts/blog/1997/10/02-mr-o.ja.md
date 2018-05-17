@@ -1,6 +1,6 @@
 ---
 title: "Oさん"
-post_id: "2913"
+post_id: 2913
 date: "1997-10-02T00:00:00+09:00"
 draft: true
 tags: []

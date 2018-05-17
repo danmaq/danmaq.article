@@ -1,6 +1,6 @@
 ---
 title: "例大祭3"
-post_id: "3417"
+post_id: 3417
 date: "2006-03-07T06:31:00+09:00"
 draft: true
 tags: []

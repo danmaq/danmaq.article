@@ -1,6 +1,6 @@
 ---
 title: Hey!
-post_id: '6800'
+post_id: 6800
 date: '2004-01-02T23:37:13+09:00'
 draft: true
 tags: []

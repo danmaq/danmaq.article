@@ -1,6 +1,6 @@
 ---
 title: "また単車動かなくなったorz"
-post_id: "3255"
+post_id: 3255
 date: "2005-02-19T00:00:00+09:00"
 draft: true
 tags: []

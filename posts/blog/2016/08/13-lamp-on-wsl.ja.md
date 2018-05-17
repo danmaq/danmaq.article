@@ -1,6 +1,6 @@
 ---
 title: "Ubuntu on Windows で LAMP 環境を構築するお話"
-post_id: "8670"
+post_id: 8670
 date: "2016-08-13T14:37:38+09:00"
 draft: false
 cover: ../../../assets/misc/2016-wsl-lamp.png

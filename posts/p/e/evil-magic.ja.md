@@ -1,6 +1,6 @@
 ---
 title: "EVIL MAGIC ～ 邪の魔術"
-post_id: "1103"
+post_id: 1103
 date: "2013-12-29T16:00:03+09:00"
 cover: ../../../assets/products/evil_magic.jpg
 draft: false

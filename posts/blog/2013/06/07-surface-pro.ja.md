@@ -1,6 +1,6 @@
 ---
 title: "(2013-2016) Microsoft Surface Pro"
-post_id: "8694"
+post_id: 8694
 date: "2013-06-07T15:30:09+09:00"
 draft: true
 tags: []

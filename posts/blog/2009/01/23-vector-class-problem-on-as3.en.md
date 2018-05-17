@@ -1,6 +1,6 @@
 ---
 title: Is it also a bug in Vector?
-post_id: '3690'
+post_id: 3690
 date: '2009-01-23T00:00:00+09:00'
 draft: true
 tags: []

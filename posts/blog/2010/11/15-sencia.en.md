@@ -1,6 +1,6 @@
 ---
 title: (2010-2014) Tsukumo BTO "Sencia"
-post_id: '3701'
+post_id: 3701
 date: '2010-11-15T00:00:00+09:00'
 draft: true
 tags: []

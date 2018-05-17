@@ -1,6 +1,6 @@
 ---
 title: "Magic of Life"
-post_id: "3204"
+post_id: 3204
 date: "2004-12-10T00:00:00+09:00"
 draft: true
 tags: []

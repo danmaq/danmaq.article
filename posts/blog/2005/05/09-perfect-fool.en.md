@@ -1,6 +1,6 @@
 ---
 title: '[Barren style] Tofu "Perfect Fool"'
-post_id: '3280'
+post_id: 3280
 date: '2005-05-09T21:43:36+09:00'
 draft: true
 tags: []

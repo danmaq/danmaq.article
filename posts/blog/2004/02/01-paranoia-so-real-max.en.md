@@ -1,6 +1,6 @@
 ---
 title: PARANOiA SO - REAL - MAX -
-post_id: '3101'
+post_id: 3101
 date: '2004-02-01T00:00:00+09:00'
 draft: true
 tags: []

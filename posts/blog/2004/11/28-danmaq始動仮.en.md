@@ -1,6 +1,6 @@
 ---
 title: danmaq start (temporary)
-post_id: '3211'
+post_id: 3211
 date: '2004-11-28T00:00:59+09:00'
 draft: true
 tags: []

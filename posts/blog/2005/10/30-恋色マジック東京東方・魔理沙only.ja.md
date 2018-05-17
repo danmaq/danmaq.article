@@ -1,6 +1,6 @@
 ---
 title: "恋色マジック(東京/東方・魔理沙only)"
-post_id: "3338"
+post_id: 3338
 date: "2005-10-30T00:00:00+09:00"
 draft: true
 tags: []

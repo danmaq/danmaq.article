@@ -1,6 +1,6 @@
 ---
 title: Emergency pause announcement of danmaq activity
-post_id: '3655'
+post_id: 3655
 date: '2008-03-27T00:26:00+09:00'
 draft: true
 tags: []

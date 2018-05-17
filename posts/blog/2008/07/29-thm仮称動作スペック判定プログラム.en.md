@@ -1,6 +1,6 @@
 ---
 title: thM (tentative name) operation specification determination program
-post_id: '3676'
+post_id: 3676
 date: '2008-07-29T00:00:00+09:00'
 draft: true
 tags: []

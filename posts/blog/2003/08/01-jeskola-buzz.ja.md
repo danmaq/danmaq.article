@@ -1,6 +1,6 @@
 ---
 title: "(2003-2005) Jeskola Buzz"
-post_id: "3076"
+post_id: 3076
 date: "2003-08-01T00:00:00+09:00"
 draft: true
 tags: []

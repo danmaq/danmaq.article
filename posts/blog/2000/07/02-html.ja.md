@@ -1,6 +1,6 @@
 ---
 title: "余談"
-post_id: "2978"
+post_id: 2978
 date: "2000-07-02T19:44:16+09:00"
 draft: true
 tags: []

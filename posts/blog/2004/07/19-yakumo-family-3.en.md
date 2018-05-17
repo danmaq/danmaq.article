@@ -1,6 +1,6 @@
 ---
 title: Prisoners released
-post_id: '3123'
+post_id: 3123
 date: '2004-07-19T06:17:00+09:00'
 draft: true
 tags: []

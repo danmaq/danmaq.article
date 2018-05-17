@@ -1,6 +1,6 @@
 ---
 title: "同人活動"
-post_id: "3228"
+post_id: 3228
 date: "2004-12-28T00:00:58+09:00"
 draft: true
 tags: []

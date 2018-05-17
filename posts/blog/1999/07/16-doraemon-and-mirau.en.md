@@ -1,6 +1,6 @@
 ---
 title: '[Doraemon & Strongest Cooking] Doraemon & Miraou'
-post_id: '2934'
+post_id: 2934
 date: '1999-07-16T00:00:00+09:00'
 draft: true
 tags: []

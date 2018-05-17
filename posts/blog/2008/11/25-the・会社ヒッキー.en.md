@@ -1,6 +1,6 @@
 ---
 title: The · company · hickey
-post_id: '3684'
+post_id: 3684
 date: '2008-11-25T00:00:00+09:00'
 draft: true
 tags: []

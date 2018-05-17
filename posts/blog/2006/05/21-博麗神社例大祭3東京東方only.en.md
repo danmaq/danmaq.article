@@ -1,6 +1,6 @@
 ---
 title: Hakurei Shrine example large festival 3 (Tokyo / eastern only)
-post_id: '3457'
+post_id: 3457
 date: '2006-05-21T00:00:00+09:00'
 draft: true
 tags: []

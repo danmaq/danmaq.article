@@ -2,7 +2,7 @@
 title: >-
   Dear Mr. Purple like I do not understand the dimensions such as the feelings
   of my subordinates
-post_id: '3129'
+post_id: 3129
 date: '2004-07-25T09:02:00+09:00'
 draft: true
 tags: []

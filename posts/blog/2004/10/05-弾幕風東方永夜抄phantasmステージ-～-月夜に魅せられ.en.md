@@ -2,7 +2,7 @@
 title: >-
   [Movement Wind] Toho Yoruyuki Phantasm Stage - a girl fascinated by moonlit
   night
-post_id: '3194'
+post_id: 3194
 date: '2004-10-05T03:51:59+09:00'
 draft: true
 tags: []

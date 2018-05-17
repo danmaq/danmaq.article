@@ -1,6 +1,6 @@
 ---
 title: "Ghostly Field Club"
-post_id: "3710"
+post_id: 3710
 date: "2011-07-03T22:34:32+09:00"
 draft: true
 tags: []

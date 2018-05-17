@@ -1,6 +1,6 @@
 ---
 title: Toho Koromu Dream (Osaka / Tohoku only)
-post_id: '3319'
+post_id: 3319
 date: '2005-09-11T00:00:00+09:00'
 draft: true
 tags: []

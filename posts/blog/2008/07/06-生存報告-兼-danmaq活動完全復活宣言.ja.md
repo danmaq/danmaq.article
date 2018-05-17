@@ -1,6 +1,6 @@
 ---
 title: "生存報告 兼 danmaq活動完全復活宣言"
-post_id: "3674"
+post_id: 3674
 date: "2008-07-06T02:21:00+09:00"
 draft: true
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: About personal mail order "e-danmaq"
-post_id: '3543'
+post_id: 3543
 date: '2007-01-04T00:00:00+09:00'
 draft: true
 tags: []

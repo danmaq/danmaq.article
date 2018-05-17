@@ -1,6 +1,6 @@
 ---
 title: The diary is over.
-post_id: '2930'
+post_id: 2930
 date: '1999-07-01T00:00:00+09:00'
 draft: true
 tags: []

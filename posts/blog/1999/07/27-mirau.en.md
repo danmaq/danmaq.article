@@ -1,6 +1,6 @@
 ---
 title: '[Strongest cooking] Millau blonde black clothes Ver.'
-post_id: '2939'
+post_id: 2939
 date: '1999-07-27T15:34:00+09:00'
 draft: true
 tags: []

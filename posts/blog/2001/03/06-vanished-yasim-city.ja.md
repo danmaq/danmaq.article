@@ -1,6 +1,6 @@
 ---
 title: "Vanished YASiM-CITY"
-post_id: "2999"
+post_id: 2999
 date: "2001-03-06T00:00:00+09:00"
 draft: true
 tags: []

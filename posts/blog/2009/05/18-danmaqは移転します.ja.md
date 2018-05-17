@@ -1,6 +1,6 @@
 ---
 title: "danmaqは移転します"
-post_id: "3695"
+post_id: 3695
 date: "2009-05-18T13:40:00+09:00"
 draft: true
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "LA MARISA"
-post_id: "3334"
+post_id: 3334
 date: "2005-10-20T00:00:00+09:00"
 draft: true
 tags: []

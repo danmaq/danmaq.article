@@ -1,6 +1,6 @@
 ---
 title: Barrage style syntax file for EmEditor
-post_id: '3264'
+post_id: 3264
 date: '2005-03-23T00:00:00+09:00'
 draft: true
 tags: []

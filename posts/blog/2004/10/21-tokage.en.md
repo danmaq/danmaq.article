@@ -1,6 +1,6 @@
 ---
 title: TOKAGE
-post_id: '3202'
+post_id: 3202
 date: '2004-10-21T00:00:00+09:00'
 draft: true
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: that
-post_id: '2988'
+post_id: 2988
 date: '2000-10-15T13:49:07+09:00'
 draft: true
 tags: []

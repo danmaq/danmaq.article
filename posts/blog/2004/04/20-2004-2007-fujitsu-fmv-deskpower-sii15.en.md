@@ -1,6 +1,6 @@
 ---
 title: (2004-2007) FUjiTSU FMV-DESKPOWER SII 15
-post_id: '3103'
+post_id: 3103
 date: '2004-04-20T00:00:00+09:00'
 draft: true
 tags: []

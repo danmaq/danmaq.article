@@ -1,6 +1,6 @@
 ---
 title: '[● Information leakage] I have taken statistics on the account merid'
-post_id: '2550'
+post_id: 2550
 date: '2013-08-27T23:14:25+09:00'
 draft: true
 tags: []

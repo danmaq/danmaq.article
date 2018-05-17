@@ -1,6 +1,6 @@
 ---
 title: "danmaq一周年(検索珍ワード編)"
-post_id: "3406"
+post_id: 3406
 date: "2006-02-21T11:45:00+09:00"
 draft: true
 tags: []

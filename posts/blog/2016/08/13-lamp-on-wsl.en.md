@@ -1,6 +1,6 @@
 ---
 title: Talk about building a LAMP environment on Ubuntu on Windows
-post_id: '8670'
+post_id: 8670
 date: '2016-08-13T14:37:38+09:00'
 draft: false
 cover: ../../../assets/misc/2016-wsl-lamp.png

@@ -1,6 +1,6 @@
 ---
 title: Where you are fishing
-post_id: '6370'
+post_id: 6370
 date: '1991-08-25T10:00:26+09:00'
 draft: true
 tags: []

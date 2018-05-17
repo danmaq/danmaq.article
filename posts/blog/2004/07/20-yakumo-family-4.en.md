@@ -1,6 +1,6 @@
 ---
 title: I wish I could fill the transparent color
-post_id: '3124'
+post_id: 3124
 date: '2004-07-20T03:25:00+09:00'
 draft: true
 tags: []

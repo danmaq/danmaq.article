@@ -1,6 +1,6 @@
 ---
 title: REIMU - Simple Version Management Unit
-post_id: '3418'
+post_id: 3418
 date: '2006-03-08T00:00:00+09:00'
 draft: true
 tags: []

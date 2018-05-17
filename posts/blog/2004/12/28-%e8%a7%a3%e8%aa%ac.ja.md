@@ -1,6 +1,6 @@
 ---
 title: "解説"
-post_id: "3222"
+post_id: 3222
 date: "2004-12-28T00:00:00+09:00"
 draft: true
 tags: []

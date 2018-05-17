@@ -1,6 +1,6 @@
 ---
 title: Daily routine
-post_id: '3378'
+post_id: 3378
 date: '2006-01-16T00:00:59+09:00'
 draft: true
 tags: []

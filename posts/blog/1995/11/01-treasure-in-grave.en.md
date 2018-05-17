@@ -1,6 +1,6 @@
 ---
 title: Treasure of the destroyed castle Ⅰ Image Illustration
-post_id: '6449'
+post_id: 6449
 date: '1995-11-01T10:00:43+09:00'
 draft: true
 tags: []

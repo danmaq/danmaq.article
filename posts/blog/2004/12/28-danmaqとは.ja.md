@@ -1,6 +1,6 @@
 ---
 title: "danmaqとは"
-post_id: "3231"
+post_id: 3231
 date: "2004-12-28T00:00:59+09:00"
 draft: true
 tags: []

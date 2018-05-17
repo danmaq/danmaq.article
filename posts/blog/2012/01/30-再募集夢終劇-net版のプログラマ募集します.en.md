@@ -1,6 +1,6 @@
 ---
 title: '[Recruitment] We are recruiting programmers for Dream End (.NET version)'
-post_id: '3717'
+post_id: 3717
 date: '2012-01-30T11:42:17+09:00'
 draft: true
 tags: []

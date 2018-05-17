@@ -1,6 +1,6 @@
 ---
 title: "とりあえず掲示板完成。"
-post_id: "2970"
+post_id: 2970
 date: "2000-04-20T20:49:55+09:00"
 draft: true
 tags: []

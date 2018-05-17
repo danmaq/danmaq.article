@@ -1,6 +1,6 @@
 ---
 title: TIDA prototype version
-post_id: '3617'
+post_id: 3617
 date: '2007-09-17T13:31:00+09:00'
 draft: true
 tags: []

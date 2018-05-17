@@ -1,6 +1,6 @@
 ---
 title: "List"
-post_id: "3084"
+post_id: 3084
 date: "2003-10-12T22:45:00+09:00"
 draft: true
 tags: []

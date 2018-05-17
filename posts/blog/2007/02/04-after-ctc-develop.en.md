@@ -2,7 +2,7 @@
 title: >-
   When the first spring comes to the present world, the spring of illusion
   somewhere sorrowful
-post_id: '3552'
+post_id: 3552
 date: '2007-02-04T00:00:00+09:00'
 draft: true
 tags: []

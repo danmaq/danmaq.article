@@ -1,6 +1,6 @@
 ---
 title: Landscape · House in the mountains
-post_id: '2981'
+post_id: 2981
 date: '2000-07-12T15:37:31+09:00'
 draft: true
 tags: []

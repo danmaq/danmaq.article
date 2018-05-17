@@ -1,6 +1,6 @@
 ---
 title: "ネスケも安心、IEではもっとビジュアルを強化"
-post_id: "2986"
+post_id: 2986
 date: "2000-10-08T00:00:00+09:00"
 draft: true
 tags: []

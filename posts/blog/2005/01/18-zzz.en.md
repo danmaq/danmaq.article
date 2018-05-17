@@ -1,6 +1,6 @@
 ---
 title: Zzz
-post_id: '3245'
+post_id: 3245
 date: '2005-01-18T00:00:00+09:00'
 draft: true
 tags: []

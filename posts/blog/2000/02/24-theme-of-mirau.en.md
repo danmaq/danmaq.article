@@ -1,6 +1,6 @@
 ---
 title: Miratome (provisional name)
-post_id: '2960'
+post_id: 2960
 date: '2000-02-24T19:00:00+09:00'
 draft: true
 tags: []

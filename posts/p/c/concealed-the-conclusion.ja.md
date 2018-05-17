@@ -1,6 +1,6 @@
 ---
 title: "東方夢終劇 ～ Concealed the Conclusion"
-post_id: "3540"
+post_id: 3540
 date: "2006-12-30T10:00:00+09:00"
 draft: false
 tags:

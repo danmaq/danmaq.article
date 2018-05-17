@@ -1,6 +1,6 @@
 ---
 title: CATS STORY image CG
-post_id: '6628'
+post_id: 6628
 date: '1999-08-13T22:00:10+09:00'
 draft: true
 tags: []

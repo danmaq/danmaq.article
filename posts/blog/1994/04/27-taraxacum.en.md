@@ -1,6 +1,6 @@
 ---
 title: It's a dandelion! !
-post_id: '6396'
+post_id: 6396
 date: '1994-04-27T11:00:23+09:00'
 draft: true
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Framework of LunAtic Notation"
-post_id: "3486"
+post_id: 3486
 date: "2006-07-21T00:00:59+09:00"
 draft: true
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: Chao ♪ (OoO) ノ
-post_id: '2959'
+post_id: 2959
 date: '2000-02-17T02:00:00+09:00'
 draft: true
 tags: []

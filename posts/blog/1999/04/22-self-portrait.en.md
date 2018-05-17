@@ -1,6 +1,6 @@
 ---
 title: Self-portrait
-post_id: '6626'
+post_id: 6626
 date: '1999-04-22T11:00:44+09:00'
 draft: true
 tags: []

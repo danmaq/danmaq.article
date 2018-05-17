@@ -1,6 +1,6 @@
 ---
 title: DQName (Think about child's name)
-post_id: '3385'
+post_id: 3385
 date: '2006-01-28T00:05:00+09:00'
 draft: true
 tags: []

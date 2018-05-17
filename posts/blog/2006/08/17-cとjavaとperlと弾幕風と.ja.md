@@ -1,6 +1,6 @@
 ---
 title: "C++とJavaとPerlと弾幕風と"
-post_id: "3500"
+post_id: 3500
 date: "2006-08-17T15:14:00+09:00"
 draft: true
 tags: []

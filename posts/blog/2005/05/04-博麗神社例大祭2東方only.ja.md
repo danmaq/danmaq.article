@@ -1,6 +1,6 @@
 ---
 title: "博麗神社例大祭2(東方only)"
-post_id: "3279"
+post_id: 3279
 date: "2005-05-04T00:00:00+09:00"
 draft: true
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "[VOCALOID] haznemic"
-post_id: "3644"
+post_id: 3644
 date: "2008-01-20T00:00:00+09:00"
 draft: true
 tags: []

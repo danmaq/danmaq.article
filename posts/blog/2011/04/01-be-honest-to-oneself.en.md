@@ -1,6 +1,6 @@
 ---
 title: Be honest with yourself
-post_id: '3705'
+post_id: 3705
 date: '2011-04-01T00:00:00+09:00'
 draft: true
 tags: []

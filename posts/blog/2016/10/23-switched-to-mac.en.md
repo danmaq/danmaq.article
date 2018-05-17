@@ -1,6 +1,6 @@
 ---
 title: I switched my home environment to Mac
-post_id: '8751'
+post_id: 8751
 date: '2016-10-23T08:10:18+09:00'
 draft: true
 tags: []

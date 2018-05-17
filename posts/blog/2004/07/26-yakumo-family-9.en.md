@@ -1,6 +1,6 @@
 ---
 title: 'After all, it does not resist the setting of the god expression ceremony'
-post_id: '3131'
+post_id: 3131
 date: '2004-07-26T02:02:00+09:00'
 draft: true
 tags: []

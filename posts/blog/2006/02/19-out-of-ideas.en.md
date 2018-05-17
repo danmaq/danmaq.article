@@ -1,6 +1,6 @@
 ---
 title: I think about the remarks that occasionally appear at the diary site
-post_id: '3404'
+post_id: 3404
 date: '2006-02-19T10:26:00+09:00'
 draft: true
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "PizzaManFinder - 太ったフォルダ検索ツール"
-post_id: "3625"
+post_id: 3625
 date: "2007-11-26T00:00:00+09:00"
 draft: true
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: (2000-2004) Aopen AW 724/744
-post_id: '2973'
+post_id: 2973
 date: '2000-05-01T00:00:00+09:00'
 draft: true
 tags: []

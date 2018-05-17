@@ -1,6 +1,6 @@
 ---
 title: (2000-2002) World's fastest No. 1 Ver.1
-post_id: '2985'
+post_id: 2985
 date: '2000-09-27T00:00:00+09:00'
 draft: true
 tags: []

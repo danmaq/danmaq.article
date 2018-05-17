@@ -1,6 +1,6 @@
 ---
 title: HTML Course 2
-post_id: '3017'
+post_id: 3017
 date: '2001-09-21T15:34:00+09:00'
 draft: true
 tags: []

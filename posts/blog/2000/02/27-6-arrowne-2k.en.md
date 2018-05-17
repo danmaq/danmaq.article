@@ -1,6 +1,6 @@
 ---
 title: update!!
-post_id: '2961'
+post_id: 2961
 date: '2000-02-27T15:35:00+09:00'
 draft: true
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: Red Ball Blue Ball Race Game
-post_id: '2899'
+post_id: 2899
 date: '1994-10-01T00:00:00+09:00'
 draft: true
 tags: []

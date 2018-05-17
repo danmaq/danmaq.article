@@ -1,6 +1,6 @@
 ---
 title: DANGEON MAKER
-post_id: '2905'
+post_id: 2905
 date: '1995-10-01T00:00:00+09:00'
 draft: true
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "[3D] 地球"
-post_id: "2917"
+post_id: 2917
 date: "1997-12-01T00:00:00+09:00"
 draft: true
 tags: []

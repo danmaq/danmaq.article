@@ -1,6 +1,6 @@
 ---
 title: "6 ALLOWNE 2K"
-post_id: "2951"
+post_id: 2951
 date: "1999-11-05T18:31:00+09:00"
 draft: true
 tags: []

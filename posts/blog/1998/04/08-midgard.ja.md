@@ -1,6 +1,6 @@
 ---
 title: "[Midgard] 無題"
-post_id: "2923"
+post_id: 2923
 date: "1998-04-08T00:00:00+09:00"
 draft: true
 tags: []

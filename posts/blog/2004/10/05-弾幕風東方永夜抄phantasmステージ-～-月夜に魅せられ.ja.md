@@ -1,6 +1,6 @@
 ---
 title: "[弾幕風]東方永夜抄Phantasmステージ ～ 月夜に魅せられた少女"
-post_id: "3194"
+post_id: 3194
 date: "2004-10-05T03:51:59+09:00"
 draft: true
 tags: []

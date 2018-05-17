@@ -1,6 +1,6 @@
 ---
 title: How to make a floppy beaten up
-post_id: '3092'
+post_id: 3092
 date: '2003-12-11T19:05:00+09:00'
 draft: true
 tags: []

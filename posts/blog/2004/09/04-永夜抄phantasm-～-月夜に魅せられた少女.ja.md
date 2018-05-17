@@ -1,6 +1,6 @@
 ---
 title: "永夜抄Phantasm ～ 月夜に魅せられた少女"
-post_id: "3173"
+post_id: 3173
 date: "2004-09-04T15:44:00+09:00"
 draft: true
 tags: []

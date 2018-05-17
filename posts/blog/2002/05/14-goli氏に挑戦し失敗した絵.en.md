@@ -1,6 +1,6 @@
 ---
 title: A painting that failed to Mr. GOLI and failed
-post_id: '3045'
+post_id: 3045
 date: '2002-05-14T00:00:00+09:00'
 draft: true
 tags: []

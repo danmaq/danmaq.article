@@ -1,6 +1,6 @@
 ---
 title: '[BMS] will-o''-the-wisp'
-post_id: '3042'
+post_id: 3042
 date: '2002-05-05T19:31:56+09:00'
 draft: true
 tags: []

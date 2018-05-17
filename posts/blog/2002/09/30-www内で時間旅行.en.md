@@ -1,6 +1,6 @@
 ---
 title: Time travel within WWW
-post_id: '3062'
+post_id: 3062
 date: '2002-09-30T00:00:00+09:00'
 draft: true
 tags: []

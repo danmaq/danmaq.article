@@ -1,6 +1,6 @@
 ---
 title: I am alive
-post_id: '3704'
+post_id: 3704
 date: '2011-03-15T00:00:00+09:00'
 draft: true
 tags: []

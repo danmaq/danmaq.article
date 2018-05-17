@@ -1,6 +1,6 @@
 ---
 title: "danmaqサークル活動方針"
-post_id: "3229"
+post_id: 3229
 date: "2004-12-28T00:00:58+09:00"
 draft: true
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "語尾"
-post_id: "3142"
+post_id: 3142
 date: "2004-08-06T21:47:00+09:00"
 draft: true
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: Boundary fantasy record mirror
-post_id: '6560'
+post_id: 6560
 date: '2012-08-12T00:00:23+09:00'
 draft: false
 tags:
