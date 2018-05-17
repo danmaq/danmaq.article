@@ -2,7 +2,8 @@
 title: "日記"
 date: "1991-11-10T21:00:00+09:00"
 draft: true
-tags: []
+tags:
+  - diary
 ---
 
 __☀__

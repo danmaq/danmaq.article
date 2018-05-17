@@ -3,7 +3,9 @@ title: Untitled (my car)
 post_id: 6351
 date: '1987-11-11T11:00:55+09:00'
 draft: true
-tags: []
+tags:
+  - illustration
+  - analog
 ---
 
 The car where my father was riding. My mother was a paper driver at the time.

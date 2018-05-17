@@ -2,10 +2,11 @@
 title: diary
 date: '1991-11-10T21:00:00+09:00'
 draft: true
-tags: []
+tags:
+  - diary
 ---
 
-**♡**
+__☀__
 
 Today U came to visit and was competing with mini 4WD. My mini 4WD was confident and self-confident, the start dash was very good, but it was overtaken and it was overtaken.
 

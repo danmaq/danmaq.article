@@ -3,7 +3,9 @@ title: Where you are fishing
 post_id: 6370
 date: '1991-08-25T10:00:26+09:00'
 draft: true
-tags: []
+tags:
+  - illustration
+  - analog
 ---
 
 Thinking about the scene that I was grasping fish at the forest school organized by the swimming school that I was taking as a lesson at that time, I drew it afterwards.

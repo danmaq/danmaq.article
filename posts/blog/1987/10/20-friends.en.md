@@ -3,7 +3,9 @@ title: Friends
 post_id: 6356
 date: '1987-10-20T10:00:16+09:00'
 draft: true
-tags: []
+tags:
+  - illustration
+  - analog
 ---
 
 Illustration when I finally began to be able to draw a human face like a face.

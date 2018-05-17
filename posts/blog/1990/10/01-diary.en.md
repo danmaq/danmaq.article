@@ -2,7 +2,8 @@
 title: diary
 date: '1990-10-02T23:30:00+09:00'
 draft: true
-tags: []
+tags:
+  - diary
 ---
 
 **🌡 26 ° C ☀**

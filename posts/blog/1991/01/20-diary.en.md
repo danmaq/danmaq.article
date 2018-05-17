@@ -2,7 +2,8 @@
 title: diary
 date: '1991-01-20T21:30:00+09:00'
 draft: true
-tags: []
+tags:
+  - diary
 ---
 
 **🌡8 ℃**

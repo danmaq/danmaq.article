@@ -3,7 +3,9 @@ title: "おもいで"
 post_id: 6353
 date: "1987-07-01T11:00:57+09:00"
 draft: true
-tags: []
+tags:
+  - illustration
+  - analog
 ---
 
 

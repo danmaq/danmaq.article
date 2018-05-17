@@ -2,10 +2,11 @@
 title: diary
 date: '1990-11-10T21:00:00+09:00'
 draft: true
-tags: []
+tags:
+  - diary
 ---
 
-**A**
+__☁__
 
 Today I felt sick since the morning, I was unwilling to have half don and the day of school all together, but my parents came to pick me up.
 

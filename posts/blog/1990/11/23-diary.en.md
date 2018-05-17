@@ -2,7 +2,8 @@
 title: diary
 date: '1990-11-23T22:00:00+09:00'
 draft: true
-tags: []
+tags:
+  - diary
 ---
 
 **♡**

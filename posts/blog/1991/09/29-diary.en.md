@@ -2,10 +2,11 @@
 title: diary
 date: '1991-09-29T21:00:00+09:00'
 draft: true
-tags: []
+tags:
+  - diary
 ---
 
-**A**
+__☁__
 
 Today there was a sports festival at school.
 

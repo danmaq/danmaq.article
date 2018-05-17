@@ -3,7 +3,9 @@ title: Original comic "A dog cat"
 post_id: 2895
 date: '1992-05-01T00:00:00+09:00'
 draft: true
-tags: []
+tags:
+  - illustration
+  - analog
 ---
 
 One scene of the first story things gag cartoon "Abubusen Natsuketsu" that I was drawing at the time. Story things are nominally super-short gag cartoons in the formation of about 1 to 4 P in name.

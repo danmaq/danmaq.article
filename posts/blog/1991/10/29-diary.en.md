@@ -2,10 +2,11 @@
 title: diary
 date: '1991-10-29T21:00:00+09:00'
 draft: true
-tags: []
+tags:
+  - diary
 ---
 
-**A**
+__☁__
 
 Today is the swimming day of lessons. Today is a test day for promoting from the sixth grade.
 

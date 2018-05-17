@@ -2,7 +2,8 @@
 title: "日記"
 date: "1990-11-18T20:00:00+09:00"
 draft: true
-tags: []
+tags:
+  - diary
 ---
 
 今日は映画館に行きました。
