@@ -3,7 +3,9 @@ title: Four-frame cartoon image
 post_id: 6398
 date: '1994-07-03T21:00:20+09:00'
 draft: true
-tags: []
+tags:
+  - illustration
+  - analog
 ---
 
 During the class of history, real single-frame comic book named 4-frame manga drawn in a corner of the note.

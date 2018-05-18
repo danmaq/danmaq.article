@@ -3,7 +3,9 @@ title: Skies and clouds
 post_id: 2914
 date: '1997-11-01T00:00:00+09:00'
 draft: true
-tags: []
+tags:
+  - illustration
+  - analog
 ---
 
 People lean on trees, looking at the birds flying in the sky and the sun looking through the huge thunderhead. Are you waiting for a person at a promised place, or are you taking in some thought?

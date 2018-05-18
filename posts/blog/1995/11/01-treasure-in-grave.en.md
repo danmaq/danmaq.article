@@ -3,7 +3,9 @@ title: Treasure of the destroyed castle Ⅰ Image Illustration
 post_id: 6449
 date: '1995-11-01T10:00:43+09:00'
 draft: true
-tags: []
+tags:
+  - illustration
+  - analog
 ---
 
 An image illustration of RPG, " [Treasure of a destroyed castle I](https://danmaq.com/6338) " that was under construction at that time using N88-Japanese BASIC (86). The figure of the real system illustration is like this.

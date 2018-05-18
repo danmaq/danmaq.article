@@ -3,7 +3,9 @@ title: "赤い玉 青い玉 競走ゲーム"
 post_id: 2899
 date: "1994-10-01T00:00:00+09:00"
 draft: true
-tags: []
+tags:
+  - apps
+  - games
 ---
 
 

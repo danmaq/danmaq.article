@@ -3,7 +3,9 @@ title: '[Replica] Xavier'
 post_id: 6432
 date: '1994-12-01T21:00:02+09:00'
 draft: true
-tags: []
+tags:
+  - illustration
+  - analog
 ---
 
 Reproduction of Xavier portrait. As a digression, six months after drawing this picture, Xavier just looks like a new teacher (another class).

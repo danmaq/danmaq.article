@@ -3,7 +3,9 @@ title: Cat fighter
 post_id: 2906
 date: '1995-12-01T00:00:00+09:00'
 draft: true
-tags: []
+tags:
+  - illustration
+  - analog
 ---
 
 Illustration of a protagonist of a [self-made RPG](https://danmaq.com/tags/cats-story) , " [Ubukuro Neko zetsu](https://danmaq.com/cats_story) " that was conceived. From the left "Me", "Mu", "Mya".

@@ -3,7 +3,9 @@ title: Lassless Sports
 post_id: 6480
 date: '1997-09-08T21:00:55+09:00'
 draft: true
-tags: []
+tags:
+  - illustration
+  - analog
 ---
 
 Posted on a magazine posted and posted. This was the first time some kind of posting was posted in my life. It was a trigger of ideas that the three - folk club held by Sega 's Gate "Last Bronx" of Yuzo Kudo was empty like this.

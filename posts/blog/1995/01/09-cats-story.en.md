@@ -1,12 +1,14 @@
 ---
-title: Cat fight
+title: CATS STORY
 post_id: 6439
 date: '1995-01-09T10:00:24+09:00'
 draft: true
-tags: []
+tags:
+  - illustration
+  - analog
 ---
 
-Illustration of the protagonist of the [cat](https://danmaq.com/cats_story) , "Me". At that time I liked to stretch the characters side-by-side.
+Illustration of the protagonist of the [CATS STORY](https://danmaq.com/cats_story) , "Me". At that time I liked to stretch the characters side-by-side.
 
 At the time I was planning to make CATS STORY RPG, I was planning to create a story from 1P gag cartoon of world view. At that time all heads were cats' cats, and the scenario was also a dynamic king dynasty poetry.
 

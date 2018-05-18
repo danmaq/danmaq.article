@@ -3,7 +3,9 @@ title: Ms. G
 post_id: 2912
 date: '1997-10-01T00:00:00+09:00'
 draft: true
-tags: []
+tags:
+  - illustration
+  - analog
 ---
 
 At that time (when I was in high school), Sue Dr. Sue who was wearing a mathematical teaching portrait of Mr. G (pseudonym). I drew it in the image of the brain, not something that was photographed, but I remember being terribly alright when I looked at the face again.

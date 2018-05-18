@@ -3,7 +3,9 @@ title: Running hard
 post_id: 6381
 date: '1993-12-06T19:00:42+09:00'
 draft: true
-tags: []
+tags:
+  - illustration
+  - analog
 ---
 
 Drawing up memories of the marathon contest in illustration.

@@ -3,7 +3,9 @@ title: "[模写]ザビエル"
 post_id: 6432
 date: "1994-12-01T21:00:02+09:00"
 draft: true
-tags: []
+tags:
+  - illustration
+  - analog
 ---
 
 

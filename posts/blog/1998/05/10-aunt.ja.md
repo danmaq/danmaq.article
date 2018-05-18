@@ -3,7 +3,9 @@ title: "おばたりやん"
 post_id: 6501
 date: "1998-05-10T00:00:56+09:00"
 draft: true
-tags: []
+tags:
+  - illustration
+  - analog
 ---
 
 

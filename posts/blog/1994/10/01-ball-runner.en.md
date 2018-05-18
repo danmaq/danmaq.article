@@ -3,7 +3,9 @@ title: Red Ball Blue Ball Race Game
 post_id: 2899
 date: '1994-10-01T00:00:00+09:00'
 draft: true
-tags: []
+tags:
+  - apps
+  - games
 ---
 
 From the early summer of 1994 I started programming on a personal computer at the junior high school club activity, but at the time I made a game that seemed like a game for the first time. At that time, I saw the DOS game "SuperDEPTH (currently something similar like WinDEPTH)", "Can you do this with this PC?" And some kind of culture shocked me to play something I thought about making it, I made something like this.

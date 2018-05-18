@@ -3,7 +3,9 @@ title: Works that collapsed without production
 post_id: 2898
 date: '1994-09-01T00:00:00+09:00'
 draft: true
-tags: []
+tags:
+  - apps
+  - games
 ---
 
 ## (1996) MONSTER ISLAND ~ The Great Adventure of the Pirate Mirror ~

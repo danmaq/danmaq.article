@@ -3,7 +3,9 @@ title: "タイルアート"
 post_id: 6475
 date: "1996-07-01T11:00:19+09:00"
 draft: true
-tags: []
+tags:
+  - illustration
+  - analog
 ---
 
 

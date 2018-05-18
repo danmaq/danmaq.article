@@ -3,7 +3,9 @@ title: dragon
 post_id: 2900
 date: '1994-06-01T11:00:00+09:00'
 draft: true
-tags: []
+tags:
+  - illustration
+  - analog
 ---
 
 Illustration of Mr. [Ryosuke Saito](https://ja.wikipedia.org/wiki/%E6%96%8E%E8%97%A4%E9%9A%86%E4%BB%8B) 's fairy tale "East · Taro and Nishi · Jiro" imagining a single scene.

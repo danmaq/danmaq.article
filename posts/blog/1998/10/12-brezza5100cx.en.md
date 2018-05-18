@@ -3,7 +3,9 @@ title: (1998-2000) TOSHIBA BREZZA 5100CX
 post_id: 2922
 date: '1998-10-12T21:00:00+09:00'
 draft: true
-tags: []
+tags:
+  - goods
+  - pc
 ---
 
 Could it be the last White Brezza? It was the first PC / AT compatible machine for me, the first Pentium machine and it was the first Windows machine. (Rather than PC - 98 believer until now) Performance is nearly twelve times as much as the [previous generation](https://danmaq.com/pc-9821) . I was expecting compatibility of software so far from the beginning, as expected. In this environment Windows Me is a little tight, as I got up to college and somewhat financial strength came out, I decided to make my own PC. After that, some parts were absorbed in the [world's fastest No. 1 Ver.1](https://danmaq.com/Homebuilt-1) and discarded.

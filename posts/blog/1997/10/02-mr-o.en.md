@@ -3,7 +3,9 @@ title: Ms. O
 post_id: 2913
 date: '1997-10-02T00:00:00+09:00'
 draft: true
-tags: []
+tags:
+  - illustration
+  - analog
 ---
 
 At that time (when I was in high school), a caricature of Ms. Oji (a pseudonym) that Mr. Age was waving a mathematical teaching. I drew it in the image of the brain, not something that was photographed, but I remember being terribly alright when I looked at the face again.
