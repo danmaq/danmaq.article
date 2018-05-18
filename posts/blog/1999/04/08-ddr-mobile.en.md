@@ -3,7 +3,9 @@ title: Mobile version DanceDanceRevolution
 post_id: 6623
 date: '1999-04-08T00:00:27+09:00'
 draft: true
-tags: []
+tags:
+  - illustrations
+  - analog
 ---
 
 > In the month of 1999, Konami's "Dance Dance Revolution" finally becomes a mobile game! that name as well……!

@@ -4,7 +4,7 @@ post_id: 2911
 date: "1996-12-01T00:00:00+09:00"
 draft: true
 tags:
-  - illustration
+  - illustrations
   - analog
 ---
 
