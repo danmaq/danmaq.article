@@ -3,7 +3,8 @@ title: "村長を退ける力すらない人間。"
 post_id: 2932
 date: "1999-07-11T18:35:00+09:00"
 draft: true
-tags: []
+tags:
+  - diary
 ---
 
 

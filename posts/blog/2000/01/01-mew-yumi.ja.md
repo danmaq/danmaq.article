@@ -3,7 +3,8 @@ title: "女の子(あけおめ)"
 post_id: 2954
 date: "2000-01-01T00:00:00+09:00"
 draft: true
-tags: []
+tags:
+  - illustrations
 ---
 
 

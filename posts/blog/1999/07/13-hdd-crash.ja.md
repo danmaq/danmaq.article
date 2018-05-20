@@ -3,7 +3,8 @@ title: "すくーぷ！！"
 post_id: 2933
 date: "1999-07-13T14:05:00+09:00"
 draft: true
-tags: []
+tags:
+  - diary
 ---
 
 
