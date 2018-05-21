@@ -3,7 +3,8 @@ title: "待っているのは地獄だった"
 post_id: 2966
 date: "2000-03-30T18:35:00+09:00"
 draft: true
-tags: []
+tags:
+  - diary
 ---
 
 

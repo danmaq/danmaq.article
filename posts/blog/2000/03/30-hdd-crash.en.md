@@ -3,7 +3,8 @@ title: It was hell that was waiting
 post_id: 2966
 date: '2000-03-30T18:35:00+09:00'
 draft: true
-tags: []
+tags:
+  - diary
 ---
 
 _I flew all HD hit_ . There was also no money to back up ... ... (Damn, if there is only 9000 yen ......) Things will stop software development and page renewal at all until recovery recovers. Les seems to be a little modest.

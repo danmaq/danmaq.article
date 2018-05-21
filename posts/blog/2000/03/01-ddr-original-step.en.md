@@ -3,7 +3,9 @@ title: DDR Custom Step
 post_id: 2962
 date: '2000-03-01T00:00:00+09:00'
 draft: true
-tags: []
+tags:
+  - data
+  - BEMANI
 ---
 
 ## [Download DDR custom step](https://danmaq.com/filez/orgstep.zip) (\[filesize\] [https://danmaq.com/filez/orgstep.zip\[/filesize](https://danmaq.com/filez/orgstep.zip[/filesize) \])

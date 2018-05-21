@@ -5,6 +5,7 @@ date: "1999-11-01T00:00:00+09:00"
 draft: true
 tags:
   - musics
+  - BEMANI
   - MIDI
 ---
 

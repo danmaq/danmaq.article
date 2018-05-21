@@ -3,7 +3,8 @@ title: TA get !!
 post_id: 2965
 date: '2000-03-20T18:12:00+09:00'
 draft: true
-tags: []
+tags:
+  - diary
 ---
 
 Now you can net from Jitaku !! Wow the next version upgrade notice is [Mk - IIK](https://danmaq.com/mk-iik) and [Km - IIK](https://danmaq.com/km-iik) . This time we release [the format](https://danmaq.com/filez/app/kmanibms.txt) of [extended MSD for 6](https://danmaq.com/filez/app/MSD2K.txt) [panels and expanded BMS for 24 key](https://danmaq.com/filez/app/kmanibms.txt) ! If you have any conflicting reserved words, opinions etc. please email ♪

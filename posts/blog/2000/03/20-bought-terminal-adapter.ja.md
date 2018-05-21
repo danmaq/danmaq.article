@@ -3,7 +3,8 @@ title: "TAゲット!!"
 post_id: 2965
 date: "2000-03-20T18:12:00+09:00"
 draft: true
-tags: []
+tags:
+  - diary
 ---
 
 
