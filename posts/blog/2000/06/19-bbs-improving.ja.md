@@ -3,7 +3,8 @@ title: "「いつまで未完成で放っておくんだ」とか言われそう
 post_id: 2976
 date: "2000-06-19T02:02:22+09:00"
 draft: true
-tags: []
+tags:
+  - diary
 ---
 
 

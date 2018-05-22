@@ -3,7 +3,9 @@ title: '[BMS] ALERT'
 post_id: 2989
 date: '2000-12-01T00:00:00+09:00'
 draft: true
-tags: []
+tags:
+  - musics
+  - BMS
 ---
 
 ## [Listen to](https://danmaq.com/filez/music/alert.mp3) " [ALERT"](https://danmaq.com/filez/music/alert.mp3) (1: 26 | \[filesize\] [https://danmaq.com/filez/music/alert.mp3\[/filesize](https://danmaq.com/filez/music/alert.mp3[/filesize) \])

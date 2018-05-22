@@ -3,7 +3,10 @@ title: DDR
 post_id: 2980
 date: '2000-07-11T21:05:44+09:00'
 draft: true
-tags: []
+tags:
+  - diary
+  - events
+  - BEMANI
 ---
 
 Saitama is a toko named "Playland Carnival" in Kamifukuoka, trying to play Free for 3 hours at 1500 yen for DDR 3rd + with Higashi. ... ... I fell down.

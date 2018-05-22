@@ -3,7 +3,8 @@ title: Test
 post_id: 2991
 date: '2001-01-06T00:00:00+09:00'
 draft: true
-tags: []
+tags: 
+  - diary
 ---
 
 Nobody will come ...... I will come here because I got a link to the top?

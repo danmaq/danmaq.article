@@ -3,7 +3,9 @@ title: '[MIDI] REAL TEN'
 post_id: 2984
 date: '2000-08-01T00:00:00+09:00'
 draft: true
-tags: []
+tags:
+  - musics
+  - MIDI
 ---
 
 ## [Listen to](https://danmaq.com/filez/music/realten.mid) " [REAL TEN" with MIDI (XG)](https://danmaq.com/filez/music/realten.mid) (1:23 | \[filesize\] [https://danmaq.com/filez/music/realten.mid\[/filesize](https://danmaq.com/filez/music/realten.mid[/filesize) \])

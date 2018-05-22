@@ -3,7 +3,9 @@ title: (2000-2002) World's fastest No. 1 Ver.1
 post_id: 2985
 date: '2000-09-27T00:00:00+09:00'
 draft: true
-tags: []
+tags:
+  - goods
+  - PC
 ---
 
 I tried my original PC for the first time. It fairly went well, then after a while I was drawn into devoting PC self-made. Incidentally the origin of the name is named after the emblem of the PC case that I bought second hand. The performance is nearly four times that of the [predecessor](https://danmaq.com/brezza5100cx) . Although WindowsMe which was quite clear was moving crisply and crisply, Windows XP seemed to be considerably heavy in this environment in a fossil way and to make remarkable remodeling. After that, some parts were absorbed by [Ver.2](https://danmaq.com/Homebuilt-2) and left untreated, when it [rolls on the second machine](https://danmaq.com/Homebuilt-3) , it is further absorbed and the remaining parts are sold. I feel I did not go for 1000 yen.
