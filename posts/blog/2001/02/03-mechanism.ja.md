@@ -2,8 +2,9 @@
 title: "[BMS] mechanism"
 post_id: 2994
 date: "2001-02-03T14:43:32+09:00"
-draft: true
-tags: []
+tags:
+  - musics
+  - BMS
 ---
 
 

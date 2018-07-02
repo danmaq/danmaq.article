@@ -3,7 +3,8 @@ title: "Hi-macho - EZweb向け出会い掲示板システム"
 post_id: 2996
 date: "2001-03-01T00:00:00+09:00"
 draft: true
-tags: []
+tags:
+  - webapp
 ---
 
 

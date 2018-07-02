@@ -3,7 +3,9 @@ title: "[3D] DDRフットパネル"
 post_id: 2995
 date: "2001-02-07T00:00:00+09:00"
 draft: true
-tags: []
+tags:
+  - illustrations
+  - 3DCG
 ---
 
 
